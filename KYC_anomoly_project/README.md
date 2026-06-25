@@ -1,0 +1,190 @@
+# KYC Cross-Border Financial-Flow Anomaly Monitoring Project
+
+A Python project for monitoring international cross-border financial flows for KYC / AML review using three complementary detection approaches:
+
+1. **Baseline analysis** — compares each entity/corridor against historical and peer-group baselines using robust statistics.
+2. **Rolling-window outlier detection** — flags unusual transaction amounts or volumes relative to recent behavior.
+3. **Time-based change detection** — identifies sudden changes in activity over daily, weekly, and monthly periods.
+
+The project is designed as an analyst-friendly starting point. It uses transparent scoring, reason codes, and CSV/Markdown outputs so the results can be reviewed by compliance, financial-crime, risk, or policy teams.
+
+> This is a decision-support and monitoring prototype. It does not replace legal, regulatory, sanctions, AML, or compliance review by qualified professionals.
+
+---
+
+## Project Structure
+
+```text
+kyc_anomaly_monitoring_project/
+├── configs/
+│   └── sample_config.json
+├── data/
+│   └── sample_flows.csv
+├── examples/
+│   └── run_sample.py
+├── output/
+│   ├── anomaly_scores.csv
+│   ├── alerts.csv
+│   └── kyc_anomaly_report.md
+├── src/
+│   └── kyc_anomaly_monitoring/
+│       ├── cli.py
+│       ├── config.py
+│       ├── data_io.py
+│       ├── features.py
+│       ├── reporting.py
+│       ├── scoring.py
+│       └── detectors/
+│           ├── baseline.py
+│           ├── rolling.py
+│           └── time_change.py
+└── tests/
+    └── test_pipeline.py
+```
+
+---
+
+## Input Data
+
+The expected transaction-level input is a CSV with these columns:
+
+| Column | Description |
+|---|---|
+| `transaction_id` | Unique transaction identifier |
+| `transaction_date` | Date of transaction, YYYY-MM-DD |
+| `sender_id` | Pseudonymized customer or account identifier |
+| `receiver_id` | Pseudonymized receiver/counterparty identifier |
+| `origin_country` | Sending country code |
+| `destination_country` | Receiving country code |
+| `sender_bank` | Sending bank or institution |
+| `receiver_bank` | Receiving bank or institution |
+| `currency` | Transaction currency |
+| `amount_usd` | USD-equivalent transaction amount |
+| `transaction_type` | Wire, ACH, card settlement, remittance, trade finance, etc. |
+| `customer_segment` | Retail, SME, corporate, NBFI, etc. |
+| `purpose_code` | Business purpose or payment-purpose code |
+| `risk_rating` | Low, Medium, High, Critical |
+
+The sample data contains synthetic transactions only.
+
+---
+
+## Quick Start
+
+From the project root:
+
+```bash
+python -m pip install -r requirements.txt
+python examples/run_sample.py
+```
+
+To install the package locally and run the CLI directly:
+
+```bash
+python -m pip install -e .
+python -m kyc_anomaly_monitoring.cli --config configs/sample_config.json
+```
+
+The model writes:
+
+```text
+output/anomaly_scores.csv
+output/alerts.csv
+output/kyc_anomaly_report.md
+```
+
+---
+
+## Detection Logic
+
+### 1. Baseline Analysis
+
+The baseline detector calculates robust historical norms for each `sender_id`, `corridor`, and `customer_segment`:
+
+- Median transaction value
+- Median absolute deviation, or MAD
+- Peer-group baseline by segment and corridor
+- Robust z-score based on deviation from median
+
+This helps identify transactions that are unusual compared with the customer's own history or with comparable customers.
+
+### 2. Rolling-Window Outlier Detection
+
+The rolling detector compares each transaction with recent activity for the same sender and corridor:
+
+- Rolling median amount
+- Rolling transaction count
+- Rolling total transaction amount
+- Rolling robust z-score
+- Ratio to recent median
+
+This is useful for detecting short-term spikes, sudden bursts of transactions, or unusual payment amounts.
+
+### 3. Time-Based Change Detection
+
+The change detector aggregates transactions by day, week, and month, then compares current activity with prior periods:
+
+- Day-over-day change
+- Week-over-week change
+- Month-over-month change
+- Change in transaction count
+- Change in total value
+
+This is useful for identifying sudden behavioral shifts that may not be visible from a single transaction alone.
+
+---
+
+## Scoring Output
+
+Each transaction receives:
+
+| Output Field | Meaning |
+|---|---|
+| `baseline_score` | Unusualness versus historical and peer baseline |
+| `rolling_score` | Unusualness versus recent rolling activity |
+| `change_score` | Contribution from sudden time-based changes |
+| `risk_context_score` | Additional score based on known risk context |
+| `anomaly_score` | Weighted final score, scaled 0–100 |
+| `severity` | Low, Medium, High, Critical |
+| `reason_codes` | Plain-English explanation of triggered indicators |
+| `recommended_action` | Suggested review action |
+
+---
+
+## Configuration
+
+Edit `configs/sample_config.json` to change thresholds and weights.
+
+Example:
+
+```json
+{
+  "thresholds": {
+    "alert_score": 60,
+    "high_score": 75,
+    "critical_score": 90,
+    "robust_z_alert": 3.5,
+    "rolling_ratio_alert": 4.0,
+    "period_change_alert": 2.5
+  },
+  "weights": {
+    "baseline": 0.35,
+    "rolling": 0.30,
+    "time_change": 0.20,
+    "risk_context": 0.15
+  }
+}
+```
+
+---
+
+## Extending the Project
+
+Possible extensions:
+
+- Add sanctions, politically exposed person, adverse media, or watchlist enrichment.
+- Add country-risk or corridor-risk scoring.
+- Add network-analysis indicators such as circular flow, hub-and-spoke patterns, or nested counterparties.
+- Add supervised labels if prior suspicious-activity review outcomes are available.
+- Connect outputs to a case-management or ticketing workflow.
+

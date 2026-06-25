@@ -1,0 +1,28 @@
+{
+  "input_csv": "data/sample_flows.csv",
+  "output_dir": "output",
+  "date_column": "transaction_date",
+  "entity_column": "sender_id",
+  "amount_column": "amount_usd",
+  "corridor_columns": ["origin_country", "destination_country"],
+  "peer_group_columns": ["customer_segment", "origin_country", "destination_country"],
+  "rolling_window_days": 30,
+  "min_history": 5,
+  "high_risk_countries": ["IRN", "PRK", "SYR"],
+  "elevated_risk_countries": ["RUS", "BLR", "MMR"],
+  "thresholds": {
+    "alert_score": 60,
+    "high_score": 75,
+    "critical_score": 90,
+    "robust_z_alert": 3.5,
+    "rolling_ratio_alert": 4.0,
+    "period_change_alert": 2.5,
+    "high_value_amount": 250000
+  },
+  "weights": {
+    "baseline": 0.35,
+    "rolling": 0.30,
+    "time_change": 0.20,
+    "risk_context": 0.15
+  }
+}

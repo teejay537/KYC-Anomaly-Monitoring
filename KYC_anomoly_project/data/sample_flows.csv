@@ -1,0 +1,1426 @@
+transaction_id,transaction_date,sender_id,receiver_id,origin_country,destination_country,sender_bank,receiver_bank,currency,amount_usd,transaction_type,customer_segment,purpose_code,risk_rating
+TXN000001,2025-01-01,CUST_A102,RCV_B206,USA,ARE,Continental Finance,Continental Finance,USD,27883.44,ACH,SME,Capital Goods,Low
+TXN000002,2025-01-01,CUST_A102,RCV_B201,GBR,USA,Harbor Bank,Harbor Bank,USD,8852.19,ACH,SME,Family Support,Low
+TXN000003,2025-01-01,CUST_A101,RCV_B205,USA,ARE,Mercury Trust,Mercury Trust,USD,156714.3,Trade Finance,Corporate,Family Support,Medium
+TXN000004,2025-01-01,CUST_A105,RCV_B205,USA,DEU,Mercury Trust,Atlantic Bank,USD,107210.77,Remittance,Corporate,Invoice Payment,Medium
+TXN000005,2025-01-01,CUST_A105,RCV_B205,USA,RUS,Continental Finance,Mercury Trust,USD,63975.38,ACH,Corporate,Intercompany Transfer,Medium
+TXN000006,2025-01-01,CUST_A103,RCV_B201,USA,ZAF,Mercury Trust,Atlantic Bank,USD,223279.98,Remittance,NBFI,Capital Goods,High
+TXN000007,2025-01-01,CUST_A102,RCV_B202,GBR,USA,Continental Finance,Atlantic Bank,USD,22574.93,Trade Finance,SME,Family Support,Low
+TXN000008,2025-01-01,CUST_A105,RCV_B201,USA,DEU,Mercury Trust,Harbor Bank,USD,55478.54,Trade Finance,Corporate,Services,Medium
+TXN000009,2025-01-01,CUST_A106,RCV_B202,USA,DEU,Continental Finance,Harbor Bank,USD,16962.89,Wire,SME,Intercompany Transfer,Medium
+TXN000010,2025-01-01,CUST_A101,RCV_B205,USA,ARE,Mercury Trust,Continental Finance,USD,113208.94,ACH,Corporate,Family Support,Medium
+TXN000011,2025-01-02,CUST_A101,RCV_B204,USA,ARE,Mercury Trust,Mercury Trust,USD,66037.84,ACH,Corporate,Intercompany Transfer,Medium
+TXN000012,2025-01-02,CUST_A102,RCV_B202,USA,ZAF,Atlantic Bank,Atlantic Bank,USD,7436.67,Trade Finance,SME,Invoice Payment,Low
+TXN000013,2025-01-02,CUST_A106,RCV_B202,USA,RUS,Mercury Trust,Atlantic Bank,USD,21929.16,Remittance,SME,Capital Goods,Medium
+TXN000014,2025-01-02,CUST_A105,RCV_B206,GBR,USA,Mercury Trust,Harbor Bank,USD,67483.7,ACH,Corporate,Invoice Payment,Medium
+TXN000015,2025-01-02,CUST_A103,RCV_B201,USA,GBR,Atlantic Bank,Continental Finance,USD,62164.24,ACH,NBFI,Family Support,High
+TXN000016,2025-01-02,CUST_A101,RCV_B206,GBR,USA,Mercury Trust,Continental Finance,USD,104213.04,ACH,Corporate,Capital Goods,Medium
+TXN000017,2025-01-02,CUST_A101,RCV_B203,USA,DEU,Mercury Trust,Continental Finance,USD,76568.18,ACH,Corporate,Intercompany Transfer,Medium
+TXN000018,2025-01-02,CUST_A101,RCV_B203,USA,GBR,Mercury Trust,Harbor Bank,USD,46225.93,ACH,Corporate,Family Support,Medium
+TXN000019,2025-01-02,CUST_A103,RCV_B202,USA,ARE,Harbor Bank,Mercury Trust,USD,98646.88,Remittance,NBFI,Family Support,High
+TXN000020,2025-01-03,CUST_A103,RCV_B203,USA,RUS,Mercury Trust,Continental Finance,USD,124856.24,Remittance,NBFI,Capital Goods,High
+TXN000021,2025-01-03,CUST_A102,RCV_B204,USA,GBR,Continental Finance,Continental Finance,USD,13149.77,Wire,SME,Family Support,Low
+TXN000022,2025-01-03,CUST_A103,RCV_B205,USA,GBR,Atlantic Bank,Mercury Trust,USD,253419.17,Remittance,NBFI,Invoice Payment,High
+TXN000023,2025-01-03,CUST_A105,RCV_B201,USA,DEU,Continental Finance,Mercury Trust,USD,56270.1,Trade Finance,Corporate,Intercompany Transfer,Medium
+TXN000024,2025-01-03,CUST_A104,RCV_B203,USA,ZAF,Mercury Trust,Atlantic Bank,USD,2836.24,Wire,Retail,Intercompany Transfer,Low
+TXN000025,2025-01-03,CUST_A103,RCV_B203,USA,ZAF,Harbor Bank,Mercury Trust,USD,190273.28,ACH,NBFI,Family Support,High
+TXN000026,2025-01-03,CUST_A103,RCV_B203,USA,RUS,Continental Finance,Mercury Trust,USD,69633.5,Trade Finance,NBFI,Services,High
+TXN000027,2025-01-04,CUST_A102,RCV_B204,USA,DEU,Atlantic Bank,Atlantic Bank,USD,11479.71,ACH,SME,Services,Low
+TXN000028,2025-01-04,CUST_A104,RCV_B205,USA,ARE,Mercury Trust,Atlantic Bank,USD,2148.56,Remittance,Retail,Intercompany Transfer,Low
+TXN000029,2025-01-04,CUST_A106,RCV_B202,USA,DEU,Atlantic Bank,Continental Finance,USD,10066.13,ACH,SME,Services,Medium
+TXN000030,2025-01-04,CUST_A105,RCV_B203,USA,ARE,Atlantic Bank,Harbor Bank,USD,48687.23,Remittance,Corporate,Services,Medium
+TXN000031,2025-01-04,CUST_A104,RCV_B204,USA,RUS,Mercury Trust,Atlantic Bank,USD,1395.17,Wire,Retail,Capital Goods,Low
+TXN000032,2025-01-04,CUST_A101,RCV_B202,USA,ZAF,Atlantic Bank,Harbor Bank,USD,39613.14,Wire,Corporate,Family Support,Medium
+TXN000033,2025-01-05,CUST_A101,RCV_B201,USA,GBR,Harbor Bank,Continental Finance,USD,72478.58,Wire,Corporate,Services,Medium
+TXN000034,2025-01-05,CUST_A104,RCV_B205,USA,RUS,Mercury Trust,Mercury Trust,USD,4332.34,Trade Finance,Retail,Family Support,Low
+TXN000035,2025-01-05,CUST_A102,RCV_B206,USA,ZAF,Continental Finance,Harbor Bank,USD,13710.43,Wire,SME,Invoice Payment,Low
+TXN000036,2025-01-05,CUST_A102,RCV_B202,USA,GBR,Harbor Bank,Atlantic Bank,USD,21374.88,ACH,SME,Capital Goods,Low
+TXN000037,2025-01-05,CUST_A106,RCV_B205,USA,ARE,Continental Finance,Harbor Bank,USD,9254.1,Trade Finance,SME,Invoice Payment,Medium
+TXN000038,2025-01-05,CUST_A105,RCV_B201,USA,ARE,Mercury Trust,Atlantic Bank,USD,81359.2,Remittance,Corporate,Intercompany Transfer,Medium
+TXN000039,2025-01-05,CUST_A101,RCV_B203,USA,RUS,Mercury Trust,Continental Finance,USD,138870.72,Remittance,Corporate,Services,Medium
+TXN000040,2025-01-05,CUST_A106,RCV_B204,USA,DEU,Mercury Trust,Atlantic Bank,USD,10229.56,Remittance,SME,Capital Goods,Medium
+TXN000041,2025-01-05,CUST_A101,RCV_B204,USA,RUS,Atlantic Bank,Continental Finance,USD,84082.29,ACH,Corporate,Invoice Payment,Medium
+TXN000042,2025-01-05,CUST_A106,RCV_B201,GBR,USA,Continental Finance,Harbor Bank,USD,9381.75,ACH,SME,Capital Goods,Medium
+TXN000043,2025-01-05,CUST_A104,RCV_B205,USA,RUS,Atlantic Bank,Mercury Trust,USD,3882.06,Trade Finance,Retail,Services,Low
+TXN000044,2025-01-06,CUST_A105,RCV_B202,USA,DEU,Harbor Bank,Harbor Bank,USD,43763.26,Trade Finance,Corporate,Invoice Payment,Medium
+TXN000045,2025-01-06,CUST_A106,RCV_B201,USA,ZAF,Continental Finance,Atlantic Bank,USD,18099.89,Trade Finance,SME,Services,Medium
+TXN000046,2025-01-06,CUST_A102,RCV_B206,USA,GBR,Continental Finance,Atlantic Bank,USD,23002.11,Wire,SME,Services,Low
+TXN000047,2025-01-06,CUST_A104,RCV_B201,USA,ZAF,Atlantic Bank,Continental Finance,USD,1754.44,Wire,Retail,Invoice Payment,Low
+TXN000048,2025-01-06,CUST_A102,RCV_B205,USA,GBR,Continental Finance,Continental Finance,USD,19441.24,Trade Finance,SME,Services,Low
+TXN000049,2025-01-06,CUST_A105,RCV_B202,USA,RUS,Continental Finance,Harbor Bank,USD,80003.71,Trade Finance,Corporate,Capital Goods,Medium
+TXN000050,2025-01-06,CUST_A101,RCV_B203,USA,DEU,Atlantic Bank,Atlantic Bank,USD,376069.05,Remittance,Corporate,Capital Goods,Medium
+TXN000051,2025-01-06,CUST_A106,RCV_B203,USA,DEU,Atlantic Bank,Atlantic Bank,USD,8135.39,Trade Finance,SME,Invoice Payment,Medium
+TXN000052,2025-01-06,CUST_A101,RCV_B203,USA,RUS,Harbor Bank,Harbor Bank,USD,30646.07,Trade Finance,Corporate,Intercompany Transfer,Medium
+TXN000053,2025-01-06,CUST_A102,RCV_B206,USA,DEU,Harbor Bank,Continental Finance,USD,17341.36,Remittance,SME,Family Support,Low
+TXN000054,2025-01-06,CUST_A105,RCV_B205,USA,GBR,Mercury Trust,Continental Finance,USD,69646.96,Trade Finance,Corporate,Intercompany Transfer,Medium
+TXN000055,2025-01-07,CUST_A103,RCV_B203,GBR,USA,Mercury Trust,Mercury Trust,USD,100163.4,ACH,NBFI,Invoice Payment,High
+TXN000056,2025-01-07,CUST_A105,RCV_B202,USA,DEU,Continental Finance,Harbor Bank,USD,163538.95,Trade Finance,Corporate,Capital Goods,Medium
+TXN000057,2025-01-07,CUST_A105,RCV_B202,USA,ZAF,Continental Finance,Mercury Trust,USD,208761.12,Remittance,Corporate,Services,Medium
+TXN000058,2025-01-07,CUST_A105,RCV_B204,GBR,USA,Atlantic Bank,Mercury Trust,USD,82982.26,Wire,Corporate,Family Support,Medium
+TXN000059,2025-01-07,CUST_A101,RCV_B202,GBR,USA,Continental Finance,Harbor Bank,USD,72036.18,Remittance,Corporate,Family Support,Medium
+TXN000060,2025-01-07,CUST_A101,RCV_B204,USA,ARE,Continental Finance,Harbor Bank,USD,119576.07,Remittance,Corporate,Invoice Payment,Medium
+TXN000061,2025-01-07,CUST_A106,RCV_B206,USA,DEU,Harbor Bank,Mercury Trust,USD,34440.25,Trade Finance,SME,Intercompany Transfer,Medium
+TXN000062,2025-01-08,CUST_A105,RCV_B205,GBR,USA,Harbor Bank,Harbor Bank,USD,83233.1,Remittance,Corporate,Capital Goods,Medium
+TXN000063,2025-01-08,CUST_A102,RCV_B204,USA,GBR,Harbor Bank,Harbor Bank,USD,20760.43,Wire,SME,Family Support,Low
+TXN000064,2025-01-08,CUST_A101,RCV_B203,GBR,USA,Harbor Bank,Harbor Bank,USD,127440.28,Wire,Corporate,Family Support,Medium
+TXN000065,2025-01-08,CUST_A105,RCV_B203,USA,ARE,Harbor Bank,Continental Finance,USD,91007.97,ACH,Corporate,Family Support,Medium
+TXN000066,2025-01-08,CUST_A103,RCV_B204,USA,DEU,Harbor Bank,Atlantic Bank,USD,110344.18,Wire,NBFI,Intercompany Transfer,High
+TXN000067,2025-01-08,CUST_A104,RCV_B203,USA,ARE,Mercury Trust,Atlantic Bank,USD,4517.45,Remittance,Retail,Intercompany Transfer,Low
+TXN000068,2025-01-08,CUST_A106,RCV_B203,USA,ARE,Atlantic Bank,Mercury Trust,USD,23866.17,Remittance,SME,Intercompany Transfer,Medium
+TXN000069,2025-01-08,CUST_A101,RCV_B205,USA,RUS,Harbor Bank,Mercury Trust,USD,108504.4,Trade Finance,Corporate,Intercompany Transfer,Medium
+TXN000070,2025-01-09,CUST_A104,RCV_B205,USA,ARE,Harbor Bank,Mercury Trust,USD,1004.75,ACH,Retail,Capital Goods,Low
+TXN000071,2025-01-09,CUST_A101,RCV_B202,GBR,USA,Harbor Bank,Continental Finance,USD,93128.24,Wire,Corporate,Services,Medium
+TXN000072,2025-01-09,CUST_A106,RCV_B201,USA,RUS,Harbor Bank,Harbor Bank,USD,11571.83,Wire,SME,Invoice Payment,Medium
+TXN000073,2025-01-09,CUST_A104,RCV_B206,USA,GBR,Continental Finance,Continental Finance,USD,2158.0,Wire,Retail,Family Support,Low
+TXN000074,2025-01-10,CUST_A106,RCV_B201,USA,RUS,Harbor Bank,Atlantic Bank,USD,19979.21,Wire,SME,Invoice Payment,Medium
+TXN000075,2025-01-10,CUST_A101,RCV_B201,USA,ARE,Continental Finance,Harbor Bank,USD,39211.37,Wire,Corporate,Services,Medium
+TXN000076,2025-01-10,CUST_A106,RCV_B202,USA,GBR,Harbor Bank,Harbor Bank,USD,22651.79,Wire,SME,Family Support,Medium
+TXN000077,2025-01-10,CUST_A106,RCV_B205,USA,ARE,Harbor Bank,Atlantic Bank,USD,14440.32,Wire,SME,Family Support,Medium
+TXN000078,2025-01-11,CUST_A104,RCV_B201,GBR,USA,Atlantic Bank,Harbor Bank,USD,2596.67,ACH,Retail,Family Support,Low
+TXN000079,2025-01-11,CUST_A103,RCV_B202,USA,ZAF,Atlantic Bank,Mercury Trust,USD,89464.92,Trade Finance,NBFI,Capital Goods,High
+TXN000080,2025-01-11,CUST_A103,RCV_B204,USA,ARE,Harbor Bank,Continental Finance,USD,108137.91,ACH,NBFI,Invoice Payment,High
+TXN000081,2025-01-11,CUST_A102,RCV_B206,GBR,USA,Mercury Trust,Continental Finance,USD,6657.73,Remittance,SME,Services,Low
+TXN000082,2025-01-11,CUST_A104,RCV_B203,USA,RUS,Mercury Trust,Continental Finance,USD,2469.47,Remittance,Retail,Capital Goods,Low
+TXN000083,2025-01-11,CUST_A106,RCV_B203,USA,GBR,Atlantic Bank,Harbor Bank,USD,15583.46,ACH,SME,Invoice Payment,Medium
+TXN000084,2025-01-11,CUST_A102,RCV_B204,USA,ZAF,Mercury Trust,Continental Finance,USD,18015.62,Trade Finance,SME,Capital Goods,Low
+TXN000085,2025-01-11,CUST_A101,RCV_B203,USA,RUS,Atlantic Bank,Continental Finance,USD,25581.92,ACH,Corporate,Intercompany Transfer,Medium
+TXN000086,2025-01-11,CUST_A101,RCV_B202,USA,ZAF,Atlantic Bank,Atlantic Bank,USD,232177.87,Wire,Corporate,Capital Goods,Medium
+TXN000087,2025-01-11,CUST_A103,RCV_B204,GBR,USA,Continental Finance,Continental Finance,USD,102626.03,Remittance,NBFI,Family Support,High
+TXN000088,2025-01-12,CUST_A102,RCV_B201,USA,GBR,Harbor Bank,Atlantic Bank,USD,27247.4,Wire,SME,Services,Low
+TXN000089,2025-01-12,CUST_A104,RCV_B203,USA,ZAF,Atlantic Bank,Atlantic Bank,USD,3345.77,Remittance,Retail,Intercompany Transfer,Low
+TXN000090,2025-01-12,CUST_A101,RCV_B203,USA,ARE,Mercury Trust,Mercury Trust,USD,35154.17,Remittance,Corporate,Invoice Payment,Medium
+TXN000091,2025-01-12,CUST_A102,RCV_B204,USA,ARE,Atlantic Bank,Continental Finance,USD,2937.5,Trade Finance,SME,Invoice Payment,Low
+TXN000092,2025-01-12,CUST_A106,RCV_B203,USA,ARE,Harbor Bank,Continental Finance,USD,11026.32,Wire,SME,Family Support,Medium
+TXN000093,2025-01-12,CUST_A105,RCV_B203,USA,RUS,Continental Finance,Continental Finance,USD,76299.87,Wire,Corporate,Family Support,Medium
+TXN000094,2025-01-12,CUST_A104,RCV_B203,USA,GBR,Mercury Trust,Harbor Bank,USD,1369.63,Trade Finance,Retail,Intercompany Transfer,Low
+TXN000095,2025-01-12,CUST_A106,RCV_B204,USA,DEU,Harbor Bank,Continental Finance,USD,31272.26,Wire,SME,Capital Goods,Medium
+TXN000096,2025-01-12,CUST_A103,RCV_B206,USA,ZAF,Harbor Bank,Harbor Bank,USD,267138.38,Wire,NBFI,Capital Goods,High
+TXN000097,2025-01-12,CUST_A103,RCV_B203,USA,RUS,Atlantic Bank,Atlantic Bank,USD,71512.67,Trade Finance,NBFI,Intercompany Transfer,High
+TXN000098,2025-01-12,CUST_A101,RCV_B204,USA,DEU,Atlantic Bank,Mercury Trust,USD,113594.56,Trade Finance,Corporate,Capital Goods,Medium
+TXN000099,2025-01-12,CUST_A105,RCV_B203,USA,GBR,Atlantic Bank,Harbor Bank,USD,31641.49,Trade Finance,Corporate,Intercompany Transfer,Medium
+TXN000100,2025-01-12,CUST_A104,RCV_B204,GBR,USA,Harbor Bank,Harbor Bank,USD,1739.83,Remittance,Retail,Invoice Payment,Low
+TXN000101,2025-01-12,CUST_A105,RCV_B203,USA,ARE,Continental Finance,Harbor Bank,USD,115179.63,Trade Finance,Corporate,Services,Medium
+TXN000102,2025-01-12,CUST_A103,RCV_B204,USA,ARE,Mercury Trust,Continental Finance,USD,367521.59,ACH,NBFI,Intercompany Transfer,High
+TXN000103,2025-01-13,CUST_A101,RCV_B203,USA,DEU,Atlantic Bank,Continental Finance,USD,73275.04,Trade Finance,Corporate,Family Support,Medium
+TXN000104,2025-01-13,CUST_A103,RCV_B203,USA,DEU,Continental Finance,Atlantic Bank,USD,54110.15,ACH,NBFI,Services,High
+TXN000105,2025-01-13,CUST_A102,RCV_B205,GBR,USA,Continental Finance,Harbor Bank,USD,6738.91,Remittance,SME,Intercompany Transfer,Low
+TXN000106,2025-01-13,CUST_A103,RCV_B206,USA,ARE,Continental Finance,Continental Finance,USD,146553.66,ACH,NBFI,Intercompany Transfer,High
+TXN000107,2025-01-13,CUST_A104,RCV_B205,USA,ZAF,Harbor Bank,Continental Finance,USD,2962.59,Remittance,Retail,Intercompany Transfer,Low
+TXN000108,2025-01-13,CUST_A103,RCV_B204,GBR,USA,Mercury Trust,Harbor Bank,USD,136590.63,Wire,NBFI,Intercompany Transfer,High
+TXN000109,2025-01-13,CUST_A101,RCV_B202,USA,ARE,Continental Finance,Mercury Trust,USD,32251.32,Wire,Corporate,Capital Goods,Medium
+TXN000110,2025-01-13,CUST_A105,RCV_B206,USA,ZAF,Harbor Bank,Mercury Trust,USD,125080.48,ACH,Corporate,Intercompany Transfer,Medium
+TXN000111,2025-01-13,CUST_A102,RCV_B203,USA,GBR,Harbor Bank,Atlantic Bank,USD,30234.88,Remittance,SME,Capital Goods,Low
+TXN000112,2025-01-14,CUST_A105,RCV_B206,USA,ARE,Continental Finance,Harbor Bank,USD,36560.66,Wire,Corporate,Intercompany Transfer,Medium
+TXN000113,2025-01-14,CUST_A105,RCV_B205,USA,ZAF,Harbor Bank,Harbor Bank,USD,91371.27,Wire,Corporate,Invoice Payment,Medium
+TXN000114,2025-01-14,CUST_A104,RCV_B202,USA,RUS,Harbor Bank,Continental Finance,USD,2035.63,ACH,Retail,Family Support,Low
+TXN000115,2025-01-14,CUST_A104,RCV_B201,USA,ARE,Mercury Trust,Continental Finance,USD,1594.8,Remittance,Retail,Services,Low
+TXN000116,2025-01-14,CUST_A102,RCV_B203,USA,RUS,Harbor Bank,Harbor Bank,USD,36381.69,Trade Finance,SME,Services,Low
+TXN000117,2025-01-15,CUST_A103,RCV_B205,USA,ZAF,Harbor Bank,Continental Finance,USD,371098.86,ACH,NBFI,Family Support,High
+TXN000118,2025-01-15,CUST_A103,RCV_B204,USA,GBR,Atlantic Bank,Harbor Bank,USD,168322.7,Trade Finance,NBFI,Family Support,High
+TXN000119,2025-01-15,CUST_A105,RCV_B204,USA,GBR,Mercury Trust,Atlantic Bank,USD,64539.11,ACH,Corporate,Services,Medium
+TXN000120,2025-01-15,CUST_A101,RCV_B201,USA,ZAF,Mercury Trust,Atlantic Bank,USD,43596.17,Remittance,Corporate,Invoice Payment,Medium
+TXN000121,2025-01-15,CUST_A102,RCV_B203,USA,RUS,Continental Finance,Mercury Trust,USD,29222.4,ACH,SME,Intercompany Transfer,Low
+TXN000122,2025-01-15,CUST_A106,RCV_B206,USA,ARE,Harbor Bank,Mercury Trust,USD,9131.39,ACH,SME,Intercompany Transfer,Medium
+TXN000123,2025-01-16,CUST_A102,RCV_B201,USA,ZAF,Harbor Bank,Atlantic Bank,USD,18538.63,Remittance,SME,Services,Low
+TXN000124,2025-01-16,CUST_A105,RCV_B204,USA,ARE,Harbor Bank,Mercury Trust,USD,125367.99,Trade Finance,Corporate,Intercompany Transfer,Medium
+TXN000125,2025-01-16,CUST_A104,RCV_B205,USA,DEU,Harbor Bank,Mercury Trust,USD,1518.44,Trade Finance,Retail,Capital Goods,Low
+TXN000126,2025-01-16,CUST_A102,RCV_B202,GBR,USA,Mercury Trust,Continental Finance,USD,34197.62,ACH,SME,Intercompany Transfer,Low
+TXN000127,2025-01-16,CUST_A105,RCV_B204,USA,RUS,Mercury Trust,Harbor Bank,USD,135051.49,Trade Finance,Corporate,Family Support,Medium
+TXN000128,2025-01-16,CUST_A101,RCV_B202,USA,GBR,Continental Finance,Atlantic Bank,USD,22327.76,Trade Finance,Corporate,Capital Goods,Medium
+TXN000129,2025-01-16,CUST_A102,RCV_B204,USA,ARE,Mercury Trust,Harbor Bank,USD,13108.58,Wire,SME,Family Support,Low
+TXN000130,2025-01-16,CUST_A103,RCV_B205,USA,GBR,Mercury Trust,Atlantic Bank,USD,70155.51,Trade Finance,NBFI,Services,High
+TXN000131,2025-01-16,CUST_A103,RCV_B203,USA,DEU,Mercury Trust,Mercury Trust,USD,119102.68,Wire,NBFI,Capital Goods,High
+TXN000132,2025-01-17,CUST_A106,RCV_B201,USA,DEU,Continental Finance,Harbor Bank,USD,21872.11,ACH,SME,Intercompany Transfer,Medium
+TXN000133,2025-01-17,CUST_A104,RCV_B202,USA,DEU,Mercury Trust,Harbor Bank,USD,570.49,ACH,Retail,Intercompany Transfer,Low
+TXN000134,2025-01-18,CUST_A105,RCV_B204,USA,GBR,Atlantic Bank,Harbor Bank,USD,72154.35,Wire,Corporate,Invoice Payment,Medium
+TXN000135,2025-01-18,CUST_A106,RCV_B202,USA,ARE,Atlantic Bank,Continental Finance,USD,6154.11,Remittance,SME,Capital Goods,Medium
+TXN000136,2025-01-18,CUST_A102,RCV_B201,GBR,USA,Continental Finance,Harbor Bank,USD,8556.64,ACH,SME,Invoice Payment,Low
+TXN000137,2025-01-18,CUST_A102,RCV_B206,GBR,USA,Continental Finance,Harbor Bank,USD,19925.77,Trade Finance,SME,Intercompany Transfer,Low
+TXN000138,2025-01-18,CUST_A106,RCV_B202,USA,DEU,Continental Finance,Mercury Trust,USD,12723.55,Trade Finance,SME,Family Support,Medium
+TXN000139,2025-01-18,CUST_A106,RCV_B206,USA,GBR,Mercury Trust,Atlantic Bank,USD,9039.31,ACH,SME,Capital Goods,Medium
+TXN000140,2025-01-19,CUST_A105,RCV_B205,USA,ZAF,Continental Finance,Atlantic Bank,USD,83765.25,Remittance,Corporate,Family Support,Medium
+TXN000141,2025-01-19,CUST_A106,RCV_B205,USA,DEU,Continental Finance,Atlantic Bank,USD,31677.97,Trade Finance,SME,Invoice Payment,Medium
+TXN000142,2025-01-19,CUST_A104,RCV_B202,USA,GBR,Continental Finance,Continental Finance,USD,2235.99,Wire,Retail,Invoice Payment,Low
+TXN000143,2025-01-19,CUST_A105,RCV_B204,USA,GBR,Harbor Bank,Harbor Bank,USD,77778.75,Wire,Corporate,Capital Goods,Medium
+TXN000144,2025-01-19,CUST_A106,RCV_B204,GBR,USA,Continental Finance,Harbor Bank,USD,15094.72,Wire,SME,Intercompany Transfer,Medium
+TXN000145,2025-01-20,CUST_A101,RCV_B204,USA,GBR,Atlantic Bank,Harbor Bank,USD,140644.71,ACH,Corporate,Family Support,Medium
+TXN000146,2025-01-20,CUST_A104,RCV_B202,GBR,USA,Harbor Bank,Continental Finance,USD,2417.37,Remittance,Retail,Family Support,Low
+TXN000147,2025-01-20,CUST_A105,RCV_B204,USA,DEU,Harbor Bank,Atlantic Bank,USD,40354.92,ACH,Corporate,Intercompany Transfer,Medium
+TXN000148,2025-01-20,CUST_A104,RCV_B206,USA,GBR,Mercury Trust,Continental Finance,USD,1455.44,ACH,Retail,Capital Goods,Low
+TXN000149,2025-01-20,CUST_A106,RCV_B201,USA,ARE,Harbor Bank,Atlantic Bank,USD,12024.6,Remittance,SME,Capital Goods,Medium
+TXN000150,2025-01-20,CUST_A101,RCV_B203,USA,RUS,Continental Finance,Atlantic Bank,USD,61395.96,Trade Finance,Corporate,Intercompany Transfer,Medium
+TXN000151,2025-01-20,CUST_A106,RCV_B206,USA,DEU,Atlantic Bank,Harbor Bank,USD,4682.77,Remittance,SME,Family Support,Medium
+TXN000152,2025-01-20,CUST_A106,RCV_B204,USA,ZAF,Atlantic Bank,Continental Finance,USD,14060.43,Remittance,SME,Family Support,Medium
+TXN000153,2025-01-21,CUST_A102,RCV_B206,USA,RUS,Mercury Trust,Harbor Bank,USD,39353.32,Trade Finance,SME,Family Support,Low
+TXN000154,2025-01-21,CUST_A103,RCV_B204,USA,DEU,Continental Finance,Continental Finance,USD,689427.31,ACH,NBFI,Capital Goods,High
+TXN000155,2025-01-21,CUST_A101,RCV_B204,GBR,USA,Harbor Bank,Atlantic Bank,USD,61109.3,Wire,Corporate,Services,Medium
+TXN000156,2025-01-21,CUST_A103,RCV_B203,USA,ZAF,Mercury Trust,Atlantic Bank,USD,120926.58,ACH,NBFI,Family Support,High
+TXN000157,2025-01-21,CUST_A101,RCV_B203,USA,GBR,Harbor Bank,Atlantic Bank,USD,46614.7,Wire,Corporate,Capital Goods,Medium
+TXN000158,2025-01-21,CUST_A105,RCV_B204,USA,RUS,Mercury Trust,Atlantic Bank,USD,54630.82,Trade Finance,Corporate,Invoice Payment,Medium
+TXN000159,2025-01-21,CUST_A103,RCV_B204,USA,GBR,Mercury Trust,Atlantic Bank,USD,116964.3,Wire,NBFI,Invoice Payment,High
+TXN000160,2025-01-21,CUST_A103,RCV_B201,USA,RUS,Continental Finance,Mercury Trust,USD,124231.04,Trade Finance,NBFI,Invoice Payment,High
+TXN000161,2025-01-21,CUST_A102,RCV_B202,USA,GBR,Mercury Trust,Mercury Trust,USD,14170.6,Trade Finance,SME,Family Support,Low
+TXN000162,2025-01-22,CUST_A106,RCV_B205,USA,RUS,Mercury Trust,Continental Finance,USD,9486.6,Remittance,SME,Invoice Payment,Medium
+TXN000163,2025-01-22,CUST_A101,RCV_B202,USA,ZAF,Atlantic Bank,Mercury Trust,USD,142474.55,Remittance,Corporate,Capital Goods,Medium
+TXN000164,2025-01-22,CUST_A105,RCV_B205,USA,DEU,Harbor Bank,Mercury Trust,USD,34378.23,Wire,Corporate,Family Support,Medium
+TXN000165,2025-01-22,CUST_A101,RCV_B205,USA,GBR,Atlantic Bank,Mercury Trust,USD,56815.69,Wire,Corporate,Services,Medium
+TXN000166,2025-01-22,CUST_A106,RCV_B205,USA,GBR,Atlantic Bank,Harbor Bank,USD,15588.07,Remittance,SME,Invoice Payment,Medium
+TXN000167,2025-01-22,CUST_A104,RCV_B203,USA,GBR,Mercury Trust,Harbor Bank,USD,1420.42,Remittance,Retail,Invoice Payment,Low
+TXN000168,2025-01-22,CUST_A106,RCV_B204,USA,RUS,Continental Finance,Continental Finance,USD,8832.56,Remittance,SME,Services,Medium
+TXN000169,2025-01-23,CUST_A103,RCV_B201,USA,DEU,Harbor Bank,Harbor Bank,USD,227786.98,Trade Finance,NBFI,Invoice Payment,High
+TXN000170,2025-01-23,CUST_A101,RCV_B203,GBR,USA,Atlantic Bank,Mercury Trust,USD,42480.76,Trade Finance,Corporate,Invoice Payment,Medium
+TXN000171,2025-01-23,CUST_A103,RCV_B201,USA,GBR,Harbor Bank,Harbor Bank,USD,195392.12,Remittance,NBFI,Invoice Payment,High
+TXN000172,2025-01-23,CUST_A103,RCV_B206,USA,ZAF,Continental Finance,Atlantic Bank,USD,98677.57,Trade Finance,NBFI,Intercompany Transfer,High
+TXN000173,2025-01-23,CUST_A101,RCV_B205,USA,ARE,Continental Finance,Harbor Bank,USD,31004.17,Wire,Corporate,Intercompany Transfer,Medium
+TXN000174,2025-01-23,CUST_A106,RCV_B205,USA,ZAF,Harbor Bank,Mercury Trust,USD,10139.05,Wire,SME,Family Support,Medium
+TXN000175,2025-01-23,CUST_A104,RCV_B204,USA,GBR,Harbor Bank,Harbor Bank,USD,2503.19,Wire,Retail,Services,Low
+TXN000176,2025-01-23,CUST_A106,RCV_B204,USA,ZAF,Harbor Bank,Atlantic Bank,USD,14121.52,Remittance,SME,Intercompany Transfer,Medium
+TXN000177,2025-01-23,CUST_A102,RCV_B202,USA,RUS,Atlantic Bank,Harbor Bank,USD,24939.35,Wire,SME,Capital Goods,Low
+TXN000178,2025-01-23,CUST_A101,RCV_B205,GBR,USA,Atlantic Bank,Harbor Bank,USD,90445.16,Remittance,Corporate,Services,Medium
+TXN000179,2025-01-24,CUST_A106,RCV_B203,USA,DEU,Harbor Bank,Harbor Bank,USD,12700.09,Remittance,SME,Invoice Payment,Medium
+TXN000180,2025-01-24,CUST_A102,RCV_B203,USA,RUS,Continental Finance,Continental Finance,USD,40243.71,ACH,SME,Capital Goods,Low
+TXN000181,2025-01-24,CUST_A106,RCV_B204,USA,GBR,Continental Finance,Continental Finance,USD,16033.79,Trade Finance,SME,Services,Medium
+TXN000182,2025-01-24,CUST_A103,RCV_B202,GBR,USA,Continental Finance,Mercury Trust,USD,80349.34,ACH,NBFI,Capital Goods,High
+TXN000183,2025-01-24,CUST_A102,RCV_B201,USA,ARE,Atlantic Bank,Atlantic Bank,USD,21684.41,Remittance,SME,Family Support,Low
+TXN000184,2025-01-24,CUST_A104,RCV_B202,USA,GBR,Harbor Bank,Atlantic Bank,USD,1014.1,Wire,Retail,Family Support,Low
+TXN000185,2025-01-24,CUST_A106,RCV_B206,USA,ARE,Atlantic Bank,Atlantic Bank,USD,8554.65,Wire,SME,Intercompany Transfer,Medium
+TXN000186,2025-01-24,CUST_A102,RCV_B205,USA,GBR,Mercury Trust,Continental Finance,USD,21091.84,Trade Finance,SME,Intercompany Transfer,Low
+TXN000187,2025-01-24,CUST_A105,RCV_B202,USA,RUS,Continental Finance,Harbor Bank,USD,25094.59,Trade Finance,Corporate,Capital Goods,Medium
+TXN000188,2025-01-24,CUST_A104,RCV_B205,USA,DEU,Atlantic Bank,Mercury Trust,USD,1994.91,Remittance,Retail,Intercompany Transfer,Low
+TXN000189,2025-01-25,CUST_A106,RCV_B204,USA,ARE,Mercury Trust,Harbor Bank,USD,15864.91,ACH,SME,Intercompany Transfer,Medium
+TXN000190,2025-01-25,CUST_A102,RCV_B203,USA,RUS,Mercury Trust,Harbor Bank,USD,20216.06,Trade Finance,SME,Intercompany Transfer,Low
+TXN000191,2025-01-25,CUST_A101,RCV_B205,USA,RUS,Harbor Bank,Atlantic Bank,USD,84972.94,ACH,Corporate,Family Support,Medium
+TXN000192,2025-01-25,CUST_A103,RCV_B205,USA,DEU,Continental Finance,Mercury Trust,USD,130308.55,ACH,NBFI,Services,High
+TXN000193,2025-01-25,CUST_A103,RCV_B204,USA,ZAF,Mercury Trust,Continental Finance,USD,266992.17,Trade Finance,NBFI,Services,High
+TXN000194,2025-01-25,CUST_A106,RCV_B204,USA,DEU,Atlantic Bank,Mercury Trust,USD,14511.07,ACH,SME,Family Support,Medium
+TXN000195,2025-01-25,CUST_A101,RCV_B206,USA,DEU,Atlantic Bank,Continental Finance,USD,71789.59,Wire,Corporate,Invoice Payment,Medium
+TXN000196,2025-01-25,CUST_A103,RCV_B203,USA,RUS,Harbor Bank,Atlantic Bank,USD,72632.24,Wire,NBFI,Capital Goods,High
+TXN000197,2025-01-25,CUST_A103,RCV_B204,USA,RUS,Harbor Bank,Continental Finance,USD,264252.96,Wire,NBFI,Intercompany Transfer,High
+TXN000198,2025-01-26,CUST_A101,RCV_B202,USA,ARE,Atlantic Bank,Harbor Bank,USD,88342.99,Wire,Corporate,Intercompany Transfer,Medium
+TXN000199,2025-01-26,CUST_A101,RCV_B204,USA,GBR,Atlantic Bank,Atlantic Bank,USD,105007.61,Trade Finance,Corporate,Services,Medium
+TXN000200,2025-01-26,CUST_A102,RCV_B202,USA,ZAF,Atlantic Bank,Atlantic Bank,USD,21026.95,ACH,SME,Family Support,Low
+TXN000201,2025-01-26,CUST_A105,RCV_B203,USA,DEU,Harbor Bank,Harbor Bank,USD,37952.26,Trade Finance,Corporate,Intercompany Transfer,Medium
+TXN000202,2025-01-26,CUST_A103,RCV_B203,USA,DEU,Continental Finance,Harbor Bank,USD,271934.38,Wire,NBFI,Capital Goods,High
+TXN000203,2025-01-26,CUST_A102,RCV_B206,USA,DEU,Atlantic Bank,Harbor Bank,USD,15666.02,Wire,SME,Services,Low
+TXN000204,2025-01-26,CUST_A101,RCV_B202,GBR,USA,Continental Finance,Atlantic Bank,USD,46445.6,Wire,Corporate,Invoice Payment,Medium
+TXN000205,2025-01-26,CUST_A101,RCV_B203,USA,RUS,Harbor Bank,Mercury Trust,USD,72293.19,Remittance,Corporate,Family Support,Medium
+TXN000206,2025-01-26,CUST_A105,RCV_B203,USA,DEU,Atlantic Bank,Harbor Bank,USD,69957.21,ACH,Corporate,Intercompany Transfer,Medium
+TXN000207,2025-01-27,CUST_A103,RCV_B202,GBR,USA,Atlantic Bank,Harbor Bank,USD,120962.68,Wire,NBFI,Family Support,High
+TXN000208,2025-01-27,CUST_A101,RCV_B203,USA,DEU,Atlantic Bank,Harbor Bank,USD,140120.21,Wire,Corporate,Services,Medium
+TXN000209,2025-01-27,CUST_A105,RCV_B206,USA,RUS,Atlantic Bank,Atlantic Bank,USD,58745.29,ACH,Corporate,Intercompany Transfer,Medium
+TXN000210,2025-01-27,CUST_A103,RCV_B202,USA,RUS,Harbor Bank,Harbor Bank,USD,269782.53,ACH,NBFI,Invoice Payment,High
+TXN000211,2025-01-27,CUST_A104,RCV_B202,USA,ZAF,Continental Finance,Mercury Trust,USD,1738.66,Remittance,Retail,Invoice Payment,Low
+TXN000212,2025-01-27,CUST_A104,RCV_B205,GBR,USA,Mercury Trust,Continental Finance,USD,7727.08,ACH,Retail,Invoice Payment,Low
+TXN000213,2025-01-27,CUST_A104,RCV_B201,USA,RUS,Continental Finance,Continental Finance,USD,700.25,ACH,Retail,Services,Low
+TXN000214,2025-01-27,CUST_A103,RCV_B202,USA,ARE,Mercury Trust,Continental Finance,USD,49768.31,Wire,NBFI,Services,High
+TXN000215,2025-01-27,CUST_A105,RCV_B202,USA,GBR,Continental Finance,Mercury Trust,USD,38696.83,Remittance,Corporate,Family Support,Medium
+TXN000216,2025-01-27,CUST_A105,RCV_B206,USA,GBR,Atlantic Bank,Atlantic Bank,USD,79533.27,Remittance,Corporate,Intercompany Transfer,Medium
+TXN000217,2025-01-28,CUST_A103,RCV_B204,USA,ZAF,Atlantic Bank,Atlantic Bank,USD,72088.79,Wire,NBFI,Intercompany Transfer,High
+TXN000218,2025-01-28,CUST_A101,RCV_B203,USA,DEU,Continental Finance,Atlantic Bank,USD,61228.93,Wire,Corporate,Invoice Payment,Medium
+TXN000219,2025-01-28,CUST_A104,RCV_B206,USA,DEU,Mercury Trust,Atlantic Bank,USD,1351.7,Wire,Retail,Capital Goods,Low
+TXN000220,2025-01-28,CUST_A103,RCV_B203,USA,DEU,Mercury Trust,Atlantic Bank,USD,195431.36,Trade Finance,NBFI,Intercompany Transfer,High
+TXN000221,2025-01-28,CUST_A101,RCV_B206,USA,ARE,Atlantic Bank,Atlantic Bank,USD,37491.77,Wire,Corporate,Capital Goods,Medium
+TXN000222,2025-01-28,CUST_A104,RCV_B203,USA,GBR,Harbor Bank,Harbor Bank,USD,4144.88,Wire,Retail,Intercompany Transfer,Low
+TXN000223,2025-01-28,CUST_A105,RCV_B204,USA,GBR,Harbor Bank,Atlantic Bank,USD,48741.62,ACH,Corporate,Invoice Payment,Medium
+TXN000224,2025-01-29,CUST_A102,RCV_B204,USA,DEU,Harbor Bank,Atlantic Bank,USD,21074.32,Trade Finance,SME,Intercompany Transfer,Low
+TXN000225,2025-01-29,CUST_A101,RCV_B204,GBR,USA,Mercury Trust,Mercury Trust,USD,59739.27,ACH,Corporate,Intercompany Transfer,Medium
+TXN000226,2025-01-29,CUST_A104,RCV_B203,USA,RUS,Continental Finance,Mercury Trust,USD,740.01,Trade Finance,Retail,Services,Low
+TXN000227,2025-01-29,CUST_A102,RCV_B203,USA,RUS,Continental Finance,Mercury Trust,USD,9676.97,Remittance,SME,Services,Low
+TXN000228,2025-01-29,CUST_A104,RCV_B203,USA,DEU,Atlantic Bank,Mercury Trust,USD,3062.16,Remittance,Retail,Invoice Payment,Low
+TXN000229,2025-01-29,CUST_A102,RCV_B201,GBR,USA,Continental Finance,Harbor Bank,USD,15825.58,Wire,SME,Family Support,Low
+TXN000230,2025-01-29,CUST_A104,RCV_B205,USA,ARE,Continental Finance,Harbor Bank,USD,1876.9,Trade Finance,Retail,Intercompany Transfer,Low
+TXN000231,2025-01-29,CUST_A102,RCV_B204,USA,GBR,Continental Finance,Continental Finance,USD,34931.23,Trade Finance,SME,Intercompany Transfer,Low
+TXN000232,2025-01-29,CUST_A103,RCV_B201,USA,RUS,Harbor Bank,Atlantic Bank,USD,85158.26,Remittance,NBFI,Invoice Payment,High
+TXN000233,2025-01-29,CUST_A106,RCV_B205,USA,RUS,Continental Finance,Mercury Trust,USD,13304.92,Remittance,SME,Invoice Payment,Medium
+TXN000234,2025-01-29,CUST_A106,RCV_B202,USA,ZAF,Mercury Trust,Atlantic Bank,USD,23237.36,Remittance,SME,Family Support,Medium
+TXN000235,2025-01-30,CUST_A106,RCV_B204,USA,RUS,Harbor Bank,Mercury Trust,USD,4766.58,Trade Finance,SME,Capital Goods,Medium
+TXN000236,2025-01-30,CUST_A103,RCV_B202,GBR,USA,Continental Finance,Continental Finance,USD,30664.39,Trade Finance,NBFI,Capital Goods,High
+TXN000237,2025-01-30,CUST_A106,RCV_B203,USA,GBR,Mercury Trust,Harbor Bank,USD,7838.52,Trade Finance,SME,Services,Medium
+TXN000238,2025-01-30,CUST_A106,RCV_B201,USA,DEU,Continental Finance,Harbor Bank,USD,20471.9,Wire,SME,Invoice Payment,Medium
+TXN000239,2025-01-30,CUST_A106,RCV_B204,GBR,USA,Mercury Trust,Continental Finance,USD,28869.27,Wire,SME,Family Support,Medium
+TXN000240,2025-01-30,CUST_A105,RCV_B201,USA,ZAF,Atlantic Bank,Atlantic Bank,USD,33866.97,Remittance,Corporate,Capital Goods,Medium
+TXN000241,2025-01-30,CUST_A106,RCV_B204,USA,RUS,Atlantic Bank,Continental Finance,USD,14012.57,Wire,SME,Capital Goods,Medium
+TXN000242,2025-01-30,CUST_A103,RCV_B202,USA,GBR,Atlantic Bank,Mercury Trust,USD,194336.41,Wire,NBFI,Intercompany Transfer,High
+TXN000243,2025-01-30,CUST_A103,RCV_B206,USA,DEU,Atlantic Bank,Harbor Bank,USD,172316.03,Trade Finance,NBFI,Intercompany Transfer,High
+TXN000244,2025-01-30,CUST_A104,RCV_B203,USA,ZAF,Mercury Trust,Atlantic Bank,USD,2530.55,Wire,Retail,Capital Goods,Low
+TXN000245,2025-01-30,CUST_A103,RCV_B206,USA,ZAF,Harbor Bank,Atlantic Bank,USD,143632.17,Remittance,NBFI,Capital Goods,High
+TXN000246,2025-01-30,CUST_A102,RCV_B204,USA,RUS,Mercury Trust,Harbor Bank,USD,13052.31,Trade Finance,SME,Intercompany Transfer,Low
+TXN000247,2025-01-31,CUST_A105,RCV_B203,USA,ARE,Mercury Trust,Atlantic Bank,USD,132422.55,Trade Finance,Corporate,Services,Medium
+TXN000248,2025-01-31,CUST_A102,RCV_B205,USA,DEU,Atlantic Bank,Harbor Bank,USD,18455.67,Wire,SME,Invoice Payment,Low
+TXN000249,2025-01-31,CUST_A105,RCV_B206,USA,GBR,Continental Finance,Atlantic Bank,USD,34775.44,Trade Finance,Corporate,Family Support,Medium
+TXN000250,2025-01-31,CUST_A106,RCV_B203,USA,RUS,Harbor Bank,Harbor Bank,USD,14800.88,ACH,SME,Capital Goods,Medium
+TXN000251,2025-01-31,CUST_A103,RCV_B204,USA,RUS,Harbor Bank,Mercury Trust,USD,269880.16,Remittance,NBFI,Family Support,High
+TXN000252,2025-01-31,CUST_A103,RCV_B203,USA,ZAF,Mercury Trust,Mercury Trust,USD,109610.56,Wire,NBFI,Services,High
+TXN000253,2025-02-01,CUST_A102,RCV_B201,USA,RUS,Atlantic Bank,Harbor Bank,USD,41776.12,Wire,SME,Services,Low
+TXN000254,2025-02-01,CUST_A104,RCV_B204,USA,RUS,Atlantic Bank,Atlantic Bank,USD,921.04,Remittance,Retail,Invoice Payment,Low
+TXN000255,2025-02-01,CUST_A103,RCV_B201,USA,RUS,Atlantic Bank,Atlantic Bank,USD,87193.82,Remittance,NBFI,Services,High
+TXN000256,2025-02-01,CUST_A106,RCV_B202,GBR,USA,Harbor Bank,Atlantic Bank,USD,14927.62,Remittance,SME,Intercompany Transfer,Medium
+TXN000257,2025-02-01,CUST_A106,RCV_B204,GBR,USA,Harbor Bank,Atlantic Bank,USD,30011.05,ACH,SME,Invoice Payment,Medium
+TXN000258,2025-02-01,CUST_A101,RCV_B203,USA,DEU,Continental Finance,Harbor Bank,USD,138316.74,Trade Finance,Corporate,Services,Medium
+TXN000259,2025-02-02,CUST_A105,RCV_B206,USA,ARE,Atlantic Bank,Continental Finance,USD,49626.27,ACH,Corporate,Capital Goods,Medium
+TXN000260,2025-02-02,CUST_A104,RCV_B201,GBR,USA,Mercury Trust,Harbor Bank,USD,1570.12,Wire,Retail,Capital Goods,Low
+TXN000261,2025-02-02,CUST_A104,RCV_B203,USA,RUS,Mercury Trust,Continental Finance,USD,2438.72,Remittance,Retail,Services,Low
+TXN000262,2025-02-02,CUST_A102,RCV_B205,GBR,USA,Continental Finance,Harbor Bank,USD,17594.25,Wire,SME,Capital Goods,Low
+TXN000263,2025-02-02,CUST_A103,RCV_B206,USA,DEU,Mercury Trust,Harbor Bank,USD,100327.72,Trade Finance,NBFI,Family Support,High
+TXN000264,2025-02-02,CUST_A104,RCV_B205,USA,ARE,Mercury Trust,Continental Finance,USD,4482.12,Wire,Retail,Intercompany Transfer,Low
+TXN000265,2025-02-02,CUST_A105,RCV_B204,USA,DEU,Mercury Trust,Harbor Bank,USD,97373.33,Remittance,Corporate,Intercompany Transfer,Medium
+TXN000266,2025-02-02,CUST_A106,RCV_B205,USA,ZAF,Continental Finance,Harbor Bank,USD,19315.13,ACH,SME,Capital Goods,Medium
+TXN000267,2025-02-02,CUST_A101,RCV_B205,USA,ZAF,Mercury Trust,Continental Finance,USD,36492.31,Remittance,Corporate,Services,Medium
+TXN000268,2025-02-03,CUST_A101,RCV_B203,USA,DEU,Atlantic Bank,Harbor Bank,USD,109054.62,Remittance,Corporate,Family Support,Medium
+TXN000269,2025-02-03,CUST_A102,RCV_B205,USA,RUS,Atlantic Bank,Harbor Bank,USD,24312.3,ACH,SME,Intercompany Transfer,Low
+TXN000270,2025-02-03,CUST_A101,RCV_B203,USA,DEU,Mercury Trust,Atlantic Bank,USD,57000.81,Remittance,Corporate,Capital Goods,Medium
+TXN000271,2025-02-03,CUST_A105,RCV_B205,USA,GBR,Atlantic Bank,Atlantic Bank,USD,43590.22,Trade Finance,Corporate,Capital Goods,Medium
+TXN000272,2025-02-03,CUST_A105,RCV_B201,USA,ARE,Mercury Trust,Harbor Bank,USD,41771.45,ACH,Corporate,Services,Medium
+TXN000273,2025-02-03,CUST_A103,RCV_B203,USA,DEU,Atlantic Bank,Mercury Trust,USD,106808.57,ACH,NBFI,Family Support,High
+TXN000274,2025-02-03,CUST_A102,RCV_B206,USA,ARE,Atlantic Bank,Mercury Trust,USD,45000.92,ACH,SME,Invoice Payment,Low
+TXN000275,2025-02-03,CUST_A101,RCV_B203,USA,ARE,Mercury Trust,Harbor Bank,USD,26666.82,Wire,Corporate,Capital Goods,Medium
+TXN000276,2025-02-04,CUST_A105,RCV_B204,USA,ZAF,Mercury Trust,Mercury Trust,USD,112340.17,ACH,Corporate,Capital Goods,Medium
+TXN000277,2025-02-04,CUST_A105,RCV_B204,GBR,USA,Harbor Bank,Continental Finance,USD,241493.39,Wire,Corporate,Invoice Payment,Medium
+TXN000278,2025-02-04,CUST_A105,RCV_B201,USA,RUS,Continental Finance,Harbor Bank,USD,47960.66,Wire,Corporate,Intercompany Transfer,Medium
+TXN000279,2025-02-04,CUST_A101,RCV_B202,USA,GBR,Mercury Trust,Harbor Bank,USD,75512.61,Remittance,Corporate,Family Support,Medium
+TXN000280,2025-02-04,CUST_A106,RCV_B203,USA,ZAF,Continental Finance,Mercury Trust,USD,9643.35,Wire,SME,Invoice Payment,Medium
+TXN000281,2025-02-04,CUST_A102,RCV_B202,USA,ARE,Atlantic Bank,Harbor Bank,USD,10892.82,ACH,SME,Invoice Payment,Low
+TXN000282,2025-02-04,CUST_A106,RCV_B201,USA,ARE,Continental Finance,Atlantic Bank,USD,10047.41,Wire,SME,Intercompany Transfer,Medium
+TXN000283,2025-02-04,CUST_A106,RCV_B202,USA,RUS,Harbor Bank,Mercury Trust,USD,16199.96,Remittance,SME,Intercompany Transfer,Medium
+TXN000284,2025-02-04,CUST_A105,RCV_B203,USA,DEU,Mercury Trust,Harbor Bank,USD,56423.14,Remittance,Corporate,Services,Medium
+TXN000285,2025-02-04,CUST_A101,RCV_B203,USA,RUS,Mercury Trust,Harbor Bank,USD,81113.34,Trade Finance,Corporate,Family Support,Medium
+TXN000286,2025-02-04,CUST_A105,RCV_B204,USA,ZAF,Harbor Bank,Atlantic Bank,USD,35965.03,Remittance,Corporate,Invoice Payment,Medium
+TXN000287,2025-02-05,CUST_A101,RCV_B203,USA,ZAF,Continental Finance,Atlantic Bank,USD,22035.13,Wire,Corporate,Invoice Payment,Medium
+TXN000288,2025-02-05,CUST_A102,RCV_B204,USA,ZAF,Continental Finance,Harbor Bank,USD,6997.18,Remittance,SME,Family Support,Low
+TXN000289,2025-02-05,CUST_A105,RCV_B205,USA,GBR,Harbor Bank,Continental Finance,USD,102608.7,ACH,Corporate,Services,Medium
+TXN000290,2025-02-05,CUST_A106,RCV_B201,USA,DEU,Atlantic Bank,Harbor Bank,USD,8338.42,Trade Finance,SME,Invoice Payment,Medium
+TXN000291,2025-02-05,CUST_A103,RCV_B203,USA,GBR,Atlantic Bank,Mercury Trust,USD,101058.17,ACH,NBFI,Services,High
+TXN000292,2025-02-05,CUST_A102,RCV_B202,USA,ARE,Continental Finance,Harbor Bank,USD,13307.44,Remittance,SME,Services,Low
+TXN000293,2025-02-06,CUST_A102,RCV_B201,USA,GBR,Atlantic Bank,Mercury Trust,USD,15389.06,Trade Finance,SME,Invoice Payment,Low
+TXN000294,2025-02-06,CUST_A102,RCV_B203,USA,RUS,Atlantic Bank,Harbor Bank,USD,27957.32,Wire,SME,Services,Low
+TXN000295,2025-02-06,CUST_A104,RCV_B201,USA,RUS,Harbor Bank,Atlantic Bank,USD,1022.46,Remittance,Retail,Capital Goods,Low
+TXN000296,2025-02-06,CUST_A105,RCV_B204,USA,GBR,Atlantic Bank,Harbor Bank,USD,93476.9,Wire,Corporate,Family Support,Medium
+TXN000297,2025-02-06,CUST_A106,RCV_B203,USA,GBR,Harbor Bank,Harbor Bank,USD,13409.59,Remittance,SME,Invoice Payment,Medium
+TXN000298,2025-02-06,CUST_A105,RCV_B201,USA,ARE,Mercury Trust,Atlantic Bank,USD,62088.01,Trade Finance,Corporate,Services,Medium
+TXN000299,2025-02-06,CUST_A102,RCV_B204,USA,ARE,Continental Finance,Harbor Bank,USD,28539.7,ACH,SME,Intercompany Transfer,Low
+TXN000300,2025-02-07,CUST_A105,RCV_B204,USA,ZAF,Atlantic Bank,Mercury Trust,USD,80088.02,Remittance,Corporate,Family Support,Medium
+TXN000301,2025-02-07,CUST_A104,RCV_B203,GBR,USA,Harbor Bank,Harbor Bank,USD,2154.3,ACH,Retail,Services,Low
+TXN000302,2025-02-07,CUST_A105,RCV_B202,USA,ZAF,Mercury Trust,Continental Finance,USD,137788.4,Trade Finance,Corporate,Intercompany Transfer,Medium
+TXN000303,2025-02-07,CUST_A106,RCV_B201,USA,ZAF,Atlantic Bank,Mercury Trust,USD,8534.14,Remittance,SME,Family Support,Medium
+TXN000304,2025-02-07,CUST_A103,RCV_B203,USA,GBR,Harbor Bank,Harbor Bank,USD,170649.08,Trade Finance,NBFI,Invoice Payment,High
+TXN000305,2025-02-07,CUST_A106,RCV_B203,USA,ZAF,Harbor Bank,Mercury Trust,USD,11177.51,Remittance,SME,Capital Goods,Medium
+TXN000306,2025-02-07,CUST_A102,RCV_B204,USA,RUS,Mercury Trust,Atlantic Bank,USD,11195.56,Remittance,SME,Capital Goods,Low
+TXN000307,2025-02-07,CUST_A103,RCV_B205,USA,ARE,Atlantic Bank,Mercury Trust,USD,46143.16,Wire,NBFI,Services,High
+TXN000308,2025-02-07,CUST_A106,RCV_B203,USA,ARE,Mercury Trust,Continental Finance,USD,16213.28,Trade Finance,SME,Capital Goods,Medium
+TXN000309,2025-02-07,CUST_A101,RCV_B203,USA,GBR,Mercury Trust,Mercury Trust,USD,92288.63,Wire,Corporate,Invoice Payment,Medium
+TXN000310,2025-02-07,CUST_A106,RCV_B206,USA,ARE,Harbor Bank,Continental Finance,USD,4290.47,Wire,SME,Invoice Payment,Medium
+TXN000311,2025-02-07,CUST_A102,RCV_B206,USA,DEU,Harbor Bank,Harbor Bank,USD,10881.09,ACH,SME,Intercompany Transfer,Low
+TXN000312,2025-02-07,CUST_A102,RCV_B202,USA,DEU,Atlantic Bank,Atlantic Bank,USD,26684.25,ACH,SME,Invoice Payment,Low
+TXN000313,2025-02-07,CUST_A101,RCV_B206,USA,GBR,Atlantic Bank,Continental Finance,USD,84411.94,Trade Finance,Corporate,Family Support,Medium
+TXN000314,2025-02-07,CUST_A104,RCV_B201,USA,ARE,Mercury Trust,Harbor Bank,USD,2041.7,ACH,Retail,Family Support,Low
+TXN000315,2025-02-08,CUST_A105,RCV_B202,USA,ARE,Harbor Bank,Harbor Bank,USD,38882.14,Remittance,Corporate,Family Support,Medium
+TXN000316,2025-02-08,CUST_A106,RCV_B206,USA,GBR,Atlantic Bank,Mercury Trust,USD,17825.87,Trade Finance,SME,Services,Medium
+TXN000317,2025-02-08,CUST_A103,RCV_B205,GBR,USA,Harbor Bank,Harbor Bank,USD,83637.15,Remittance,NBFI,Services,High
+TXN000318,2025-02-08,CUST_A102,RCV_B203,GBR,USA,Mercury Trust,Continental Finance,USD,38417.74,Wire,SME,Family Support,Low
+TXN000319,2025-02-08,CUST_A106,RCV_B201,USA,DEU,Continental Finance,Continental Finance,USD,9780.27,Remittance,SME,Family Support,Medium
+TXN000320,2025-02-08,CUST_A101,RCV_B205,USA,ZAF,Mercury Trust,Atlantic Bank,USD,73896.85,Trade Finance,Corporate,Services,Medium
+TXN000321,2025-02-08,CUST_A102,RCV_B203,USA,ARE,Continental Finance,Atlantic Bank,USD,11702.34,Trade Finance,SME,Intercompany Transfer,Low
+TXN000322,2025-02-08,CUST_A103,RCV_B204,USA,ZAF,Continental Finance,Harbor Bank,USD,222119.85,Trade Finance,NBFI,Capital Goods,High
+TXN000323,2025-02-09,CUST_A103,RCV_B202,USA,GBR,Atlantic Bank,Continental Finance,USD,119479.43,ACH,NBFI,Services,High
+TXN000324,2025-02-09,CUST_A105,RCV_B204,USA,ARE,Atlantic Bank,Continental Finance,USD,66879.51,Trade Finance,Corporate,Invoice Payment,Medium
+TXN000325,2025-02-09,CUST_A101,RCV_B206,USA,RUS,Atlantic Bank,Atlantic Bank,USD,78271.86,ACH,Corporate,Services,Medium
+TXN000326,2025-02-09,CUST_A104,RCV_B202,USA,ZAF,Atlantic Bank,Atlantic Bank,USD,2104.21,Wire,Retail,Intercompany Transfer,Low
+TXN000327,2025-02-09,CUST_A106,RCV_B204,USA,GBR,Harbor Bank,Mercury Trust,USD,25443.34,Trade Finance,SME,Intercompany Transfer,Medium
+TXN000328,2025-02-09,CUST_A102,RCV_B205,USA,DEU,Continental Finance,Mercury Trust,USD,14941.4,Remittance,SME,Capital Goods,Low
+TXN000329,2025-02-09,CUST_A105,RCV_B206,USA,GBR,Harbor Bank,Mercury Trust,USD,104398.67,Remittance,Corporate,Family Support,Medium
+TXN000330,2025-02-09,CUST_A106,RCV_B203,USA,RUS,Mercury Trust,Continental Finance,USD,29370.8,Remittance,SME,Intercompany Transfer,Medium
+TXN000331,2025-02-09,CUST_A102,RCV_B202,USA,RUS,Mercury Trust,Mercury Trust,USD,35353.56,Trade Finance,SME,Intercompany Transfer,Low
+TXN000332,2025-02-09,CUST_A106,RCV_B204,USA,ARE,Atlantic Bank,Mercury Trust,USD,15481.19,Remittance,SME,Capital Goods,Medium
+TXN000333,2025-02-09,CUST_A101,RCV_B204,USA,DEU,Continental Finance,Mercury Trust,USD,90269.38,ACH,Corporate,Family Support,Medium
+TXN000334,2025-02-10,CUST_A105,RCV_B201,USA,ARE,Atlantic Bank,Atlantic Bank,USD,43248.32,Trade Finance,Corporate,Services,Medium
+TXN000335,2025-02-10,CUST_A101,RCV_B202,USA,DEU,Continental Finance,Continental Finance,USD,67856.2,Wire,Corporate,Invoice Payment,Medium
+TXN000336,2025-02-10,CUST_A101,RCV_B206,GBR,USA,Atlantic Bank,Harbor Bank,USD,72913.09,Wire,Corporate,Invoice Payment,Medium
+TXN000337,2025-02-10,CUST_A104,RCV_B204,USA,DEU,Mercury Trust,Mercury Trust,USD,1101.43,Wire,Retail,Capital Goods,Low
+TXN000338,2025-02-10,CUST_A105,RCV_B204,USA,RUS,Continental Finance,Atlantic Bank,USD,87226.2,Remittance,Corporate,Intercompany Transfer,Medium
+TXN000339,2025-02-10,CUST_A103,RCV_B204,USA,ARE,Atlantic Bank,Harbor Bank,USD,193844.37,Remittance,NBFI,Invoice Payment,High
+TXN000340,2025-02-11,CUST_A105,RCV_B201,USA,ZAF,Mercury Trust,Atlantic Bank,USD,62226.51,ACH,Corporate,Capital Goods,Medium
+TXN000341,2025-02-11,CUST_A104,RCV_B204,USA,DEU,Continental Finance,Continental Finance,USD,2232.11,Trade Finance,Retail,Services,Low
+TXN000342,2025-02-11,CUST_A105,RCV_B201,USA,GBR,Continental Finance,Continental Finance,USD,52001.77,Remittance,Corporate,Services,Medium
+TXN000343,2025-02-11,CUST_A102,RCV_B201,USA,RUS,Atlantic Bank,Atlantic Bank,USD,6391.63,ACH,SME,Invoice Payment,Low
+TXN000344,2025-02-11,CUST_A102,RCV_B201,USA,ARE,Mercury Trust,Atlantic Bank,USD,11056.69,Remittance,SME,Intercompany Transfer,Low
+TXN000345,2025-02-11,CUST_A104,RCV_B201,USA,DEU,Harbor Bank,Continental Finance,USD,1056.17,Wire,Retail,Intercompany Transfer,Low
+TXN000346,2025-02-11,CUST_A105,RCV_B205,USA,RUS,Atlantic Bank,Harbor Bank,USD,101649.31,Wire,Corporate,Capital Goods,Medium
+TXN000347,2025-02-12,CUST_A105,RCV_B205,USA,DEU,Harbor Bank,Continental Finance,USD,148854.86,Remittance,Corporate,Capital Goods,Medium
+TXN000348,2025-02-12,CUST_A102,RCV_B206,USA,RUS,Atlantic Bank,Mercury Trust,USD,8572.65,Trade Finance,SME,Invoice Payment,Low
+TXN000349,2025-02-12,CUST_A103,RCV_B202,USA,ARE,Mercury Trust,Continental Finance,USD,74644.71,Remittance,NBFI,Invoice Payment,High
+TXN000350,2025-02-12,CUST_A102,RCV_B206,USA,RUS,Atlantic Bank,Harbor Bank,USD,14727.82,Trade Finance,SME,Services,Low
+TXN000351,2025-02-12,CUST_A104,RCV_B204,USA,ZAF,Harbor Bank,Atlantic Bank,USD,2107.08,Remittance,Retail,Family Support,Low
+TXN000352,2025-02-12,CUST_A106,RCV_B204,USA,GBR,Continental Finance,Continental Finance,USD,5564.9,Trade Finance,SME,Services,Medium
+TXN000353,2025-02-12,CUST_A102,RCV_B201,USA,ZAF,Mercury Trust,Atlantic Bank,USD,15472.69,ACH,SME,Capital Goods,Low
+TXN000354,2025-02-12,CUST_A103,RCV_B201,USA,RUS,Mercury Trust,Harbor Bank,USD,135085.54,Wire,NBFI,Capital Goods,High
+TXN000355,2025-02-13,CUST_A104,RCV_B202,USA,ZAF,Atlantic Bank,Continental Finance,USD,1578.37,ACH,Retail,Capital Goods,Low
+TXN000356,2025-02-13,CUST_A104,RCV_B202,USA,DEU,Continental Finance,Continental Finance,USD,2118.54,ACH,Retail,Services,Low
+TXN000357,2025-02-13,CUST_A102,RCV_B204,USA,ARE,Atlantic Bank,Mercury Trust,USD,16904.0,Wire,SME,Services,Low
+TXN000358,2025-02-13,CUST_A103,RCV_B202,USA,ZAF,Atlantic Bank,Mercury Trust,USD,88168.04,Trade Finance,NBFI,Capital Goods,High
+TXN000359,2025-02-13,CUST_A102,RCV_B204,USA,GBR,Atlantic Bank,Harbor Bank,USD,16729.27,ACH,SME,Intercompany Transfer,Low
+TXN000360,2025-02-13,CUST_A103,RCV_B205,USA,GBR,Harbor Bank,Harbor Bank,USD,148768.37,ACH,NBFI,Invoice Payment,High
+TXN000361,2025-02-13,CUST_A106,RCV_B204,USA,DEU,Harbor Bank,Harbor Bank,USD,18609.2,Trade Finance,SME,Capital Goods,Medium
+TXN000362,2025-02-13,CUST_A104,RCV_B202,USA,RUS,Continental Finance,Atlantic Bank,USD,6759.38,ACH,Retail,Capital Goods,Low
+TXN000363,2025-02-14,CUST_A101,RCV_B206,GBR,USA,Mercury Trust,Atlantic Bank,USD,39906.07,Trade Finance,Corporate,Services,Medium
+TXN000364,2025-02-14,CUST_A103,RCV_B201,USA,GBR,Harbor Bank,Continental Finance,USD,130987.97,Wire,NBFI,Invoice Payment,High
+TXN000365,2025-02-14,CUST_A104,RCV_B203,USA,GBR,Harbor Bank,Harbor Bank,USD,2016.21,Trade Finance,Retail,Intercompany Transfer,Low
+TXN000366,2025-02-14,CUST_A102,RCV_B206,GBR,USA,Atlantic Bank,Mercury Trust,USD,7204.02,Wire,SME,Services,Low
+TXN000367,2025-02-14,CUST_A103,RCV_B206,USA,RUS,Mercury Trust,Harbor Bank,USD,92254.04,Trade Finance,NBFI,Services,High
+TXN000368,2025-02-15,CUST_A102,RCV_B204,USA,ARE,Continental Finance,Mercury Trust,USD,17638.36,ACH,SME,Services,Low
+TXN000369,2025-02-15,CUST_A102,RCV_B205,USA,ZAF,Mercury Trust,Atlantic Bank,USD,7025.3,Trade Finance,SME,Invoice Payment,Low
+TXN000370,2025-02-15,CUST_A104,RCV_B202,USA,DEU,Mercury Trust,Mercury Trust,USD,2115.71,Remittance,Retail,Invoice Payment,Low
+TXN000371,2025-02-15,CUST_A104,RCV_B203,GBR,USA,Atlantic Bank,Continental Finance,USD,9628.6,Remittance,Retail,Services,Low
+TXN000372,2025-02-15,CUST_A101,RCV_B202,USA,ARE,Atlantic Bank,Continental Finance,USD,61004.87,Wire,Corporate,Family Support,Medium
+TXN000373,2025-02-16,CUST_A101,RCV_B206,GBR,USA,Mercury Trust,Harbor Bank,USD,66276.97,Wire,Corporate,Family Support,Medium
+TXN000374,2025-02-16,CUST_A102,RCV_B203,USA,DEU,Mercury Trust,Atlantic Bank,USD,15473.41,Trade Finance,SME,Services,Low
+TXN000375,2025-02-16,CUST_A103,RCV_B203,USA,RUS,Mercury Trust,Mercury Trust,USD,72542.54,Wire,NBFI,Family Support,High
+TXN000376,2025-02-16,CUST_A101,RCV_B202,USA,DEU,Continental Finance,Harbor Bank,USD,87284.51,ACH,Corporate,Intercompany Transfer,Medium
+TXN000377,2025-02-16,CUST_A101,RCV_B204,USA,ARE,Continental Finance,Atlantic Bank,USD,56593.11,Trade Finance,Corporate,Invoice Payment,Medium
+TXN000378,2025-02-16,CUST_A105,RCV_B205,USA,RUS,Atlantic Bank,Mercury Trust,USD,86018.06,Wire,Corporate,Family Support,Medium
+TXN000379,2025-02-16,CUST_A105,RCV_B205,USA,ARE,Mercury Trust,Mercury Trust,USD,51394.8,Wire,Corporate,Intercompany Transfer,Medium
+TXN000380,2025-02-16,CUST_A106,RCV_B203,USA,ARE,Mercury Trust,Continental Finance,USD,5842.06,Wire,SME,Invoice Payment,Medium
+TXN000381,2025-02-17,CUST_A104,RCV_B203,USA,ZAF,Mercury Trust,Harbor Bank,USD,2617.73,ACH,Retail,Invoice Payment,Low
+TXN000382,2025-02-17,CUST_A106,RCV_B202,USA,DEU,Harbor Bank,Mercury Trust,USD,16883.79,Trade Finance,SME,Services,Medium
+TXN000383,2025-02-17,CUST_A105,RCV_B204,USA,GBR,Mercury Trust,Mercury Trust,USD,83033.64,Remittance,Corporate,Invoice Payment,Medium
+TXN000384,2025-02-17,CUST_A101,RCV_B205,USA,ZAF,Continental Finance,Mercury Trust,USD,59976.43,ACH,Corporate,Intercompany Transfer,Medium
+TXN000385,2025-02-17,CUST_A106,RCV_B202,USA,ARE,Harbor Bank,Mercury Trust,USD,12184.06,Trade Finance,SME,Capital Goods,Medium
+TXN000386,2025-02-17,CUST_A106,RCV_B201,USA,GBR,Continental Finance,Atlantic Bank,USD,17200.94,Wire,SME,Intercompany Transfer,Medium
+TXN000387,2025-02-17,CUST_A102,RCV_B204,USA,DEU,Mercury Trust,Harbor Bank,USD,12495.36,Wire,SME,Services,Low
+TXN000388,2025-02-18,CUST_A104,RCV_B201,GBR,USA,Mercury Trust,Harbor Bank,USD,1255.38,ACH,Retail,Intercompany Transfer,Low
+TXN000389,2025-02-18,CUST_A102,RCV_B202,USA,DEU,Mercury Trust,Mercury Trust,USD,9610.45,Remittance,SME,Capital Goods,Low
+TXN000390,2025-02-18,CUST_A103,RCV_B203,USA,GBR,Continental Finance,Harbor Bank,USD,71401.39,Trade Finance,NBFI,Capital Goods,High
+TXN000391,2025-02-18,CUST_A102,RCV_B206,USA,DEU,Mercury Trust,Harbor Bank,USD,20921.9,Wire,SME,Intercompany Transfer,Low
+TXN000392,2025-02-18,CUST_A101,RCV_B204,USA,RUS,Mercury Trust,Mercury Trust,USD,53299.1,ACH,Corporate,Services,Medium
+TXN000393,2025-02-18,CUST_A105,RCV_B203,USA,ARE,Mercury Trust,Continental Finance,USD,40972.23,Trade Finance,Corporate,Intercompany Transfer,Medium
+TXN000394,2025-02-19,CUST_A102,RCV_B203,USA,GBR,Harbor Bank,Continental Finance,USD,8642.95,ACH,SME,Intercompany Transfer,Low
+TXN000395,2025-02-19,CUST_A103,RCV_B201,USA,RUS,Mercury Trust,Harbor Bank,USD,362672.82,Remittance,NBFI,Capital Goods,High
+TXN000396,2025-02-19,CUST_A102,RCV_B206,USA,GBR,Continental Finance,Mercury Trust,USD,8658.32,Remittance,SME,Services,Low
+TXN000397,2025-02-19,CUST_A102,RCV_B202,USA,ARE,Mercury Trust,Mercury Trust,USD,15116.55,ACH,SME,Services,Low
+TXN000398,2025-02-19,CUST_A103,RCV_B205,GBR,USA,Atlantic Bank,Mercury Trust,USD,108877.04,ACH,NBFI,Capital Goods,High
+TXN000399,2025-02-20,CUST_A103,RCV_B204,USA,GBR,Atlantic Bank,Atlantic Bank,USD,120746.64,Remittance,NBFI,Invoice Payment,High
+TXN000400,2025-02-20,CUST_A105,RCV_B206,USA,RUS,Harbor Bank,Continental Finance,USD,84183.62,ACH,Corporate,Family Support,Medium
+TXN000401,2025-02-20,CUST_A104,RCV_B206,GBR,USA,Harbor Bank,Atlantic Bank,USD,2275.07,Remittance,Retail,Family Support,Low
+TXN000402,2025-02-20,CUST_A102,RCV_B201,USA,RUS,Mercury Trust,Mercury Trust,USD,17471.3,Wire,SME,Invoice Payment,Low
+TXN000403,2025-02-20,CUST_A106,RCV_B203,USA,ARE,Continental Finance,Continental Finance,USD,9026.24,Wire,SME,Capital Goods,Medium
+TXN000404,2025-02-20,CUST_A106,RCV_B205,USA,ARE,Mercury Trust,Mercury Trust,USD,9130.97,Wire,SME,Intercompany Transfer,Medium
+TXN000405,2025-02-20,CUST_A101,RCV_B205,GBR,USA,Continental Finance,Continental Finance,USD,134350.64,ACH,Corporate,Family Support,Medium
+TXN000406,2025-02-20,CUST_A101,RCV_B201,USA,ARE,Harbor Bank,Atlantic Bank,USD,53116.3,Trade Finance,Corporate,Family Support,Medium
+TXN000407,2025-02-20,CUST_A106,RCV_B206,USA,DEU,Harbor Bank,Atlantic Bank,USD,21744.91,ACH,SME,Intercompany Transfer,Medium
+TXN000408,2025-02-21,CUST_A103,RCV_B205,USA,ZAF,Mercury Trust,Atlantic Bank,USD,185238.35,Wire,NBFI,Family Support,High
+TXN000409,2025-02-21,CUST_A105,RCV_B203,GBR,USA,Harbor Bank,Harbor Bank,USD,100587.61,Wire,Corporate,Invoice Payment,Medium
+TXN000410,2025-02-21,CUST_A103,RCV_B205,USA,GBR,Mercury Trust,Harbor Bank,USD,128672.26,ACH,NBFI,Services,High
+TXN000411,2025-02-21,CUST_A101,RCV_B202,USA,GBR,Continental Finance,Harbor Bank,USD,26862.95,Remittance,Corporate,Invoice Payment,Medium
+TXN000412,2025-02-21,CUST_A103,RCV_B202,USA,ARE,Continental Finance,Mercury Trust,USD,139744.96,Wire,NBFI,Family Support,High
+TXN000413,2025-02-21,CUST_A102,RCV_B206,USA,ARE,Mercury Trust,Continental Finance,USD,25587.49,Wire,SME,Services,Low
+TXN000414,2025-02-21,CUST_A102,RCV_B205,USA,GBR,Harbor Bank,Mercury Trust,USD,29065.03,Wire,SME,Family Support,Low
+TXN000415,2025-02-21,CUST_A101,RCV_B201,USA,RUS,Harbor Bank,Atlantic Bank,USD,52959.41,Wire,Corporate,Services,Medium
+TXN000416,2025-02-22,CUST_A101,RCV_B204,USA,ARE,Mercury Trust,Mercury Trust,USD,93280.35,Wire,Corporate,Intercompany Transfer,Medium
+TXN000417,2025-02-22,CUST_A101,RCV_B204,USA,RUS,Continental Finance,Harbor Bank,USD,68269.95,ACH,Corporate,Invoice Payment,Medium
+TXN000418,2025-02-22,CUST_A103,RCV_B203,GBR,USA,Mercury Trust,Mercury Trust,USD,151138.62,Remittance,NBFI,Services,High
+TXN000419,2025-02-22,CUST_A105,RCV_B202,USA,RUS,Mercury Trust,Harbor Bank,USD,106294.46,Trade Finance,Corporate,Services,Medium
+TXN000420,2025-02-22,CUST_A104,RCV_B204,USA,GBR,Harbor Bank,Harbor Bank,USD,3465.88,Wire,Retail,Services,Low
+TXN000421,2025-02-22,CUST_A103,RCV_B201,GBR,USA,Atlantic Bank,Mercury Trust,USD,91573.72,Trade Finance,NBFI,Invoice Payment,High
+TXN000422,2025-02-22,CUST_A106,RCV_B202,USA,GBR,Atlantic Bank,Atlantic Bank,USD,26716.32,Trade Finance,SME,Capital Goods,Medium
+TXN000423,2025-02-22,CUST_A103,RCV_B205,USA,RUS,Mercury Trust,Mercury Trust,USD,108177.06,Remittance,NBFI,Invoice Payment,High
+TXN000424,2025-02-22,CUST_A106,RCV_B206,USA,DEU,Continental Finance,Atlantic Bank,USD,10253.07,ACH,SME,Capital Goods,Medium
+TXN000425,2025-02-23,CUST_A103,RCV_B201,USA,ZAF,Atlantic Bank,Atlantic Bank,USD,96951.26,Wire,NBFI,Intercompany Transfer,High
+TXN000426,2025-02-23,CUST_A106,RCV_B205,USA,GBR,Harbor Bank,Harbor Bank,USD,13156.42,Trade Finance,SME,Invoice Payment,Medium
+TXN000427,2025-02-23,CUST_A101,RCV_B206,USA,RUS,Continental Finance,Atlantic Bank,USD,105580.24,Remittance,Corporate,Intercompany Transfer,Medium
+TXN000428,2025-02-23,CUST_A104,RCV_B202,USA,ARE,Harbor Bank,Continental Finance,USD,1720.49,Trade Finance,Retail,Capital Goods,Low
+TXN000429,2025-02-23,CUST_A103,RCV_B202,USA,RUS,Continental Finance,Atlantic Bank,USD,85605.12,Remittance,NBFI,Invoice Payment,High
+TXN000430,2025-02-23,CUST_A104,RCV_B203,USA,ZAF,Mercury Trust,Harbor Bank,USD,1951.11,ACH,Retail,Invoice Payment,Low
+TXN000431,2025-02-23,CUST_A101,RCV_B202,USA,ARE,Continental Finance,Harbor Bank,USD,49103.07,Remittance,Corporate,Invoice Payment,Medium
+TXN000432,2025-02-23,CUST_A101,RCV_B203,USA,ZAF,Harbor Bank,Continental Finance,USD,56132.34,ACH,Corporate,Family Support,Medium
+TXN000433,2025-02-23,CUST_A104,RCV_B205,USA,DEU,Continental Finance,Harbor Bank,USD,1362.73,Remittance,Retail,Intercompany Transfer,Low
+TXN000434,2025-02-23,CUST_A104,RCV_B201,GBR,USA,Atlantic Bank,Mercury Trust,USD,808.18,Trade Finance,Retail,Capital Goods,Low
+TXN000435,2025-02-23,CUST_A106,RCV_B206,GBR,USA,Continental Finance,Mercury Trust,USD,9138.36,Remittance,SME,Invoice Payment,Medium
+TXN000436,2025-02-23,CUST_A102,RCV_B201,USA,ARE,Mercury Trust,Continental Finance,USD,27619.82,Trade Finance,SME,Capital Goods,Low
+TXN000437,2025-02-23,CUST_A102,RCV_B203,USA,ARE,Mercury Trust,Atlantic Bank,USD,4170.96,Remittance,SME,Services,Low
+TXN000438,2025-02-23,CUST_A104,RCV_B202,USA,ZAF,Harbor Bank,Atlantic Bank,USD,1573.8,ACH,Retail,Invoice Payment,Low
+TXN000439,2025-02-24,CUST_A104,RCV_B201,USA,RUS,Continental Finance,Atlantic Bank,USD,1164.67,ACH,Retail,Invoice Payment,Low
+TXN000440,2025-02-24,CUST_A101,RCV_B206,USA,RUS,Continental Finance,Continental Finance,USD,83145.23,Trade Finance,Corporate,Capital Goods,Medium
+TXN000441,2025-02-24,CUST_A104,RCV_B202,USA,ARE,Harbor Bank,Atlantic Bank,USD,8374.08,Wire,Retail,Family Support,Low
+TXN000442,2025-02-24,CUST_A105,RCV_B205,USA,RUS,Continental Finance,Mercury Trust,USD,125528.64,Trade Finance,Corporate,Invoice Payment,Medium
+TXN000443,2025-02-24,CUST_A104,RCV_B206,GBR,USA,Harbor Bank,Harbor Bank,USD,1595.77,Remittance,Retail,Intercompany Transfer,Low
+TXN000444,2025-02-24,CUST_A103,RCV_B205,USA,ZAF,Mercury Trust,Atlantic Bank,USD,43561.79,Remittance,NBFI,Services,High
+TXN000445,2025-02-24,CUST_A102,RCV_B206,USA,ZAF,Atlantic Bank,Harbor Bank,USD,7800.33,Remittance,SME,Intercompany Transfer,Low
+TXN000446,2025-02-24,CUST_A102,RCV_B203,USA,GBR,Harbor Bank,Mercury Trust,USD,31044.68,Trade Finance,SME,Family Support,Low
+TXN000447,2025-02-24,CUST_A102,RCV_B206,USA,ZAF,Atlantic Bank,Atlantic Bank,USD,17962.94,Trade Finance,SME,Intercompany Transfer,Low
+TXN000448,2025-02-25,CUST_A105,RCV_B205,GBR,USA,Atlantic Bank,Mercury Trust,USD,84854.19,Remittance,Corporate,Services,Medium
+TXN000449,2025-02-25,CUST_A105,RCV_B202,USA,GBR,Continental Finance,Atlantic Bank,USD,79901.05,Trade Finance,Corporate,Capital Goods,Medium
+TXN000450,2025-02-25,CUST_A102,RCV_B204,USA,DEU,Continental Finance,Continental Finance,USD,9864.62,Wire,SME,Capital Goods,Low
+TXN000451,2025-02-25,CUST_A101,RCV_B204,USA,ARE,Harbor Bank,Continental Finance,USD,59180.17,Remittance,Corporate,Intercompany Transfer,Medium
+TXN000452,2025-02-25,CUST_A101,RCV_B202,USA,DEU,Harbor Bank,Atlantic Bank,USD,139322.9,Trade Finance,Corporate,Family Support,Medium
+TXN000453,2025-02-25,CUST_A104,RCV_B205,USA,GBR,Continental Finance,Continental Finance,USD,2436.31,Remittance,Retail,Services,Low
+TXN000454,2025-02-25,CUST_A103,RCV_B203,USA,GBR,Mercury Trust,Continental Finance,USD,306805.48,Wire,NBFI,Intercompany Transfer,High
+TXN000455,2025-02-25,CUST_A103,RCV_B201,GBR,USA,Continental Finance,Mercury Trust,USD,120727.06,Trade Finance,NBFI,Services,High
+TXN000456,2025-02-25,CUST_A104,RCV_B201,GBR,USA,Harbor Bank,Harbor Bank,USD,1776.71,Trade Finance,Retail,Invoice Payment,Low
+TXN000457,2025-02-26,CUST_A103,RCV_B201,GBR,USA,Mercury Trust,Atlantic Bank,USD,217627.59,Wire,NBFI,Services,High
+TXN000458,2025-02-26,CUST_A103,RCV_B201,USA,ZAF,Continental Finance,Harbor Bank,USD,137286.06,Trade Finance,NBFI,Family Support,High
+TXN000459,2025-02-26,CUST_A106,RCV_B201,USA,ARE,Mercury Trust,Mercury Trust,USD,9319.52,Wire,SME,Services,Medium
+TXN000460,2025-02-26,CUST_A103,RCV_B206,USA,RUS,Mercury Trust,Mercury Trust,USD,156276.11,Trade Finance,NBFI,Family Support,High
+TXN000461,2025-02-27,CUST_A105,RCV_B204,USA,GBR,Mercury Trust,Harbor Bank,USD,75376.71,Trade Finance,Corporate,Capital Goods,Medium
+TXN000462,2025-02-27,CUST_A103,RCV_B202,USA,ARE,Atlantic Bank,Mercury Trust,USD,97365.39,ACH,NBFI,Invoice Payment,High
+TXN000463,2025-02-27,CUST_A103,RCV_B206,GBR,USA,Harbor Bank,Mercury Trust,USD,146191.56,Trade Finance,NBFI,Intercompany Transfer,High
+TXN000464,2025-02-27,CUST_A106,RCV_B203,USA,DEU,Harbor Bank,Continental Finance,USD,27980.64,Wire,SME,Capital Goods,Medium
+TXN000465,2025-02-27,CUST_A105,RCV_B204,USA,ZAF,Mercury Trust,Continental Finance,USD,103562.47,Wire,Corporate,Intercompany Transfer,Medium
+TXN000466,2025-02-28,CUST_A101,RCV_B202,USA,RUS,Harbor Bank,Harbor Bank,USD,138230.06,ACH,Corporate,Family Support,Medium
+TXN000467,2025-02-28,CUST_A106,RCV_B205,USA,GBR,Continental Finance,Atlantic Bank,USD,9485.42,Trade Finance,SME,Invoice Payment,Medium
+TXN000468,2025-02-28,CUST_A103,RCV_B202,USA,ARE,Atlantic Bank,Mercury Trust,USD,49550.36,Trade Finance,NBFI,Intercompany Transfer,High
+TXN000469,2025-02-28,CUST_A102,RCV_B203,USA,ZAF,Continental Finance,Harbor Bank,USD,26552.12,Wire,SME,Services,Low
+TXN000470,2025-02-28,CUST_A106,RCV_B205,USA,ZAF,Continental Finance,Atlantic Bank,USD,16787.57,Wire,SME,Capital Goods,Medium
+TXN000471,2025-02-28,CUST_A104,RCV_B205,USA,ZAF,Harbor Bank,Continental Finance,USD,3152.17,Remittance,Retail,Services,Low
+TXN000472,2025-02-28,CUST_A103,RCV_B202,GBR,USA,Mercury Trust,Mercury Trust,USD,86129.65,ACH,NBFI,Capital Goods,High
+TXN000473,2025-02-28,CUST_A102,RCV_B204,USA,DEU,Continental Finance,Harbor Bank,USD,25022.06,Trade Finance,SME,Family Support,Low
+TXN000474,2025-02-28,CUST_A105,RCV_B201,USA,ZAF,Continental Finance,Harbor Bank,USD,54944.64,ACH,Corporate,Invoice Payment,Medium
+TXN000475,2025-02-28,CUST_A101,RCV_B204,GBR,USA,Mercury Trust,Mercury Trust,USD,168378.95,Wire,Corporate,Family Support,Medium
+TXN000476,2025-02-28,CUST_A105,RCV_B202,USA,DEU,Atlantic Bank,Harbor Bank,USD,84066.9,ACH,Corporate,Services,Medium
+TXN000477,2025-03-01,CUST_A105,RCV_B205,GBR,USA,Continental Finance,Continental Finance,USD,177311.65,Trade Finance,Corporate,Services,Medium
+TXN000478,2025-03-01,CUST_A102,RCV_B203,USA,DEU,Harbor Bank,Harbor Bank,USD,17605.53,Wire,SME,Services,Low
+TXN000479,2025-03-01,CUST_A102,RCV_B202,USA,ARE,Atlantic Bank,Harbor Bank,USD,30437.48,Wire,SME,Services,Low
+TXN000480,2025-03-01,CUST_A104,RCV_B204,USA,RUS,Mercury Trust,Continental Finance,USD,2317.84,Remittance,Retail,Capital Goods,Low
+TXN000481,2025-03-01,CUST_A106,RCV_B205,USA,DEU,Mercury Trust,Mercury Trust,USD,10206.29,Wire,SME,Services,Medium
+TXN000482,2025-03-01,CUST_A105,RCV_B206,USA,ARE,Atlantic Bank,Mercury Trust,USD,85401.59,Remittance,Corporate,Intercompany Transfer,Medium
+TXN000483,2025-03-01,CUST_A106,RCV_B201,USA,ARE,Mercury Trust,Atlantic Bank,USD,21936.12,ACH,SME,Capital Goods,Medium
+TXN000484,2025-03-01,CUST_A102,RCV_B204,USA,ZAF,Atlantic Bank,Continental Finance,USD,13147.88,ACH,SME,Family Support,Low
+TXN000485,2025-03-01,CUST_A101,RCV_B204,USA,RUS,Atlantic Bank,Continental Finance,USD,102690.97,Wire,Corporate,Services,Medium
+TXN000486,2025-03-01,CUST_A105,RCV_B206,USA,ZAF,Atlantic Bank,Atlantic Bank,USD,54732.8,Trade Finance,Corporate,Invoice Payment,Medium
+TXN000487,2025-03-02,CUST_A104,RCV_B206,USA,ZAF,Harbor Bank,Continental Finance,USD,4317.48,Remittance,Retail,Capital Goods,Low
+TXN000488,2025-03-02,CUST_A105,RCV_B204,GBR,USA,Harbor Bank,Harbor Bank,USD,99315.64,Remittance,Corporate,Invoice Payment,Medium
+TXN000489,2025-03-02,CUST_A104,RCV_B202,USA,GBR,Atlantic Bank,Continental Finance,USD,3840.2,ACH,Retail,Invoice Payment,Low
+TXN000490,2025-03-02,CUST_A105,RCV_B201,USA,RUS,Mercury Trust,Atlantic Bank,USD,16579.91,ACH,Corporate,Family Support,Medium
+TXN000491,2025-03-02,CUST_A102,RCV_B206,USA,GBR,Atlantic Bank,Continental Finance,USD,14395.67,ACH,SME,Family Support,Low
+TXN000492,2025-03-03,CUST_A104,RCV_B201,GBR,USA,Mercury Trust,Atlantic Bank,USD,4065.79,Trade Finance,Retail,Family Support,Low
+TXN000493,2025-03-03,CUST_A102,RCV_B205,USA,ARE,Continental Finance,Mercury Trust,USD,9119.42,ACH,SME,Capital Goods,Low
+TXN000494,2025-03-03,CUST_A106,RCV_B205,USA,GBR,Atlantic Bank,Harbor Bank,USD,7883.44,Trade Finance,SME,Intercompany Transfer,Medium
+TXN000495,2025-03-03,CUST_A101,RCV_B204,GBR,USA,Continental Finance,Continental Finance,USD,64103.31,Remittance,Corporate,Family Support,Medium
+TXN000496,2025-03-04,CUST_A105,RCV_B204,USA,ARE,Harbor Bank,Atlantic Bank,USD,142217.19,Wire,Corporate,Invoice Payment,Medium
+TXN000497,2025-03-04,CUST_A102,RCV_B206,USA,DEU,Continental Finance,Mercury Trust,USD,18603.93,Wire,SME,Capital Goods,Low
+TXN000498,2025-03-04,CUST_A104,RCV_B204,USA,DEU,Mercury Trust,Mercury Trust,USD,3620.47,Wire,Retail,Intercompany Transfer,Low
+TXN000499,2025-03-04,CUST_A105,RCV_B202,USA,ARE,Continental Finance,Harbor Bank,USD,129232.51,Trade Finance,Corporate,Intercompany Transfer,Medium
+TXN000500,2025-03-04,CUST_A106,RCV_B206,USA,ARE,Atlantic Bank,Atlantic Bank,USD,24460.76,Trade Finance,SME,Intercompany Transfer,Medium
+TXN000501,2025-03-04,CUST_A104,RCV_B205,USA,GBR,Atlantic Bank,Continental Finance,USD,3149.64,ACH,Retail,Services,Low
+TXN000502,2025-03-05,CUST_A105,RCV_B205,USA,DEU,Mercury Trust,Continental Finance,USD,55614.2,Trade Finance,Corporate,Services,Medium
+TXN000503,2025-03-05,CUST_A104,RCV_B201,USA,GBR,Harbor Bank,Continental Finance,USD,2011.92,ACH,Retail,Services,Low
+TXN000504,2025-03-05,CUST_A103,RCV_B202,USA,ARE,Continental Finance,Harbor Bank,USD,270769.11,ACH,NBFI,Intercompany Transfer,High
+TXN000505,2025-03-05,CUST_A103,RCV_B204,USA,RUS,Mercury Trust,Harbor Bank,USD,174003.5,ACH,NBFI,Family Support,High
+TXN000506,2025-03-05,CUST_A104,RCV_B202,USA,DEU,Mercury Trust,Mercury Trust,USD,1403.81,Trade Finance,Retail,Invoice Payment,Low
+TXN000507,2025-03-05,CUST_A106,RCV_B203,GBR,USA,Continental Finance,Atlantic Bank,USD,9369.98,Wire,SME,Family Support,Medium
+TXN000508,2025-03-05,CUST_A104,RCV_B206,USA,ZAF,Mercury Trust,Atlantic Bank,USD,2330.84,Trade Finance,Retail,Invoice Payment,Low
+TXN000509,2025-03-05,CUST_A106,RCV_B202,USA,GBR,Mercury Trust,Mercury Trust,USD,11902.76,Remittance,SME,Capital Goods,Medium
+TXN000510,2025-03-06,CUST_A101,RCV_B203,USA,GBR,Mercury Trust,Atlantic Bank,USD,116026.08,Remittance,Corporate,Invoice Payment,Medium
+TXN000511,2025-03-06,CUST_A102,RCV_B201,USA,RUS,Harbor Bank,Continental Finance,USD,43229.5,Remittance,SME,Capital Goods,Low
+TXN000512,2025-03-06,CUST_A106,RCV_B205,USA,GBR,Mercury Trust,Atlantic Bank,USD,25723.9,Trade Finance,SME,Family Support,Medium
+TXN000513,2025-03-06,CUST_A104,RCV_B203,USA,GBR,Mercury Trust,Mercury Trust,USD,2712.93,Wire,Retail,Capital Goods,Low
+TXN000514,2025-03-06,CUST_A106,RCV_B203,USA,ZAF,Mercury Trust,Harbor Bank,USD,13677.05,Remittance,SME,Invoice Payment,Medium
+TXN000515,2025-03-07,CUST_A106,RCV_B201,USA,DEU,Continental Finance,Continental Finance,USD,35677.04,Wire,SME,Intercompany Transfer,Medium
+TXN000516,2025-03-07,CUST_A101,RCV_B201,USA,ARE,Atlantic Bank,Continental Finance,USD,49040.28,ACH,Corporate,Family Support,Medium
+TXN000517,2025-03-07,CUST_A103,RCV_B204,USA,ZAF,Mercury Trust,Continental Finance,USD,66032.78,Remittance,NBFI,Capital Goods,High
+TXN000518,2025-03-07,CUST_A102,RCV_B206,GBR,USA,Harbor Bank,Continental Finance,USD,15542.44,Trade Finance,SME,Capital Goods,Low
+TXN000519,2025-03-07,CUST_A105,RCV_B202,USA,ARE,Atlantic Bank,Continental Finance,USD,28212.11,Wire,Corporate,Invoice Payment,Medium
+TXN000520,2025-03-07,CUST_A106,RCV_B206,USA,DEU,Harbor Bank,Atlantic Bank,USD,11162.88,Remittance,SME,Services,Medium
+TXN000521,2025-03-07,CUST_A105,RCV_B203,USA,GBR,Mercury Trust,Atlantic Bank,USD,121005.7,Trade Finance,Corporate,Family Support,Medium
+TXN000522,2025-03-07,CUST_A106,RCV_B206,USA,GBR,Atlantic Bank,Atlantic Bank,USD,19873.41,ACH,SME,Intercompany Transfer,Medium
+TXN000523,2025-03-07,CUST_A105,RCV_B204,USA,DEU,Mercury Trust,Continental Finance,USD,100878.41,Wire,Corporate,Services,Medium
+TXN000524,2025-03-08,CUST_A102,RCV_B206,USA,DEU,Atlantic Bank,Continental Finance,USD,11163.47,ACH,SME,Invoice Payment,Low
+TXN000525,2025-03-08,CUST_A102,RCV_B206,USA,RUS,Continental Finance,Atlantic Bank,USD,7756.54,Remittance,SME,Family Support,Low
+TXN000526,2025-03-08,CUST_A105,RCV_B202,USA,ARE,Atlantic Bank,Continental Finance,USD,79950.75,Trade Finance,Corporate,Services,Medium
+TXN000527,2025-03-08,CUST_A105,RCV_B201,USA,ARE,Continental Finance,Continental Finance,USD,218995.57,Wire,Corporate,Capital Goods,Medium
+TXN000528,2025-03-08,CUST_A101,RCV_B206,GBR,USA,Atlantic Bank,Continental Finance,USD,90503.25,Remittance,Corporate,Family Support,Medium
+TXN000529,2025-03-08,CUST_A106,RCV_B205,USA,GBR,Mercury Trust,Harbor Bank,USD,23299.82,Remittance,SME,Invoice Payment,Medium
+TXN000530,2025-03-08,CUST_A103,RCV_B205,GBR,USA,Harbor Bank,Harbor Bank,USD,79609.04,Trade Finance,NBFI,Invoice Payment,High
+TXN000531,2025-03-08,CUST_A104,RCV_B205,GBR,USA,Continental Finance,Mercury Trust,USD,443.26,Remittance,Retail,Invoice Payment,Low
+TXN000532,2025-03-08,CUST_A101,RCV_B203,USA,ARE,Continental Finance,Atlantic Bank,USD,52938.35,ACH,Corporate,Invoice Payment,Medium
+TXN000533,2025-03-09,CUST_A103,RCV_B203,USA,ZAF,Continental Finance,Atlantic Bank,USD,37225.67,Remittance,NBFI,Invoice Payment,High
+TXN000534,2025-03-09,CUST_A102,RCV_B203,USA,GBR,Harbor Bank,Harbor Bank,USD,16600.82,Wire,SME,Family Support,Low
+TXN000535,2025-03-09,CUST_A104,RCV_B203,USA,ZAF,Harbor Bank,Mercury Trust,USD,1334.02,ACH,Retail,Services,Low
+TXN000536,2025-03-09,CUST_A102,RCV_B201,USA,RUS,Continental Finance,Continental Finance,USD,10310.49,Trade Finance,SME,Invoice Payment,Low
+TXN000537,2025-03-09,CUST_A102,RCV_B202,GBR,USA,Continental Finance,Atlantic Bank,USD,14748.5,Trade Finance,SME,Family Support,Low
+TXN000538,2025-03-09,CUST_A105,RCV_B203,USA,ZAF,Mercury Trust,Continental Finance,USD,51970.93,Remittance,Corporate,Intercompany Transfer,Medium
+TXN000539,2025-03-09,CUST_A105,RCV_B202,USA,DEU,Harbor Bank,Harbor Bank,USD,187148.86,Remittance,Corporate,Invoice Payment,Medium
+TXN000540,2025-03-09,CUST_A105,RCV_B204,GBR,USA,Atlantic Bank,Atlantic Bank,USD,62560.66,Trade Finance,Corporate,Services,Medium
+TXN000541,2025-03-09,CUST_A104,RCV_B202,USA,DEU,Continental Finance,Atlantic Bank,USD,2844.96,Wire,Retail,Invoice Payment,Low
+TXN000542,2025-03-09,CUST_A106,RCV_B202,USA,ZAF,Harbor Bank,Mercury Trust,USD,11485.46,Remittance,SME,Invoice Payment,Medium
+TXN000543,2025-03-10,CUST_A105,RCV_B202,USA,DEU,Atlantic Bank,Atlantic Bank,USD,292920.49,Remittance,Corporate,Services,Medium
+TXN000544,2025-03-10,CUST_A105,RCV_B205,USA,ARE,Harbor Bank,Atlantic Bank,USD,137691.09,ACH,Corporate,Capital Goods,Medium
+TXN000545,2025-03-10,CUST_A105,RCV_B204,USA,ARE,Harbor Bank,Mercury Trust,USD,25982.57,Trade Finance,Corporate,Invoice Payment,Medium
+TXN000546,2025-03-10,CUST_A103,RCV_B206,USA,GBR,Mercury Trust,Mercury Trust,USD,78908.11,Remittance,NBFI,Services,High
+TXN000547,2025-03-10,CUST_A101,RCV_B202,USA,RUS,Harbor Bank,Atlantic Bank,USD,37901.16,Trade Finance,Corporate,Family Support,Medium
+TXN000548,2025-03-10,CUST_A105,RCV_B202,GBR,USA,Continental Finance,Mercury Trust,USD,109568.42,Remittance,Corporate,Family Support,Medium
+TXN000549,2025-03-10,CUST_A103,RCV_B202,USA,GBR,Harbor Bank,Continental Finance,USD,129541.75,ACH,NBFI,Services,High
+TXN000550,2025-03-10,CUST_A105,RCV_B204,GBR,USA,Mercury Trust,Continental Finance,USD,159950.57,Wire,Corporate,Invoice Payment,Medium
+TXN000551,2025-03-10,CUST_A105,RCV_B205,USA,ARE,Mercury Trust,Continental Finance,USD,65143.59,Wire,Corporate,Intercompany Transfer,Medium
+TXN000552,2025-03-10,CUST_A102,RCV_B205,USA,DEU,Atlantic Bank,Atlantic Bank,USD,32819.01,Remittance,SME,Invoice Payment,Low
+TXN000553,2025-03-11,CUST_A102,RCV_B205,GBR,USA,Harbor Bank,Continental Finance,USD,58413.39,Wire,SME,Invoice Payment,Low
+TXN000554,2025-03-11,CUST_A105,RCV_B201,USA,ZAF,Continental Finance,Atlantic Bank,USD,92120.47,ACH,Corporate,Intercompany Transfer,Medium
+TXN000555,2025-03-11,CUST_A101,RCV_B201,USA,DEU,Harbor Bank,Atlantic Bank,USD,89683.74,Remittance,Corporate,Invoice Payment,Medium
+TXN000556,2025-03-11,CUST_A105,RCV_B201,USA,RUS,Mercury Trust,Atlantic Bank,USD,49927.88,Wire,Corporate,Capital Goods,Medium
+TXN000557,2025-03-11,CUST_A102,RCV_B203,USA,ARE,Atlantic Bank,Mercury Trust,USD,11605.99,ACH,SME,Invoice Payment,Low
+TXN000558,2025-03-11,CUST_A101,RCV_B206,USA,GBR,Mercury Trust,Mercury Trust,USD,61748.81,Trade Finance,Corporate,Intercompany Transfer,Medium
+TXN000559,2025-03-11,CUST_A101,RCV_B206,USA,RUS,Atlantic Bank,Atlantic Bank,USD,136346.85,Remittance,Corporate,Invoice Payment,Medium
+TXN000560,2025-03-12,CUST_A105,RCV_B203,USA,GBR,Continental Finance,Mercury Trust,USD,122937.52,Remittance,Corporate,Invoice Payment,Medium
+TXN000561,2025-03-12,CUST_A101,RCV_B204,GBR,USA,Harbor Bank,Harbor Bank,USD,86014.49,ACH,Corporate,Intercompany Transfer,Medium
+TXN000562,2025-03-12,CUST_A102,RCV_B201,USA,GBR,Harbor Bank,Continental Finance,USD,29270.07,Wire,SME,Intercompany Transfer,Low
+TXN000563,2025-03-12,CUST_A101,RCV_B201,GBR,USA,Mercury Trust,Continental Finance,USD,55440.68,Wire,Corporate,Services,Medium
+TXN000564,2025-03-12,CUST_A104,RCV_B203,USA,ARE,Harbor Bank,Mercury Trust,USD,2402.71,ACH,Retail,Capital Goods,Low
+TXN000565,2025-03-12,CUST_A104,RCV_B201,GBR,USA,Atlantic Bank,Continental Finance,USD,2716.34,Trade Finance,Retail,Services,Low
+TXN000566,2025-03-12,CUST_A106,RCV_B205,USA,RUS,Continental Finance,Harbor Bank,USD,18382.3,Trade Finance,SME,Capital Goods,Medium
+TXN000567,2025-03-12,CUST_A101,RCV_B201,USA,DEU,Atlantic Bank,Harbor Bank,USD,59886.31,Wire,Corporate,Family Support,Medium
+TXN000568,2025-03-13,CUST_A103,RCV_B205,USA,DEU,Harbor Bank,Mercury Trust,USD,96420.02,Remittance,NBFI,Intercompany Transfer,High
+TXN000569,2025-03-13,CUST_A101,RCV_B205,USA,DEU,Continental Finance,Harbor Bank,USD,91245.96,Trade Finance,Corporate,Intercompany Transfer,Medium
+TXN000570,2025-03-13,CUST_A105,RCV_B203,USA,DEU,Mercury Trust,Mercury Trust,USD,74314.91,Wire,Corporate,Capital Goods,Medium
+TXN000571,2025-03-13,CUST_A102,RCV_B201,USA,GBR,Continental Finance,Continental Finance,USD,6730.9,Wire,SME,Invoice Payment,Low
+TXN000572,2025-03-13,CUST_A101,RCV_B203,USA,RUS,Atlantic Bank,Mercury Trust,USD,108544.99,Remittance,Corporate,Services,Medium
+TXN000573,2025-03-13,CUST_A104,RCV_B206,USA,RUS,Continental Finance,Harbor Bank,USD,1422.4,ACH,Retail,Invoice Payment,Low
+TXN000574,2025-03-14,CUST_A101,RCV_B202,USA,ARE,Harbor Bank,Mercury Trust,USD,35096.62,ACH,Corporate,Capital Goods,Medium
+TXN000575,2025-03-14,CUST_A102,RCV_B201,USA,GBR,Atlantic Bank,Mercury Trust,USD,8744.68,Wire,SME,Invoice Payment,Low
+TXN000576,2025-03-14,CUST_A103,RCV_B206,USA,ZAF,Mercury Trust,Atlantic Bank,USD,54891.76,Trade Finance,NBFI,Family Support,High
+TXN000577,2025-03-14,CUST_A103,RCV_B206,USA,DEU,Atlantic Bank,Mercury Trust,USD,214797.51,Remittance,NBFI,Invoice Payment,High
+TXN000578,2025-03-14,CUST_A104,RCV_B205,USA,ARE,Continental Finance,Harbor Bank,USD,1588.99,Wire,Retail,Capital Goods,Low
+TXN000579,2025-03-14,CUST_A103,RCV_B204,USA,GBR,Mercury Trust,Continental Finance,USD,151930.43,Remittance,NBFI,Capital Goods,High
+TXN000580,2025-03-14,CUST_A101,RCV_B201,USA,DEU,Atlantic Bank,Atlantic Bank,USD,140262.01,Trade Finance,Corporate,Family Support,Medium
+TXN000581,2025-03-14,CUST_A101,RCV_B204,USA,GBR,Mercury Trust,Atlantic Bank,USD,45521.2,ACH,Corporate,Capital Goods,Medium
+TXN000582,2025-03-14,CUST_A103,RCV_B204,USA,ARE,Continental Finance,Mercury Trust,USD,233232.61,Wire,NBFI,Capital Goods,High
+TXN000583,2025-03-15,CUST_A103,RCV_B201,USA,RUS,Atlantic Bank,Mercury Trust,USD,93747.88,Remittance,NBFI,Services,High
+TXN000584,2025-03-15,CUST_A101,RCV_B201,USA,RUS,Continental Finance,Continental Finance,USD,61278.23,Trade Finance,Corporate,Family Support,Medium
+TXN000585,2025-03-15,CUST_A103,RCV_B202,USA,ZAF,Atlantic Bank,Harbor Bank,USD,63695.59,Wire,NBFI,Invoice Payment,High
+TXN000586,2025-03-15,CUST_A101,RCV_B205,USA,DEU,Harbor Bank,Mercury Trust,USD,92209.4,Trade Finance,Corporate,Family Support,Medium
+TXN000587,2025-03-15,CUST_A101,RCV_B205,GBR,USA,Continental Finance,Harbor Bank,USD,129259.03,ACH,Corporate,Invoice Payment,Medium
+TXN000588,2025-03-15,CUST_A106,RCV_B206,GBR,USA,Atlantic Bank,Harbor Bank,USD,6925.5,ACH,SME,Services,Medium
+TXN000589,2025-03-15,CUST_A105,RCV_B201,USA,GBR,Atlantic Bank,Atlantic Bank,USD,197629.21,ACH,Corporate,Services,Medium
+TXN000590,2025-03-15,CUST_A104,RCV_B204,USA,RUS,Harbor Bank,Continental Finance,USD,1096.85,Wire,Retail,Services,Low
+TXN000591,2025-03-15,CUST_A105,RCV_B205,USA,ZAF,Atlantic Bank,Continental Finance,USD,17634.15,Remittance,Corporate,Capital Goods,Medium
+TXN000592,2025-03-16,CUST_A105,RCV_B201,USA,DEU,Mercury Trust,Mercury Trust,USD,25067.04,Remittance,Corporate,Capital Goods,Medium
+TXN000593,2025-03-16,CUST_A106,RCV_B203,GBR,USA,Continental Finance,Harbor Bank,USD,11040.9,ACH,SME,Invoice Payment,Medium
+TXN000594,2025-03-16,CUST_A103,RCV_B202,GBR,USA,Atlantic Bank,Mercury Trust,USD,56832.55,Remittance,NBFI,Services,High
+TXN000595,2025-03-16,CUST_A104,RCV_B205,USA,DEU,Continental Finance,Mercury Trust,USD,2329.58,ACH,Retail,Invoice Payment,Low
+TXN000596,2025-03-16,CUST_A106,RCV_B204,USA,GBR,Atlantic Bank,Atlantic Bank,USD,21099.62,ACH,SME,Capital Goods,Medium
+TXN000597,2025-03-16,CUST_A105,RCV_B203,GBR,USA,Atlantic Bank,Continental Finance,USD,108274.12,ACH,Corporate,Services,Medium
+TXN000598,2025-03-17,CUST_A106,RCV_B203,USA,ARE,Continental Finance,Atlantic Bank,USD,24113.77,Wire,SME,Family Support,Medium
+TXN000599,2025-03-17,CUST_A106,RCV_B206,USA,RUS,Atlantic Bank,Atlantic Bank,USD,6200.37,Remittance,SME,Capital Goods,Medium
+TXN000600,2025-03-17,CUST_A104,RCV_B206,USA,GBR,Mercury Trust,Continental Finance,USD,3299.28,ACH,Retail,Intercompany Transfer,Low
+TXN000601,2025-03-17,CUST_A101,RCV_B206,USA,ARE,Harbor Bank,Mercury Trust,USD,69292.12,ACH,Corporate,Intercompany Transfer,Medium
+TXN000602,2025-03-17,CUST_A104,RCV_B205,USA,GBR,Harbor Bank,Atlantic Bank,USD,1607.26,Remittance,Retail,Capital Goods,Low
+TXN000603,2025-03-17,CUST_A104,RCV_B201,USA,ZAF,Mercury Trust,Mercury Trust,USD,1104.86,Remittance,Retail,Invoice Payment,Low
+TXN000604,2025-03-17,CUST_A105,RCV_B205,USA,GBR,Mercury Trust,Harbor Bank,USD,202386.82,ACH,Corporate,Services,Medium
+TXN000605,2025-03-17,CUST_A102,RCV_B204,USA,GBR,Mercury Trust,Mercury Trust,USD,16539.07,Remittance,SME,Family Support,Low
+TXN000606,2025-03-17,CUST_A101,RCV_B206,USA,RUS,Mercury Trust,Harbor Bank,USD,100806.64,Remittance,Corporate,Capital Goods,Medium
+TXN000607,2025-03-17,CUST_A102,RCV_B204,USA,RUS,Harbor Bank,Atlantic Bank,USD,10657.31,Remittance,SME,Intercompany Transfer,Low
+TXN000608,2025-03-18,CUST_A102,RCV_B201,USA,GBR,Atlantic Bank,Harbor Bank,USD,7411.49,Wire,SME,Services,Low
+TXN000609,2025-03-18,CUST_A101,RCV_B205,USA,ARE,Harbor Bank,Harbor Bank,USD,69525.0,Trade Finance,Corporate,Invoice Payment,Medium
+TXN000610,2025-03-18,CUST_A105,RCV_B205,GBR,USA,Atlantic Bank,Atlantic Bank,USD,79636.51,Wire,Corporate,Intercompany Transfer,Medium
+TXN000611,2025-03-18,CUST_A104,RCV_B205,USA,DEU,Harbor Bank,Atlantic Bank,USD,1716.34,Wire,Retail,Invoice Payment,Low
+TXN001410,2025-03-18,CUST_A102,RCV_B204,USA,DEU,Atlantic Bank,Harbor Bank,USD,425000.0,Wire,SME,Unusual Invoice Payment,Medium
+TXN000612,2025-03-19,CUST_A105,RCV_B203,USA,DEU,Harbor Bank,Harbor Bank,USD,44322.41,Trade Finance,Corporate,Capital Goods,Medium
+TXN000613,2025-03-19,CUST_A104,RCV_B203,USA,ARE,Continental Finance,Mercury Trust,USD,2783.61,Remittance,Retail,Family Support,Low
+TXN000614,2025-03-19,CUST_A103,RCV_B205,USA,ARE,Atlantic Bank,Harbor Bank,USD,91432.85,ACH,NBFI,Capital Goods,High
+TXN000615,2025-03-19,CUST_A102,RCV_B203,USA,ZAF,Continental Finance,Harbor Bank,USD,6517.04,Remittance,SME,Capital Goods,Low
+TXN000616,2025-03-19,CUST_A105,RCV_B202,USA,ARE,Mercury Trust,Continental Finance,USD,65388.68,Trade Finance,Corporate,Services,Medium
+TXN000617,2025-03-19,CUST_A104,RCV_B203,USA,DEU,Continental Finance,Harbor Bank,USD,1956.11,Trade Finance,Retail,Capital Goods,Low
+TXN000618,2025-03-20,CUST_A104,RCV_B204,GBR,USA,Atlantic Bank,Continental Finance,USD,3591.32,Remittance,Retail,Capital Goods,Low
+TXN000619,2025-03-20,CUST_A103,RCV_B205,GBR,USA,Continental Finance,Continental Finance,USD,160179.41,Trade Finance,NBFI,Family Support,High
+TXN000620,2025-03-20,CUST_A105,RCV_B201,USA,RUS,Mercury Trust,Harbor Bank,USD,173111.4,Trade Finance,Corporate,Family Support,Medium
+TXN000621,2025-03-20,CUST_A106,RCV_B204,USA,RUS,Atlantic Bank,Harbor Bank,USD,10483.41,Trade Finance,SME,Capital Goods,Medium
+TXN000622,2025-03-20,CUST_A104,RCV_B204,USA,RUS,Continental Finance,Mercury Trust,USD,5949.99,Trade Finance,Retail,Capital Goods,Low
+TXN000623,2025-03-20,CUST_A106,RCV_B203,USA,ARE,Atlantic Bank,Mercury Trust,USD,12517.71,Trade Finance,SME,Intercompany Transfer,Medium
+TXN000624,2025-03-20,CUST_A103,RCV_B203,USA,GBR,Atlantic Bank,Mercury Trust,USD,117533.86,Wire,NBFI,Invoice Payment,High
+TXN000625,2025-03-20,CUST_A104,RCV_B205,USA,DEU,Harbor Bank,Continental Finance,USD,4468.88,Remittance,Retail,Intercompany Transfer,Low
+TXN000626,2025-03-21,CUST_A101,RCV_B202,USA,RUS,Continental Finance,Continental Finance,USD,174795.79,ACH,Corporate,Services,Medium
+TXN000627,2025-03-21,CUST_A101,RCV_B204,USA,DEU,Mercury Trust,Harbor Bank,USD,108284.83,ACH,Corporate,Capital Goods,Medium
+TXN000628,2025-03-21,CUST_A106,RCV_B204,GBR,USA,Continental Finance,Continental Finance,USD,13269.9,Remittance,SME,Capital Goods,Medium
+TXN000629,2025-03-21,CUST_A101,RCV_B206,USA,RUS,Atlantic Bank,Mercury Trust,USD,136748.04,Trade Finance,Corporate,Family Support,Medium
+TXN000630,2025-03-21,CUST_A106,RCV_B201,USA,ZAF,Atlantic Bank,Mercury Trust,USD,22446.84,Wire,SME,Family Support,Medium
+TXN000631,2025-03-21,CUST_A106,RCV_B201,USA,DEU,Mercury Trust,Mercury Trust,USD,8869.59,ACH,SME,Capital Goods,Medium
+TXN000632,2025-03-21,CUST_A103,RCV_B201,USA,ARE,Continental Finance,Continental Finance,USD,117272.85,Wire,NBFI,Invoice Payment,High
+TXN000633,2025-03-21,CUST_A101,RCV_B205,GBR,USA,Harbor Bank,Continental Finance,USD,69971.37,Remittance,Corporate,Services,Medium
+TXN000634,2025-03-21,CUST_A106,RCV_B206,USA,ARE,Atlantic Bank,Mercury Trust,USD,16393.56,Remittance,SME,Family Support,Medium
+TXN000635,2025-03-22,CUST_A103,RCV_B206,GBR,USA,Harbor Bank,Mercury Trust,USD,111820.57,Trade Finance,NBFI,Services,High
+TXN000636,2025-03-22,CUST_A103,RCV_B205,USA,DEU,Atlantic Bank,Continental Finance,USD,116098.74,Trade Finance,NBFI,Services,High
+TXN000637,2025-03-22,CUST_A103,RCV_B206,USA,ARE,Atlantic Bank,Atlantic Bank,USD,101063.02,Wire,NBFI,Family Support,High
+TXN000638,2025-03-22,CUST_A102,RCV_B202,USA,DEU,Mercury Trust,Mercury Trust,USD,18534.76,Remittance,SME,Family Support,Low
+TXN000639,2025-03-22,CUST_A101,RCV_B206,USA,RUS,Continental Finance,Mercury Trust,USD,72190.59,ACH,Corporate,Services,Medium
+TXN000640,2025-03-23,CUST_A101,RCV_B205,USA,RUS,Harbor Bank,Mercury Trust,USD,52643.93,ACH,Corporate,Capital Goods,Medium
+TXN000641,2025-03-23,CUST_A102,RCV_B201,GBR,USA,Harbor Bank,Mercury Trust,USD,5875.52,Trade Finance,SME,Capital Goods,Low
+TXN000642,2025-03-23,CUST_A104,RCV_B204,USA,DEU,Atlantic Bank,Harbor Bank,USD,2505.56,Remittance,Retail,Invoice Payment,Low
+TXN000643,2025-03-23,CUST_A103,RCV_B201,USA,ARE,Harbor Bank,Atlantic Bank,USD,60139.18,ACH,NBFI,Services,High
+TXN000644,2025-03-23,CUST_A102,RCV_B203,USA,RUS,Harbor Bank,Atlantic Bank,USD,22255.56,Trade Finance,SME,Services,Low
+TXN000645,2025-03-23,CUST_A104,RCV_B202,USA,ARE,Mercury Trust,Continental Finance,USD,3079.82,Wire,Retail,Intercompany Transfer,Low
+TXN000646,2025-03-23,CUST_A103,RCV_B205,USA,RUS,Atlantic Bank,Atlantic Bank,USD,85874.73,Trade Finance,NBFI,Intercompany Transfer,High
+TXN000647,2025-03-23,CUST_A103,RCV_B206,USA,DEU,Continental Finance,Mercury Trust,USD,57503.32,ACH,NBFI,Services,High
+TXN000648,2025-03-23,CUST_A102,RCV_B203,USA,GBR,Atlantic Bank,Continental Finance,USD,14499.79,Trade Finance,SME,Services,Low
+TXN000649,2025-03-23,CUST_A106,RCV_B204,USA,ARE,Mercury Trust,Harbor Bank,USD,9662.37,Trade Finance,SME,Family Support,Medium
+TXN000650,2025-03-23,CUST_A106,RCV_B203,USA,DEU,Mercury Trust,Mercury Trust,USD,40390.52,Trade Finance,SME,Invoice Payment,Medium
+TXN000651,2025-03-23,CUST_A101,RCV_B205,USA,GBR,Atlantic Bank,Continental Finance,USD,58434.23,ACH,Corporate,Invoice Payment,Medium
+TXN000652,2025-03-24,CUST_A102,RCV_B202,GBR,USA,Harbor Bank,Continental Finance,USD,33632.58,Wire,SME,Family Support,Low
+TXN000653,2025-03-24,CUST_A106,RCV_B203,USA,DEU,Mercury Trust,Mercury Trust,USD,10906.49,Wire,SME,Invoice Payment,Medium
+TXN000654,2025-03-24,CUST_A103,RCV_B205,USA,RUS,Mercury Trust,Continental Finance,USD,43314.67,Trade Finance,NBFI,Family Support,High
+TXN000655,2025-03-24,CUST_A104,RCV_B201,USA,GBR,Atlantic Bank,Atlantic Bank,USD,1728.23,Remittance,Retail,Intercompany Transfer,Low
+TXN000656,2025-03-24,CUST_A103,RCV_B206,USA,ARE,Atlantic Bank,Harbor Bank,USD,214033.58,Trade Finance,NBFI,Intercompany Transfer,High
+TXN000657,2025-03-25,CUST_A105,RCV_B206,USA,DEU,Mercury Trust,Harbor Bank,USD,175610.63,Trade Finance,Corporate,Family Support,Medium
+TXN000658,2025-03-25,CUST_A103,RCV_B204,USA,DEU,Atlantic Bank,Harbor Bank,USD,169068.14,Trade Finance,NBFI,Capital Goods,High
+TXN000659,2025-03-25,CUST_A101,RCV_B201,USA,GBR,Continental Finance,Harbor Bank,USD,80189.76,Trade Finance,Corporate,Family Support,Medium
+TXN000660,2025-03-25,CUST_A102,RCV_B204,USA,DEU,Continental Finance,Continental Finance,USD,17834.96,Trade Finance,SME,Capital Goods,Low
+TXN000661,2025-03-25,CUST_A101,RCV_B205,GBR,USA,Mercury Trust,Mercury Trust,USD,30818.48,ACH,Corporate,Services,Medium
+TXN000662,2025-03-25,CUST_A102,RCV_B201,USA,RUS,Atlantic Bank,Harbor Bank,USD,20491.17,ACH,SME,Services,Low
+TXN000663,2025-03-25,CUST_A103,RCV_B201,USA,DEU,Atlantic Bank,Mercury Trust,USD,167914.4,Trade Finance,NBFI,Intercompany Transfer,High
+TXN000664,2025-03-25,CUST_A104,RCV_B202,USA,ZAF,Mercury Trust,Continental Finance,USD,2723.71,Remittance,Retail,Intercompany Transfer,Low
+TXN000665,2025-03-25,CUST_A103,RCV_B206,USA,ZAF,Continental Finance,Mercury Trust,USD,61589.81,Trade Finance,NBFI,Services,High
+TXN000666,2025-03-25,CUST_A103,RCV_B203,USA,ARE,Harbor Bank,Harbor Bank,USD,178142.37,Wire,NBFI,Intercompany Transfer,High
+TXN000667,2025-03-25,CUST_A104,RCV_B201,USA,ZAF,Harbor Bank,Mercury Trust,USD,1295.35,Wire,Retail,Services,Low
+TXN000668,2025-03-25,CUST_A104,RCV_B205,USA,RUS,Continental Finance,Atlantic Bank,USD,1018.6,Trade Finance,Retail,Services,Low
+TXN000669,2025-03-25,CUST_A104,RCV_B205,USA,GBR,Atlantic Bank,Atlantic Bank,USD,2665.64,Wire,Retail,Intercompany Transfer,Low
+TXN000670,2025-03-25,CUST_A101,RCV_B201,GBR,USA,Continental Finance,Continental Finance,USD,73988.14,ACH,Corporate,Family Support,Medium
+TXN000671,2025-03-25,CUST_A104,RCV_B203,USA,GBR,Mercury Trust,Mercury Trust,USD,2090.66,Wire,Retail,Invoice Payment,Low
+TXN000672,2025-03-25,CUST_A102,RCV_B204,USA,DEU,Atlantic Bank,Atlantic Bank,USD,19158.92,ACH,SME,Family Support,Low
+TXN000673,2025-03-25,CUST_A105,RCV_B204,GBR,USA,Harbor Bank,Harbor Bank,USD,133798.7,Remittance,Corporate,Intercompany Transfer,Medium
+TXN000674,2025-03-25,CUST_A101,RCV_B206,GBR,USA,Continental Finance,Mercury Trust,USD,90711.13,ACH,Corporate,Services,Medium
+TXN000675,2025-03-25,CUST_A106,RCV_B203,USA,GBR,Mercury Trust,Harbor Bank,USD,22060.6,Trade Finance,SME,Family Support,Medium
+TXN000676,2025-03-25,CUST_A105,RCV_B203,GBR,USA,Continental Finance,Atlantic Bank,USD,62590.51,Remittance,Corporate,Family Support,Medium
+TXN000677,2025-03-25,CUST_A103,RCV_B204,USA,DEU,Mercury Trust,Harbor Bank,USD,50117.52,Trade Finance,NBFI,Family Support,High
+TXN000678,2025-03-26,CUST_A104,RCV_B205,USA,ARE,Mercury Trust,Continental Finance,USD,1813.52,Trade Finance,Retail,Family Support,Low
+TXN000679,2025-03-26,CUST_A104,RCV_B204,USA,GBR,Continental Finance,Mercury Trust,USD,1846.88,Remittance,Retail,Family Support,Low
+TXN000680,2025-03-26,CUST_A105,RCV_B204,USA,DEU,Continental Finance,Mercury Trust,USD,62662.29,Remittance,Corporate,Services,Medium
+TXN000681,2025-03-26,CUST_A106,RCV_B203,USA,RUS,Mercury Trust,Mercury Trust,USD,28542.97,Wire,SME,Services,Medium
+TXN000682,2025-03-26,CUST_A105,RCV_B201,USA,ZAF,Mercury Trust,Atlantic Bank,USD,120875.32,Wire,Corporate,Capital Goods,Medium
+TXN000683,2025-03-26,CUST_A105,RCV_B201,USA,RUS,Continental Finance,Atlantic Bank,USD,145734.46,Trade Finance,Corporate,Capital Goods,Medium
+TXN000684,2025-03-26,CUST_A102,RCV_B202,GBR,USA,Atlantic Bank,Continental Finance,USD,14424.21,Remittance,SME,Capital Goods,Low
+TXN000685,2025-03-27,CUST_A101,RCV_B206,USA,GBR,Atlantic Bank,Mercury Trust,USD,61543.26,Remittance,Corporate,Capital Goods,Medium
+TXN000686,2025-03-27,CUST_A106,RCV_B203,USA,ARE,Mercury Trust,Harbor Bank,USD,6656.68,Wire,SME,Invoice Payment,Medium
+TXN000687,2025-03-27,CUST_A104,RCV_B206,USA,GBR,Harbor Bank,Mercury Trust,USD,3173.1,ACH,Retail,Capital Goods,Low
+TXN000688,2025-03-27,CUST_A101,RCV_B206,GBR,USA,Continental Finance,Continental Finance,USD,70857.14,Trade Finance,Corporate,Intercompany Transfer,Medium
+TXN000689,2025-03-27,CUST_A106,RCV_B204,USA,ARE,Mercury Trust,Harbor Bank,USD,16371.68,Wire,SME,Capital Goods,Medium
+TXN000690,2025-03-27,CUST_A102,RCV_B203,USA,GBR,Harbor Bank,Continental Finance,USD,12684.4,Wire,SME,Capital Goods,Low
+TXN000691,2025-03-28,CUST_A103,RCV_B204,USA,ARE,Mercury Trust,Harbor Bank,USD,64626.13,Trade Finance,NBFI,Invoice Payment,High
+TXN000692,2025-03-28,CUST_A103,RCV_B202,USA,RUS,Mercury Trust,Continental Finance,USD,78364.2,Wire,NBFI,Capital Goods,High
+TXN000693,2025-03-28,CUST_A105,RCV_B205,USA,GBR,Atlantic Bank,Continental Finance,USD,67138.42,Remittance,Corporate,Family Support,Medium
+TXN000694,2025-03-28,CUST_A104,RCV_B202,GBR,USA,Continental Finance,Mercury Trust,USD,2353.65,Wire,Retail,Services,Low
+TXN000695,2025-03-28,CUST_A103,RCV_B203,USA,DEU,Continental Finance,Harbor Bank,USD,541432.83,Wire,NBFI,Services,High
+TXN000696,2025-03-28,CUST_A101,RCV_B206,USA,DEU,Mercury Trust,Continental Finance,USD,53192.6,Trade Finance,Corporate,Invoice Payment,Medium
+TXN000697,2025-03-28,CUST_A102,RCV_B206,USA,DEU,Atlantic Bank,Harbor Bank,USD,7972.62,Trade Finance,SME,Intercompany Transfer,Low
+TXN000698,2025-03-28,CUST_A102,RCV_B201,USA,ZAF,Continental Finance,Harbor Bank,USD,7690.48,Trade Finance,SME,Family Support,Low
+TXN000699,2025-03-28,CUST_A101,RCV_B201,USA,GBR,Continental Finance,Atlantic Bank,USD,43865.22,Trade Finance,Corporate,Family Support,Medium
+TXN000700,2025-03-28,CUST_A101,RCV_B201,USA,ZAF,Continental Finance,Atlantic Bank,USD,109027.32,Wire,Corporate,Family Support,Medium
+TXN000701,2025-03-28,CUST_A106,RCV_B202,USA,RUS,Mercury Trust,Mercury Trust,USD,7424.31,ACH,SME,Family Support,Medium
+TXN000702,2025-03-28,CUST_A101,RCV_B202,USA,ZAF,Continental Finance,Harbor Bank,USD,95371.65,Remittance,Corporate,Invoice Payment,Medium
+TXN000703,2025-03-28,CUST_A106,RCV_B204,USA,ARE,Atlantic Bank,Continental Finance,USD,17923.19,Wire,SME,Intercompany Transfer,Medium
+TXN000704,2025-03-29,CUST_A101,RCV_B201,USA,ZAF,Mercury Trust,Atlantic Bank,USD,44747.52,Wire,Corporate,Capital Goods,Medium
+TXN000705,2025-03-29,CUST_A101,RCV_B206,USA,ZAF,Harbor Bank,Continental Finance,USD,56370.94,ACH,Corporate,Family Support,Medium
+TXN000706,2025-03-29,CUST_A101,RCV_B206,USA,DEU,Atlantic Bank,Atlantic Bank,USD,34631.16,Remittance,Corporate,Invoice Payment,Medium
+TXN000707,2025-03-29,CUST_A106,RCV_B203,USA,ARE,Mercury Trust,Continental Finance,USD,8429.51,Remittance,SME,Services,Medium
+TXN000708,2025-03-29,CUST_A103,RCV_B206,USA,RUS,Mercury Trust,Continental Finance,USD,454791.05,Remittance,NBFI,Invoice Payment,High
+TXN000709,2025-03-29,CUST_A101,RCV_B203,USA,ARE,Atlantic Bank,Atlantic Bank,USD,67223.69,Remittance,Corporate,Services,Medium
+TXN000710,2025-03-30,CUST_A102,RCV_B206,USA,GBR,Harbor Bank,Atlantic Bank,USD,6862.56,Trade Finance,SME,Invoice Payment,Low
+TXN000711,2025-03-30,CUST_A103,RCV_B202,USA,ZAF,Harbor Bank,Mercury Trust,USD,145578.01,Trade Finance,NBFI,Capital Goods,High
+TXN000712,2025-03-30,CUST_A104,RCV_B205,GBR,USA,Continental Finance,Harbor Bank,USD,3869.01,ACH,Retail,Capital Goods,Low
+TXN000713,2025-03-30,CUST_A102,RCV_B203,USA,ARE,Continental Finance,Harbor Bank,USD,12688.08,Wire,SME,Invoice Payment,Low
+TXN000714,2025-03-30,CUST_A103,RCV_B204,USA,DEU,Continental Finance,Mercury Trust,USD,236954.83,Wire,NBFI,Intercompany Transfer,High
+TXN000715,2025-03-30,CUST_A106,RCV_B203,GBR,USA,Harbor Bank,Continental Finance,USD,14672.84,Trade Finance,SME,Family Support,Medium
+TXN000716,2025-03-31,CUST_A103,RCV_B202,USA,RUS,Mercury Trust,Harbor Bank,USD,105191.52,ACH,NBFI,Intercompany Transfer,High
+TXN000717,2025-03-31,CUST_A105,RCV_B205,USA,ARE,Atlantic Bank,Atlantic Bank,USD,45282.93,Wire,Corporate,Invoice Payment,Medium
+TXN000718,2025-03-31,CUST_A105,RCV_B204,USA,DEU,Harbor Bank,Harbor Bank,USD,203865.95,Trade Finance,Corporate,Invoice Payment,Medium
+TXN000719,2025-03-31,CUST_A105,RCV_B203,USA,ZAF,Continental Finance,Harbor Bank,USD,120471.13,Wire,Corporate,Invoice Payment,Medium
+TXN000720,2025-03-31,CUST_A101,RCV_B205,USA,ZAF,Mercury Trust,Continental Finance,USD,65718.8,Wire,Corporate,Invoice Payment,Medium
+TXN000721,2025-03-31,CUST_A106,RCV_B203,USA,DEU,Mercury Trust,Mercury Trust,USD,19106.11,Remittance,SME,Invoice Payment,Medium
+TXN000722,2025-03-31,CUST_A102,RCV_B203,GBR,USA,Mercury Trust,Continental Finance,USD,8493.4,Wire,SME,Family Support,Low
+TXN000723,2025-03-31,CUST_A101,RCV_B201,USA,ARE,Atlantic Bank,Continental Finance,USD,139552.36,Trade Finance,Corporate,Capital Goods,Medium
+TXN000724,2025-03-31,CUST_A106,RCV_B203,USA,DEU,Atlantic Bank,Mercury Trust,USD,17241.39,Wire,SME,Capital Goods,Medium
+TXN000725,2025-03-31,CUST_A101,RCV_B204,USA,ZAF,Continental Finance,Mercury Trust,USD,67551.24,ACH,Corporate,Capital Goods,Medium
+TXN000726,2025-03-31,CUST_A104,RCV_B203,GBR,USA,Mercury Trust,Harbor Bank,USD,3798.5,Remittance,Retail,Invoice Payment,Low
+TXN000727,2025-04-01,CUST_A104,RCV_B206,USA,ZAF,Mercury Trust,Continental Finance,USD,1019.98,Wire,Retail,Invoice Payment,Low
+TXN000728,2025-04-01,CUST_A104,RCV_B205,USA,ZAF,Continental Finance,Harbor Bank,USD,1342.63,Remittance,Retail,Family Support,Low
+TXN000729,2025-04-01,CUST_A105,RCV_B204,USA,GBR,Mercury Trust,Atlantic Bank,USD,72708.43,Remittance,Corporate,Services,Medium
+TXN000730,2025-04-01,CUST_A101,RCV_B201,GBR,USA,Harbor Bank,Continental Finance,USD,36166.41,Wire,Corporate,Family Support,Medium
+TXN000731,2025-04-01,CUST_A104,RCV_B203,USA,GBR,Continental Finance,Atlantic Bank,USD,1814.46,ACH,Retail,Capital Goods,Low
+TXN000732,2025-04-01,CUST_A103,RCV_B203,USA,DEU,Atlantic Bank,Continental Finance,USD,149455.47,Trade Finance,NBFI,Capital Goods,High
+TXN000733,2025-04-01,CUST_A101,RCV_B203,USA,RUS,Atlantic Bank,Mercury Trust,USD,64648.58,ACH,Corporate,Capital Goods,Medium
+TXN000734,2025-04-01,CUST_A103,RCV_B205,GBR,USA,Mercury Trust,Harbor Bank,USD,113677.12,Wire,NBFI,Invoice Payment,High
+TXN000735,2025-04-01,CUST_A105,RCV_B203,USA,DEU,Atlantic Bank,Continental Finance,USD,88394.87,ACH,Corporate,Capital Goods,Medium
+TXN000736,2025-04-01,CUST_A106,RCV_B202,USA,ZAF,Atlantic Bank,Atlantic Bank,USD,14244.22,Remittance,SME,Invoice Payment,Medium
+TXN000737,2025-04-01,CUST_A106,RCV_B203,USA,ZAF,Continental Finance,Harbor Bank,USD,32681.3,Trade Finance,SME,Services,Medium
+TXN000738,2025-04-01,CUST_A105,RCV_B202,USA,RUS,Continental Finance,Harbor Bank,USD,61406.92,Wire,Corporate,Capital Goods,Medium
+TXN000739,2025-04-01,CUST_A103,RCV_B204,GBR,USA,Harbor Bank,Continental Finance,USD,125250.15,Trade Finance,NBFI,Invoice Payment,High
+TXN000740,2025-04-01,CUST_A105,RCV_B205,USA,GBR,Mercury Trust,Mercury Trust,USD,51007.78,ACH,Corporate,Intercompany Transfer,Medium
+TXN000741,2025-04-01,CUST_A106,RCV_B205,GBR,USA,Atlantic Bank,Atlantic Bank,USD,15517.0,Wire,SME,Intercompany Transfer,Medium
+TXN000742,2025-04-02,CUST_A103,RCV_B206,USA,GBR,Atlantic Bank,Harbor Bank,USD,98895.93,Trade Finance,NBFI,Invoice Payment,High
+TXN000743,2025-04-02,CUST_A101,RCV_B204,USA,GBR,Continental Finance,Atlantic Bank,USD,81323.52,Wire,Corporate,Family Support,Medium
+TXN000744,2025-04-02,CUST_A101,RCV_B204,USA,ZAF,Harbor Bank,Continental Finance,USD,108087.8,Wire,Corporate,Services,Medium
+TXN000745,2025-04-02,CUST_A101,RCV_B203,USA,DEU,Atlantic Bank,Atlantic Bank,USD,54245.5,Wire,Corporate,Invoice Payment,Medium
+TXN000746,2025-04-02,CUST_A105,RCV_B203,USA,GBR,Mercury Trust,Continental Finance,USD,46156.37,ACH,Corporate,Invoice Payment,Medium
+TXN000747,2025-04-02,CUST_A102,RCV_B201,USA,ARE,Mercury Trust,Harbor Bank,USD,12688.29,Wire,SME,Capital Goods,Low
+TXN000748,2025-04-02,CUST_A106,RCV_B205,GBR,USA,Harbor Bank,Continental Finance,USD,9840.08,ACH,SME,Services,Medium
+TXN000749,2025-04-02,CUST_A105,RCV_B206,USA,ARE,Atlantic Bank,Mercury Trust,USD,171161.3,Trade Finance,Corporate,Family Support,Medium
+TXN000750,2025-04-03,CUST_A101,RCV_B206,USA,DEU,Mercury Trust,Mercury Trust,USD,98382.69,ACH,Corporate,Invoice Payment,Medium
+TXN000751,2025-04-03,CUST_A101,RCV_B202,USA,ZAF,Continental Finance,Continental Finance,USD,167006.8,Wire,Corporate,Intercompany Transfer,Medium
+TXN000752,2025-04-03,CUST_A101,RCV_B204,USA,ZAF,Harbor Bank,Mercury Trust,USD,38538.73,Remittance,Corporate,Intercompany Transfer,Medium
+TXN000753,2025-04-03,CUST_A105,RCV_B206,USA,ZAF,Mercury Trust,Harbor Bank,USD,42791.95,Remittance,Corporate,Family Support,Medium
+TXN000754,2025-04-03,CUST_A104,RCV_B202,USA,ZAF,Continental Finance,Harbor Bank,USD,3585.8,Wire,Retail,Family Support,Low
+TXN000755,2025-04-03,CUST_A104,RCV_B206,USA,ZAF,Mercury Trust,Continental Finance,USD,1326.76,Trade Finance,Retail,Invoice Payment,Low
+TXN000756,2025-04-03,CUST_A102,RCV_B206,USA,GBR,Harbor Bank,Harbor Bank,USD,18050.86,Trade Finance,SME,Services,Low
+TXN000757,2025-04-03,CUST_A104,RCV_B205,USA,RUS,Atlantic Bank,Atlantic Bank,USD,917.4,Remittance,Retail,Family Support,Low
+TXN000758,2025-04-03,CUST_A101,RCV_B201,USA,RUS,Harbor Bank,Harbor Bank,USD,99660.09,Trade Finance,Corporate,Services,Medium
+TXN000759,2025-04-03,CUST_A104,RCV_B206,USA,RUS,Continental Finance,Mercury Trust,USD,3143.11,Wire,Retail,Invoice Payment,Low
+TXN000760,2025-04-03,CUST_A101,RCV_B205,GBR,USA,Mercury Trust,Mercury Trust,USD,50315.02,Wire,Corporate,Capital Goods,Medium
+TXN000761,2025-04-03,CUST_A102,RCV_B204,USA,RUS,Continental Finance,Harbor Bank,USD,9612.32,ACH,SME,Services,Low
+TXN001411,2025-04-03,CUST_A103,RCV_B205,USA,RUS,Atlantic Bank,Harbor Bank,USD,780000.0,Trade Finance,NBFI,Large Trade Settlement,High
+TXN000762,2025-04-04,CUST_A105,RCV_B202,USA,ZAF,Atlantic Bank,Continental Finance,USD,66226.59,Wire,Corporate,Capital Goods,Medium
+TXN000763,2025-04-04,CUST_A106,RCV_B205,USA,DEU,Mercury Trust,Mercury Trust,USD,14041.3,Remittance,SME,Capital Goods,Medium
+TXN000764,2025-04-04,CUST_A106,RCV_B205,USA,ARE,Harbor Bank,Mercury Trust,USD,38611.89,Remittance,SME,Intercompany Transfer,Medium
+TXN000765,2025-04-04,CUST_A106,RCV_B204,USA,GBR,Continental Finance,Harbor Bank,USD,7784.89,Wire,SME,Intercompany Transfer,Medium
+TXN000766,2025-04-05,CUST_A104,RCV_B206,USA,ZAF,Continental Finance,Atlantic Bank,USD,3932.5,ACH,Retail,Invoice Payment,Low
+TXN000767,2025-04-05,CUST_A106,RCV_B201,USA,ARE,Continental Finance,Harbor Bank,USD,21337.84,Wire,SME,Invoice Payment,Medium
+TXN000768,2025-04-05,CUST_A101,RCV_B205,GBR,USA,Continental Finance,Continental Finance,USD,50166.02,ACH,Corporate,Intercompany Transfer,Medium
+TXN000769,2025-04-05,CUST_A106,RCV_B205,USA,ZAF,Harbor Bank,Mercury Trust,USD,16886.07,Trade Finance,SME,Capital Goods,Medium
+TXN000770,2025-04-05,CUST_A102,RCV_B206,USA,GBR,Continental Finance,Atlantic Bank,USD,12946.29,ACH,SME,Intercompany Transfer,Low
+TXN000771,2025-04-05,CUST_A102,RCV_B205,USA,RUS,Harbor Bank,Continental Finance,USD,25729.55,ACH,SME,Family Support,Low
+TXN000772,2025-04-06,CUST_A105,RCV_B205,USA,ZAF,Harbor Bank,Atlantic Bank,USD,96590.71,ACH,Corporate,Capital Goods,Medium
+TXN000773,2025-04-06,CUST_A101,RCV_B201,USA,RUS,Continental Finance,Mercury Trust,USD,99390.48,Remittance,Corporate,Family Support,Medium
+TXN000774,2025-04-06,CUST_A102,RCV_B205,USA,RUS,Harbor Bank,Continental Finance,USD,22861.43,Trade Finance,SME,Services,Low
+TXN000775,2025-04-06,CUST_A102,RCV_B202,USA,DEU,Mercury Trust,Continental Finance,USD,3711.68,Trade Finance,SME,Capital Goods,Low
+TXN000776,2025-04-06,CUST_A102,RCV_B204,USA,GBR,Atlantic Bank,Continental Finance,USD,38047.05,Remittance,SME,Services,Low
+TXN000777,2025-04-06,CUST_A101,RCV_B205,USA,DEU,Continental Finance,Atlantic Bank,USD,62740.42,ACH,Corporate,Capital Goods,Medium
+TXN000778,2025-04-06,CUST_A103,RCV_B204,USA,DEU,Mercury Trust,Atlantic Bank,USD,125038.16,Trade Finance,NBFI,Family Support,High
+TXN000779,2025-04-06,CUST_A105,RCV_B205,USA,ARE,Continental Finance,Continental Finance,USD,72133.68,ACH,Corporate,Family Support,Medium
+TXN000780,2025-04-07,CUST_A103,RCV_B204,USA,DEU,Harbor Bank,Atlantic Bank,USD,122902.24,ACH,NBFI,Invoice Payment,High
+TXN000781,2025-04-07,CUST_A105,RCV_B204,USA,DEU,Mercury Trust,Continental Finance,USD,59375.53,Remittance,Corporate,Services,Medium
+TXN000782,2025-04-07,CUST_A102,RCV_B203,GBR,USA,Continental Finance,Atlantic Bank,USD,15849.35,Remittance,SME,Invoice Payment,Low
+TXN000783,2025-04-07,CUST_A101,RCV_B202,USA,DEU,Atlantic Bank,Harbor Bank,USD,142139.96,Trade Finance,Corporate,Intercompany Transfer,Medium
+TXN000784,2025-04-07,CUST_A105,RCV_B201,USA,ZAF,Atlantic Bank,Continental Finance,USD,219712.3,Trade Finance,Corporate,Intercompany Transfer,Medium
+TXN000785,2025-04-07,CUST_A103,RCV_B202,USA,DEU,Mercury Trust,Mercury Trust,USD,74982.15,Wire,NBFI,Services,High
+TXN000786,2025-04-07,CUST_A102,RCV_B201,USA,RUS,Continental Finance,Atlantic Bank,USD,13073.93,Trade Finance,SME,Capital Goods,Low
+TXN000787,2025-04-07,CUST_A105,RCV_B203,USA,ZAF,Mercury Trust,Continental Finance,USD,58782.64,Wire,Corporate,Invoice Payment,Medium
+TXN000788,2025-04-08,CUST_A106,RCV_B205,USA,ARE,Continental Finance,Mercury Trust,USD,23860.32,ACH,SME,Services,Medium
+TXN000789,2025-04-08,CUST_A102,RCV_B206,GBR,USA,Atlantic Bank,Continental Finance,USD,18074.41,Wire,SME,Services,Low
+TXN000790,2025-04-08,CUST_A104,RCV_B206,USA,RUS,Atlantic Bank,Harbor Bank,USD,3407.42,Trade Finance,Retail,Services,Low
+TXN000791,2025-04-08,CUST_A101,RCV_B204,USA,GBR,Atlantic Bank,Atlantic Bank,USD,34019.58,Remittance,Corporate,Services,Medium
+TXN000792,2025-04-08,CUST_A104,RCV_B206,USA,DEU,Mercury Trust,Harbor Bank,USD,3237.36,ACH,Retail,Capital Goods,Low
+TXN000793,2025-04-08,CUST_A106,RCV_B204,USA,RUS,Harbor Bank,Mercury Trust,USD,7240.14,Trade Finance,SME,Family Support,Medium
+TXN000794,2025-04-08,CUST_A102,RCV_B202,USA,ARE,Harbor Bank,Mercury Trust,USD,10251.68,Trade Finance,SME,Capital Goods,Low
+TXN000795,2025-04-09,CUST_A105,RCV_B203,USA,ARE,Continental Finance,Atlantic Bank,USD,39861.01,Wire,Corporate,Capital Goods,Medium
+TXN000796,2025-04-09,CUST_A103,RCV_B205,USA,ZAF,Mercury Trust,Harbor Bank,USD,281010.2,Wire,NBFI,Services,High
+TXN000797,2025-04-09,CUST_A105,RCV_B204,USA,ARE,Continental Finance,Harbor Bank,USD,77595.92,Wire,Corporate,Capital Goods,Medium
+TXN000798,2025-04-09,CUST_A101,RCV_B202,USA,DEU,Harbor Bank,Mercury Trust,USD,120609.33,Remittance,Corporate,Family Support,Medium
+TXN000799,2025-04-09,CUST_A106,RCV_B202,USA,ARE,Atlantic Bank,Harbor Bank,USD,17802.26,Trade Finance,SME,Intercompany Transfer,Medium
+TXN000800,2025-04-09,CUST_A106,RCV_B203,USA,ARE,Atlantic Bank,Continental Finance,USD,22850.86,Trade Finance,SME,Family Support,Medium
+TXN000801,2025-04-09,CUST_A106,RCV_B202,USA,RUS,Continental Finance,Continental Finance,USD,16476.07,ACH,SME,Family Support,Medium
+TXN000802,2025-04-09,CUST_A104,RCV_B206,USA,ZAF,Atlantic Bank,Atlantic Bank,USD,1942.37,Wire,Retail,Family Support,Low
+TXN000803,2025-04-09,CUST_A103,RCV_B206,USA,ARE,Atlantic Bank,Harbor Bank,USD,342702.74,Wire,NBFI,Invoice Payment,High
+TXN000804,2025-04-09,CUST_A101,RCV_B203,USA,RUS,Atlantic Bank,Mercury Trust,USD,37088.67,Remittance,Corporate,Services,Medium
+TXN000805,2025-04-10,CUST_A103,RCV_B205,USA,ZAF,Mercury Trust,Harbor Bank,USD,78628.81,Trade Finance,NBFI,Capital Goods,High
+TXN000806,2025-04-10,CUST_A105,RCV_B203,USA,GBR,Continental Finance,Harbor Bank,USD,110657.99,Trade Finance,Corporate,Services,Medium
+TXN000807,2025-04-10,CUST_A101,RCV_B202,USA,RUS,Harbor Bank,Continental Finance,USD,89899.21,Remittance,Corporate,Intercompany Transfer,Medium
+TXN000808,2025-04-10,CUST_A105,RCV_B202,USA,GBR,Harbor Bank,Continental Finance,USD,56979.29,Remittance,Corporate,Services,Medium
+TXN000809,2025-04-10,CUST_A101,RCV_B206,USA,ARE,Atlantic Bank,Mercury Trust,USD,303898.54,Trade Finance,Corporate,Intercompany Transfer,Medium
+TXN000810,2025-04-10,CUST_A102,RCV_B202,USA,ARE,Harbor Bank,Mercury Trust,USD,40050.52,Remittance,SME,Invoice Payment,Low
+TXN000811,2025-04-11,CUST_A101,RCV_B206,USA,RUS,Mercury Trust,Harbor Bank,USD,53390.45,ACH,Corporate,Invoice Payment,Medium
+TXN000812,2025-04-11,CUST_A103,RCV_B203,GBR,USA,Continental Finance,Harbor Bank,USD,92231.44,ACH,NBFI,Family Support,High
+TXN000813,2025-04-11,CUST_A103,RCV_B205,USA,ARE,Mercury Trust,Harbor Bank,USD,218017.84,Wire,NBFI,Family Support,High
+TXN000814,2025-04-11,CUST_A101,RCV_B201,USA,RUS,Mercury Trust,Mercury Trust,USD,193038.74,Wire,Corporate,Family Support,Medium
+TXN000815,2025-04-11,CUST_A105,RCV_B203,USA,ARE,Mercury Trust,Continental Finance,USD,69249.69,Wire,Corporate,Capital Goods,Medium
+TXN000816,2025-04-11,CUST_A104,RCV_B204,USA,ZAF,Mercury Trust,Atlantic Bank,USD,2102.99,Remittance,Retail,Intercompany Transfer,Low
+TXN000817,2025-04-11,CUST_A105,RCV_B204,USA,RUS,Harbor Bank,Continental Finance,USD,30743.49,Remittance,Corporate,Services,Medium
+TXN000818,2025-04-11,CUST_A106,RCV_B206,USA,DEU,Atlantic Bank,Mercury Trust,USD,17870.44,ACH,SME,Services,Medium
+TXN000819,2025-04-11,CUST_A101,RCV_B203,GBR,USA,Mercury Trust,Continental Finance,USD,70254.72,Remittance,Corporate,Intercompany Transfer,Medium
+TXN000820,2025-04-11,CUST_A101,RCV_B206,USA,ZAF,Atlantic Bank,Atlantic Bank,USD,131861.14,Trade Finance,Corporate,Services,Medium
+TXN000821,2025-04-11,CUST_A104,RCV_B202,USA,GBR,Atlantic Bank,Mercury Trust,USD,2446.44,Wire,Retail,Services,Low
+TXN000822,2025-04-11,CUST_A102,RCV_B204,USA,RUS,Atlantic Bank,Atlantic Bank,USD,21930.03,Trade Finance,SME,Services,Low
+TXN000823,2025-04-11,CUST_A106,RCV_B203,USA,DEU,Harbor Bank,Mercury Trust,USD,20463.46,Wire,SME,Family Support,Medium
+TXN000824,2025-04-11,CUST_A101,RCV_B204,USA,ZAF,Mercury Trust,Harbor Bank,USD,158472.86,Wire,Corporate,Invoice Payment,Medium
+TXN000825,2025-04-12,CUST_A103,RCV_B206,USA,ARE,Mercury Trust,Mercury Trust,USD,171018.77,ACH,NBFI,Intercompany Transfer,High
+TXN000826,2025-04-12,CUST_A101,RCV_B206,USA,DEU,Continental Finance,Atlantic Bank,USD,105392.47,Wire,Corporate,Invoice Payment,Medium
+TXN000827,2025-04-12,CUST_A103,RCV_B201,USA,ARE,Atlantic Bank,Mercury Trust,USD,153354.52,Trade Finance,NBFI,Services,High
+TXN000828,2025-04-12,CUST_A105,RCV_B205,USA,RUS,Atlantic Bank,Mercury Trust,USD,38189.63,ACH,Corporate,Capital Goods,Medium
+TXN000829,2025-04-12,CUST_A103,RCV_B206,USA,ARE,Continental Finance,Continental Finance,USD,73228.3,Wire,NBFI,Capital Goods,High
+TXN000830,2025-04-12,CUST_A105,RCV_B205,USA,RUS,Mercury Trust,Continental Finance,USD,65879.26,ACH,Corporate,Capital Goods,Medium
+TXN000831,2025-04-12,CUST_A102,RCV_B203,USA,DEU,Continental Finance,Mercury Trust,USD,19399.33,Trade Finance,SME,Intercompany Transfer,Low
+TXN000832,2025-04-12,CUST_A103,RCV_B205,USA,ZAF,Harbor Bank,Mercury Trust,USD,93257.75,Trade Finance,NBFI,Invoice Payment,High
+TXN000833,2025-04-12,CUST_A104,RCV_B203,USA,ZAF,Atlantic Bank,Mercury Trust,USD,3033.03,Remittance,Retail,Capital Goods,Low
+TXN000834,2025-04-13,CUST_A106,RCV_B206,GBR,USA,Harbor Bank,Mercury Trust,USD,30613.21,Remittance,SME,Intercompany Transfer,Medium
+TXN000835,2025-04-13,CUST_A102,RCV_B202,USA,GBR,Continental Finance,Atlantic Bank,USD,11888.54,ACH,SME,Capital Goods,Low
+TXN000836,2025-04-13,CUST_A106,RCV_B201,USA,ZAF,Harbor Bank,Harbor Bank,USD,3193.95,ACH,SME,Family Support,Medium
+TXN000837,2025-04-13,CUST_A105,RCV_B205,USA,DEU,Atlantic Bank,Mercury Trust,USD,78176.71,Remittance,Corporate,Capital Goods,Medium
+TXN000838,2025-04-13,CUST_A102,RCV_B201,USA,DEU,Mercury Trust,Mercury Trust,USD,18573.83,Remittance,SME,Invoice Payment,Low
+TXN000839,2025-04-13,CUST_A102,RCV_B201,GBR,USA,Mercury Trust,Mercury Trust,USD,5697.92,Trade Finance,SME,Intercompany Transfer,Low
+TXN000840,2025-04-13,CUST_A101,RCV_B206,USA,DEU,Atlantic Bank,Mercury Trust,USD,95040.84,Wire,Corporate,Capital Goods,Medium
+TXN000841,2025-04-13,CUST_A105,RCV_B206,USA,DEU,Continental Finance,Continental Finance,USD,57341.78,Trade Finance,Corporate,Capital Goods,Medium
+TXN000842,2025-04-14,CUST_A101,RCV_B204,USA,GBR,Harbor Bank,Atlantic Bank,USD,49642.71,Trade Finance,Corporate,Invoice Payment,Medium
+TXN000843,2025-04-14,CUST_A103,RCV_B203,USA,ZAF,Atlantic Bank,Harbor Bank,USD,98519.82,Remittance,NBFI,Capital Goods,High
+TXN000844,2025-04-14,CUST_A102,RCV_B204,USA,RUS,Atlantic Bank,Continental Finance,USD,24414.5,ACH,SME,Intercompany Transfer,Low
+TXN000845,2025-04-14,CUST_A106,RCV_B206,USA,GBR,Mercury Trust,Atlantic Bank,USD,3667.99,Remittance,SME,Capital Goods,Medium
+TXN000846,2025-04-14,CUST_A103,RCV_B205,USA,GBR,Harbor Bank,Harbor Bank,USD,139630.78,Remittance,NBFI,Services,High
+TXN000847,2025-04-14,CUST_A102,RCV_B202,USA,RUS,Atlantic Bank,Continental Finance,USD,8211.89,Trade Finance,SME,Capital Goods,Low
+TXN000848,2025-04-14,CUST_A105,RCV_B204,USA,ZAF,Mercury Trust,Atlantic Bank,USD,56841.1,ACH,Corporate,Capital Goods,Medium
+TXN000849,2025-04-14,CUST_A103,RCV_B205,USA,RUS,Continental Finance,Continental Finance,USD,107795.87,Remittance,NBFI,Capital Goods,High
+TXN000850,2025-04-14,CUST_A103,RCV_B203,GBR,USA,Atlantic Bank,Continental Finance,USD,138853.09,Trade Finance,NBFI,Capital Goods,High
+TXN000851,2025-04-14,CUST_A103,RCV_B206,GBR,USA,Mercury Trust,Atlantic Bank,USD,113960.42,Wire,NBFI,Family Support,High
+TXN000852,2025-04-14,CUST_A104,RCV_B206,GBR,USA,Mercury Trust,Continental Finance,USD,1527.65,ACH,Retail,Services,Low
+TXN000853,2025-04-14,CUST_A103,RCV_B204,USA,ZAF,Continental Finance,Mercury Trust,USD,151365.04,ACH,NBFI,Intercompany Transfer,High
+TXN000854,2025-04-15,CUST_A102,RCV_B205,USA,GBR,Atlantic Bank,Harbor Bank,USD,9111.06,ACH,SME,Capital Goods,Low
+TXN000855,2025-04-15,CUST_A104,RCV_B202,USA,ARE,Mercury Trust,Atlantic Bank,USD,1675.82,ACH,Retail,Capital Goods,Low
+TXN000856,2025-04-15,CUST_A101,RCV_B201,GBR,USA,Continental Finance,Harbor Bank,USD,73419.66,Wire,Corporate,Services,Medium
+TXN000857,2025-04-15,CUST_A103,RCV_B205,USA,GBR,Harbor Bank,Harbor Bank,USD,119756.77,Wire,NBFI,Invoice Payment,High
+TXN000858,2025-04-15,CUST_A106,RCV_B204,USA,ZAF,Continental Finance,Atlantic Bank,USD,14611.15,Remittance,SME,Services,Medium
+TXN000859,2025-04-15,CUST_A105,RCV_B204,USA,GBR,Harbor Bank,Harbor Bank,USD,72141.33,Trade Finance,Corporate,Intercompany Transfer,Medium
+TXN000860,2025-04-15,CUST_A104,RCV_B206,USA,GBR,Mercury Trust,Atlantic Bank,USD,1122.19,Wire,Retail,Capital Goods,Low
+TXN000861,2025-04-15,CUST_A106,RCV_B204,USA,ZAF,Mercury Trust,Continental Finance,USD,6833.43,Remittance,SME,Services,Medium
+TXN000862,2025-04-15,CUST_A104,RCV_B205,GBR,USA,Harbor Bank,Atlantic Bank,USD,3199.71,Remittance,Retail,Family Support,Low
+TXN000863,2025-04-15,CUST_A102,RCV_B203,USA,RUS,Mercury Trust,Harbor Bank,USD,17701.84,Remittance,SME,Family Support,Low
+TXN000864,2025-04-16,CUST_A104,RCV_B204,USA,DEU,Atlantic Bank,Mercury Trust,USD,2963.59,Wire,Retail,Services,Low
+TXN000865,2025-04-16,CUST_A106,RCV_B204,GBR,USA,Harbor Bank,Continental Finance,USD,12384.41,ACH,SME,Family Support,Medium
+TXN000866,2025-04-16,CUST_A102,RCV_B206,USA,DEU,Atlantic Bank,Continental Finance,USD,15571.37,Trade Finance,SME,Capital Goods,Low
+TXN000867,2025-04-16,CUST_A103,RCV_B206,GBR,USA,Atlantic Bank,Mercury Trust,USD,165023.87,Wire,NBFI,Family Support,High
+TXN000868,2025-04-16,CUST_A101,RCV_B202,USA,ZAF,Harbor Bank,Harbor Bank,USD,75876.67,Trade Finance,Corporate,Services,Medium
+TXN000869,2025-04-16,CUST_A101,RCV_B205,USA,ZAF,Continental Finance,Continental Finance,USD,102531.85,Trade Finance,Corporate,Invoice Payment,Medium
+TXN000870,2025-04-16,CUST_A103,RCV_B206,USA,ZAF,Continental Finance,Mercury Trust,USD,150245.74,Remittance,NBFI,Intercompany Transfer,High
+TXN000871,2025-04-16,CUST_A104,RCV_B203,USA,DEU,Mercury Trust,Continental Finance,USD,963.22,ACH,Retail,Services,Low
+TXN000872,2025-04-16,CUST_A105,RCV_B203,USA,DEU,Harbor Bank,Continental Finance,USD,77156.42,Remittance,Corporate,Family Support,Medium
+TXN000873,2025-04-17,CUST_A102,RCV_B204,GBR,USA,Harbor Bank,Continental Finance,USD,10868.33,Trade Finance,SME,Invoice Payment,Low
+TXN000874,2025-04-17,CUST_A104,RCV_B203,USA,ARE,Continental Finance,Continental Finance,USD,1747.34,Remittance,Retail,Services,Low
+TXN000875,2025-04-17,CUST_A102,RCV_B205,GBR,USA,Atlantic Bank,Continental Finance,USD,8247.61,Wire,SME,Intercompany Transfer,Low
+TXN000876,2025-04-17,CUST_A102,RCV_B203,USA,RUS,Atlantic Bank,Mercury Trust,USD,4952.82,Remittance,SME,Family Support,Low
+TXN000877,2025-04-17,CUST_A102,RCV_B201,USA,ARE,Atlantic Bank,Continental Finance,USD,8641.03,Wire,SME,Services,Low
+TXN000878,2025-04-17,CUST_A102,RCV_B203,USA,GBR,Atlantic Bank,Mercury Trust,USD,24180.52,Remittance,SME,Invoice Payment,Low
+TXN000879,2025-04-17,CUST_A104,RCV_B204,GBR,USA,Continental Finance,Atlantic Bank,USD,1676.0,ACH,Retail,Family Support,Low
+TXN000880,2025-04-17,CUST_A106,RCV_B206,GBR,USA,Atlantic Bank,Mercury Trust,USD,13183.66,Remittance,SME,Services,Medium
+TXN000881,2025-04-18,CUST_A102,RCV_B206,USA,DEU,Atlantic Bank,Mercury Trust,USD,15810.63,Trade Finance,SME,Services,Low
+TXN000882,2025-04-18,CUST_A105,RCV_B203,USA,ZAF,Mercury Trust,Atlantic Bank,USD,41370.62,Trade Finance,Corporate,Invoice Payment,Medium
+TXN000883,2025-04-18,CUST_A106,RCV_B203,USA,RUS,Mercury Trust,Mercury Trust,USD,19999.31,Wire,SME,Capital Goods,Medium
+TXN000884,2025-04-18,CUST_A104,RCV_B202,USA,ARE,Harbor Bank,Atlantic Bank,USD,1415.63,Remittance,Retail,Capital Goods,Low
+TXN000885,2025-04-18,CUST_A104,RCV_B205,USA,ARE,Continental Finance,Harbor Bank,USD,4802.55,ACH,Retail,Services,Low
+TXN000886,2025-04-18,CUST_A102,RCV_B204,GBR,USA,Harbor Bank,Continental Finance,USD,6693.03,Trade Finance,SME,Invoice Payment,Low
+TXN000887,2025-04-18,CUST_A101,RCV_B202,USA,RUS,Continental Finance,Mercury Trust,USD,112177.32,Remittance,Corporate,Intercompany Transfer,Medium
+TXN000888,2025-04-18,CUST_A103,RCV_B204,USA,RUS,Continental Finance,Harbor Bank,USD,38177.99,ACH,NBFI,Family Support,High
+TXN000889,2025-04-18,CUST_A102,RCV_B204,USA,DEU,Continental Finance,Mercury Trust,USD,29677.18,ACH,SME,Family Support,Low
+TXN000890,2025-04-19,CUST_A104,RCV_B206,USA,RUS,Harbor Bank,Continental Finance,USD,2633.73,ACH,Retail,Family Support,Low
+TXN000891,2025-04-20,CUST_A104,RCV_B203,USA,ZAF,Atlantic Bank,Continental Finance,USD,918.33,Wire,Retail,Intercompany Transfer,Low
+TXN000892,2025-04-20,CUST_A105,RCV_B206,USA,GBR,Harbor Bank,Atlantic Bank,USD,182119.91,Trade Finance,Corporate,Capital Goods,Medium
+TXN000893,2025-04-20,CUST_A103,RCV_B204,USA,ARE,Atlantic Bank,Continental Finance,USD,161169.65,ACH,NBFI,Invoice Payment,High
+TXN000894,2025-04-20,CUST_A104,RCV_B205,GBR,USA,Continental Finance,Atlantic Bank,USD,797.77,Remittance,Retail,Invoice Payment,Low
+TXN000895,2025-04-20,CUST_A105,RCV_B201,USA,RUS,Mercury Trust,Atlantic Bank,USD,69172.01,Trade Finance,Corporate,Services,Medium
+TXN000896,2025-04-20,CUST_A104,RCV_B206,GBR,USA,Mercury Trust,Mercury Trust,USD,4284.18,Wire,Retail,Capital Goods,Low
+TXN000897,2025-04-20,CUST_A103,RCV_B202,USA,ZAF,Mercury Trust,Harbor Bank,USD,76027.24,Remittance,NBFI,Capital Goods,High
+TXN000898,2025-04-21,CUST_A106,RCV_B203,USA,GBR,Atlantic Bank,Mercury Trust,USD,11468.34,Remittance,SME,Family Support,Medium
+TXN000899,2025-04-21,CUST_A106,RCV_B203,USA,ARE,Harbor Bank,Harbor Bank,USD,12492.65,ACH,SME,Invoice Payment,Medium
+TXN000900,2025-04-21,CUST_A105,RCV_B206,USA,ZAF,Atlantic Bank,Harbor Bank,USD,137828.78,Wire,Corporate,Capital Goods,Medium
+TXN000901,2025-04-21,CUST_A101,RCV_B205,USA,RUS,Continental Finance,Harbor Bank,USD,108955.62,Trade Finance,Corporate,Services,Medium
+TXN000902,2025-04-21,CUST_A104,RCV_B205,USA,DEU,Harbor Bank,Continental Finance,USD,2227.43,Remittance,Retail,Intercompany Transfer,Low
+TXN000903,2025-04-21,CUST_A102,RCV_B203,USA,RUS,Atlantic Bank,Continental Finance,USD,18588.22,Remittance,SME,Family Support,Low
+TXN000904,2025-04-21,CUST_A106,RCV_B203,USA,DEU,Harbor Bank,Harbor Bank,USD,6358.85,ACH,SME,Intercompany Transfer,Medium
+TXN000905,2025-04-22,CUST_A101,RCV_B203,USA,DEU,Continental Finance,Continental Finance,USD,101260.08,Wire,Corporate,Family Support,Medium
+TXN000906,2025-04-22,CUST_A103,RCV_B201,USA,DEU,Continental Finance,Harbor Bank,USD,151573.13,Wire,NBFI,Services,High
+TXN000907,2025-04-22,CUST_A106,RCV_B202,GBR,USA,Atlantic Bank,Mercury Trust,USD,6901.26,Trade Finance,SME,Intercompany Transfer,Medium
+TXN000908,2025-04-22,CUST_A104,RCV_B204,USA,GBR,Harbor Bank,Atlantic Bank,USD,1588.14,ACH,Retail,Intercompany Transfer,Low
+TXN000909,2025-04-22,CUST_A105,RCV_B204,USA,GBR,Continental Finance,Continental Finance,USD,52185.96,Trade Finance,Corporate,Services,Medium
+TXN000910,2025-04-22,CUST_A102,RCV_B202,USA,RUS,Harbor Bank,Mercury Trust,USD,11864.9,Remittance,SME,Intercompany Transfer,Low
+TXN000911,2025-04-22,CUST_A105,RCV_B202,USA,GBR,Continental Finance,Harbor Bank,USD,28348.07,ACH,Corporate,Family Support,Medium
+TXN000912,2025-04-23,CUST_A102,RCV_B203,USA,DEU,Mercury Trust,Mercury Trust,USD,6678.32,Wire,SME,Services,Low
+TXN000913,2025-04-24,CUST_A104,RCV_B205,USA,RUS,Continental Finance,Harbor Bank,USD,3503.9,Wire,Retail,Family Support,Low
+TXN000914,2025-04-24,CUST_A102,RCV_B206,USA,GBR,Continental Finance,Atlantic Bank,USD,10035.8,Wire,SME,Capital Goods,Low
+TXN000915,2025-04-24,CUST_A106,RCV_B204,USA,ZAF,Continental Finance,Continental Finance,USD,15613.37,Wire,SME,Services,Medium
+TXN000916,2025-04-24,CUST_A105,RCV_B203,USA,GBR,Mercury Trust,Atlantic Bank,USD,46759.38,Remittance,Corporate,Capital Goods,Medium
+TXN000917,2025-04-24,CUST_A103,RCV_B206,USA,DEU,Continental Finance,Atlantic Bank,USD,195878.02,Remittance,NBFI,Family Support,High
+TXN000918,2025-04-24,CUST_A101,RCV_B201,USA,ARE,Atlantic Bank,Harbor Bank,USD,77879.49,Remittance,Corporate,Capital Goods,Medium
+TXN000919,2025-04-24,CUST_A102,RCV_B203,USA,ARE,Harbor Bank,Harbor Bank,USD,18850.33,ACH,SME,Family Support,Low
+TXN000920,2025-04-24,CUST_A102,RCV_B206,USA,DEU,Mercury Trust,Atlantic Bank,USD,8730.51,Remittance,SME,Invoice Payment,Low
+TXN000921,2025-04-24,CUST_A106,RCV_B201,USA,ZAF,Harbor Bank,Continental Finance,USD,30742.7,Wire,SME,Intercompany Transfer,Medium
+TXN000922,2025-04-25,CUST_A103,RCV_B201,USA,GBR,Mercury Trust,Continental Finance,USD,427946.79,Trade Finance,NBFI,Invoice Payment,High
+TXN000923,2025-04-25,CUST_A103,RCV_B201,USA,ZAF,Mercury Trust,Harbor Bank,USD,212892.46,Wire,NBFI,Invoice Payment,High
+TXN000924,2025-04-25,CUST_A101,RCV_B203,USA,DEU,Harbor Bank,Harbor Bank,USD,130521.97,Wire,Corporate,Intercompany Transfer,Medium
+TXN000925,2025-04-25,CUST_A102,RCV_B203,USA,DEU,Mercury Trust,Continental Finance,USD,13181.56,Remittance,SME,Family Support,Low
+TXN000926,2025-04-25,CUST_A102,RCV_B203,USA,GBR,Continental Finance,Continental Finance,USD,20698.63,ACH,SME,Invoice Payment,Low
+TXN000927,2025-04-25,CUST_A106,RCV_B202,USA,GBR,Mercury Trust,Harbor Bank,USD,16481.4,ACH,SME,Intercompany Transfer,Medium
+TXN000928,2025-04-25,CUST_A104,RCV_B201,GBR,USA,Continental Finance,Atlantic Bank,USD,1510.43,Remittance,Retail,Intercompany Transfer,Low
+TXN000929,2025-04-26,CUST_A106,RCV_B204,USA,DEU,Continental Finance,Harbor Bank,USD,19412.72,Trade Finance,SME,Intercompany Transfer,Medium
+TXN000930,2025-04-26,CUST_A103,RCV_B202,USA,GBR,Harbor Bank,Harbor Bank,USD,217225.39,Wire,NBFI,Intercompany Transfer,High
+TXN000931,2025-04-26,CUST_A101,RCV_B203,USA,ZAF,Harbor Bank,Continental Finance,USD,80094.62,Trade Finance,Corporate,Intercompany Transfer,Medium
+TXN000932,2025-04-26,CUST_A106,RCV_B203,USA,ZAF,Harbor Bank,Continental Finance,USD,15389.65,Trade Finance,SME,Family Support,Medium
+TXN000933,2025-04-26,CUST_A105,RCV_B202,GBR,USA,Continental Finance,Mercury Trust,USD,105029.25,ACH,Corporate,Intercompany Transfer,Medium
+TXN000934,2025-04-26,CUST_A106,RCV_B202,USA,ZAF,Harbor Bank,Atlantic Bank,USD,6645.46,Wire,SME,Family Support,Medium
+TXN000935,2025-04-26,CUST_A104,RCV_B204,USA,RUS,Mercury Trust,Continental Finance,USD,707.5,ACH,Retail,Family Support,Low
+TXN000936,2025-04-26,CUST_A103,RCV_B204,USA,RUS,Harbor Bank,Harbor Bank,USD,178932.71,Trade Finance,NBFI,Capital Goods,High
+TXN000937,2025-04-26,CUST_A102,RCV_B206,GBR,USA,Atlantic Bank,Harbor Bank,USD,13520.92,Wire,SME,Family Support,Low
+TXN000938,2025-04-27,CUST_A104,RCV_B206,USA,DEU,Harbor Bank,Mercury Trust,USD,2807.31,Trade Finance,Retail,Services,Low
+TXN000939,2025-04-27,CUST_A102,RCV_B204,USA,ARE,Mercury Trust,Continental Finance,USD,15904.75,Wire,SME,Invoice Payment,Low
+TXN000940,2025-04-27,CUST_A106,RCV_B201,USA,ZAF,Mercury Trust,Atlantic Bank,USD,32621.92,Trade Finance,SME,Family Support,Medium
+TXN000941,2025-04-27,CUST_A106,RCV_B206,USA,ZAF,Atlantic Bank,Continental Finance,USD,13293.21,Wire,SME,Intercompany Transfer,Medium
+TXN000942,2025-04-27,CUST_A104,RCV_B202,USA,RUS,Atlantic Bank,Mercury Trust,USD,1040.43,Remittance,Retail,Family Support,Low
+TXN000943,2025-04-27,CUST_A102,RCV_B205,USA,DEU,Atlantic Bank,Mercury Trust,USD,12078.22,ACH,SME,Services,Low
+TXN000944,2025-04-27,CUST_A105,RCV_B202,USA,ARE,Mercury Trust,Harbor Bank,USD,59136.11,Wire,Corporate,Services,Medium
+TXN000945,2025-04-28,CUST_A105,RCV_B205,USA,ARE,Continental Finance,Harbor Bank,USD,99251.87,Wire,Corporate,Capital Goods,Medium
+TXN000946,2025-04-28,CUST_A106,RCV_B203,USA,ARE,Continental Finance,Continental Finance,USD,12892.3,Trade Finance,SME,Intercompany Transfer,Medium
+TXN000947,2025-04-28,CUST_A102,RCV_B206,GBR,USA,Continental Finance,Continental Finance,USD,11136.0,ACH,SME,Services,Low
+TXN000948,2025-04-28,CUST_A105,RCV_B203,GBR,USA,Harbor Bank,Atlantic Bank,USD,49235.12,Trade Finance,Corporate,Intercompany Transfer,Medium
+TXN000949,2025-04-28,CUST_A103,RCV_B206,USA,ZAF,Harbor Bank,Mercury Trust,USD,81709.63,Trade Finance,NBFI,Invoice Payment,High
+TXN000950,2025-04-29,CUST_A105,RCV_B205,USA,ARE,Continental Finance,Harbor Bank,USD,204848.5,Wire,Corporate,Services,Medium
+TXN000951,2025-04-29,CUST_A105,RCV_B205,USA,RUS,Harbor Bank,Mercury Trust,USD,40417.2,Wire,Corporate,Invoice Payment,Medium
+TXN000952,2025-04-29,CUST_A105,RCV_B204,USA,GBR,Mercury Trust,Mercury Trust,USD,131483.85,ACH,Corporate,Intercompany Transfer,Medium
+TXN000953,2025-04-29,CUST_A102,RCV_B204,USA,ZAF,Mercury Trust,Atlantic Bank,USD,6547.84,ACH,SME,Invoice Payment,Low
+TXN000954,2025-04-29,CUST_A103,RCV_B204,USA,ZAF,Mercury Trust,Mercury Trust,USD,193904.53,ACH,NBFI,Family Support,High
+TXN000955,2025-04-29,CUST_A101,RCV_B201,GBR,USA,Continental Finance,Continental Finance,USD,28985.43,ACH,Corporate,Family Support,Medium
+TXN000956,2025-04-29,CUST_A101,RCV_B201,GBR,USA,Continental Finance,Mercury Trust,USD,237096.05,Wire,Corporate,Invoice Payment,Medium
+TXN000957,2025-04-30,CUST_A101,RCV_B206,USA,ZAF,Atlantic Bank,Harbor Bank,USD,304033.0,ACH,Corporate,Intercompany Transfer,Medium
+TXN000958,2025-04-30,CUST_A103,RCV_B205,USA,ARE,Harbor Bank,Harbor Bank,USD,117254.22,Wire,NBFI,Family Support,High
+TXN000959,2025-04-30,CUST_A106,RCV_B206,USA,DEU,Harbor Bank,Atlantic Bank,USD,25831.81,Remittance,SME,Invoice Payment,Medium
+TXN000960,2025-04-30,CUST_A103,RCV_B201,USA,ZAF,Mercury Trust,Mercury Trust,USD,129222.07,ACH,NBFI,Family Support,High
+TXN000961,2025-04-30,CUST_A102,RCV_B201,GBR,USA,Harbor Bank,Atlantic Bank,USD,8495.62,Trade Finance,SME,Family Support,Low
+TXN000962,2025-04-30,CUST_A101,RCV_B201,USA,GBR,Atlantic Bank,Harbor Bank,USD,144303.68,Wire,Corporate,Family Support,Medium
+TXN000963,2025-04-30,CUST_A102,RCV_B206,USA,ZAF,Mercury Trust,Mercury Trust,USD,21979.91,ACH,SME,Family Support,Low
+TXN000964,2025-04-30,CUST_A104,RCV_B204,USA,ZAF,Atlantic Bank,Continental Finance,USD,2024.01,Remittance,Retail,Family Support,Low
+TXN000965,2025-05-01,CUST_A104,RCV_B205,GBR,USA,Atlantic Bank,Harbor Bank,USD,3098.11,Remittance,Retail,Services,Low
+TXN000966,2025-05-01,CUST_A101,RCV_B202,USA,ARE,Mercury Trust,Atlantic Bank,USD,88718.4,Trade Finance,Corporate,Capital Goods,Medium
+TXN000967,2025-05-01,CUST_A105,RCV_B201,USA,ZAF,Continental Finance,Continental Finance,USD,55394.97,Trade Finance,Corporate,Family Support,Medium
+TXN000968,2025-05-01,CUST_A102,RCV_B206,USA,ARE,Harbor Bank,Atlantic Bank,USD,14755.9,Wire,SME,Capital Goods,Low
+TXN000969,2025-05-01,CUST_A104,RCV_B204,GBR,USA,Harbor Bank,Atlantic Bank,USD,1792.12,Wire,Retail,Services,Low
+TXN000970,2025-05-01,CUST_A103,RCV_B206,USA,ZAF,Mercury Trust,Harbor Bank,USD,116259.92,Trade Finance,NBFI,Intercompany Transfer,High
+TXN000971,2025-05-02,CUST_A106,RCV_B206,USA,DEU,Mercury Trust,Continental Finance,USD,17760.2,ACH,SME,Intercompany Transfer,Medium
+TXN000972,2025-05-02,CUST_A102,RCV_B204,GBR,USA,Mercury Trust,Continental Finance,USD,24571.79,ACH,SME,Intercompany Transfer,Low
+TXN000973,2025-05-02,CUST_A104,RCV_B203,USA,GBR,Atlantic Bank,Harbor Bank,USD,1742.32,Trade Finance,Retail,Invoice Payment,Low
+TXN000974,2025-05-02,CUST_A104,RCV_B203,USA,GBR,Atlantic Bank,Mercury Trust,USD,1384.62,Remittance,Retail,Services,Low
+TXN000975,2025-05-02,CUST_A103,RCV_B201,USA,DEU,Harbor Bank,Mercury Trust,USD,103777.58,Wire,NBFI,Capital Goods,High
+TXN000976,2025-05-02,CUST_A101,RCV_B204,GBR,USA,Mercury Trust,Atlantic Bank,USD,36583.46,Wire,Corporate,Capital Goods,Medium
+TXN000977,2025-05-02,CUST_A103,RCV_B205,USA,GBR,Mercury Trust,Harbor Bank,USD,168832.47,ACH,NBFI,Invoice Payment,High
+TXN000978,2025-05-02,CUST_A102,RCV_B201,USA,RUS,Continental Finance,Mercury Trust,USD,28636.36,ACH,SME,Intercompany Transfer,Low
+TXN000979,2025-05-03,CUST_A101,RCV_B206,GBR,USA,Continental Finance,Mercury Trust,USD,122669.74,Remittance,Corporate,Invoice Payment,Medium
+TXN000980,2025-05-03,CUST_A104,RCV_B204,USA,DEU,Continental Finance,Continental Finance,USD,4227.64,Trade Finance,Retail,Family Support,Low
+TXN000981,2025-05-03,CUST_A101,RCV_B203,USA,RUS,Mercury Trust,Mercury Trust,USD,41103.82,ACH,Corporate,Family Support,Medium
+TXN000982,2025-05-03,CUST_A102,RCV_B202,GBR,USA,Harbor Bank,Mercury Trust,USD,14672.6,Remittance,SME,Services,Low
+TXN000983,2025-05-03,CUST_A103,RCV_B205,USA,DEU,Atlantic Bank,Mercury Trust,USD,208722.69,ACH,NBFI,Family Support,High
+TXN000984,2025-05-03,CUST_A101,RCV_B202,USA,DEU,Harbor Bank,Atlantic Bank,USD,44010.68,Remittance,Corporate,Family Support,Medium
+TXN000985,2025-05-03,CUST_A106,RCV_B201,USA,ARE,Atlantic Bank,Atlantic Bank,USD,14384.35,Wire,SME,Intercompany Transfer,Medium
+TXN000986,2025-05-04,CUST_A101,RCV_B202,GBR,USA,Continental Finance,Mercury Trust,USD,109458.5,Trade Finance,Corporate,Family Support,Medium
+TXN000987,2025-05-04,CUST_A103,RCV_B203,GBR,USA,Harbor Bank,Continental Finance,USD,163115.1,Wire,NBFI,Intercompany Transfer,High
+TXN000988,2025-05-04,CUST_A104,RCV_B202,GBR,USA,Atlantic Bank,Mercury Trust,USD,1169.72,Wire,Retail,Capital Goods,Low
+TXN000989,2025-05-04,CUST_A104,RCV_B203,USA,RUS,Continental Finance,Mercury Trust,USD,3325.64,Trade Finance,Retail,Capital Goods,Low
+TXN000990,2025-05-04,CUST_A106,RCV_B204,GBR,USA,Atlantic Bank,Atlantic Bank,USD,12127.68,ACH,SME,Capital Goods,Medium
+TXN000991,2025-05-04,CUST_A104,RCV_B203,USA,DEU,Continental Finance,Mercury Trust,USD,3257.07,Remittance,Retail,Family Support,Low
+TXN000992,2025-05-04,CUST_A102,RCV_B206,GBR,USA,Harbor Bank,Atlantic Bank,USD,15136.79,Wire,SME,Capital Goods,Low
+TXN000993,2025-05-04,CUST_A101,RCV_B206,USA,RUS,Continental Finance,Continental Finance,USD,54320.03,ACH,Corporate,Services,Medium
+TXN000994,2025-05-04,CUST_A102,RCV_B204,GBR,USA,Harbor Bank,Atlantic Bank,USD,4108.46,Trade Finance,SME,Family Support,Low
+TXN000995,2025-05-04,CUST_A103,RCV_B205,GBR,USA,Harbor Bank,Continental Finance,USD,86237.8,ACH,NBFI,Services,High
+TXN000996,2025-05-04,CUST_A103,RCV_B205,USA,DEU,Atlantic Bank,Atlantic Bank,USD,91499.03,Trade Finance,NBFI,Invoice Payment,High
+TXN000997,2025-05-04,CUST_A103,RCV_B205,GBR,USA,Mercury Trust,Mercury Trust,USD,71345.29,Wire,NBFI,Invoice Payment,High
+TXN000998,2025-05-04,CUST_A104,RCV_B202,USA,ZAF,Continental Finance,Harbor Bank,USD,2527.65,Wire,Retail,Services,Low
+TXN000999,2025-05-05,CUST_A105,RCV_B204,USA,DEU,Mercury Trust,Harbor Bank,USD,116180.87,Wire,Corporate,Family Support,Medium
+TXN001000,2025-05-05,CUST_A106,RCV_B205,USA,ARE,Harbor Bank,Continental Finance,USD,13733.57,Remittance,SME,Capital Goods,Medium
+TXN001001,2025-05-05,CUST_A104,RCV_B201,USA,DEU,Continental Finance,Atlantic Bank,USD,1959.22,Wire,Retail,Intercompany Transfer,Low
+TXN001002,2025-05-05,CUST_A105,RCV_B206,USA,DEU,Mercury Trust,Continental Finance,USD,87669.45,Remittance,Corporate,Intercompany Transfer,Medium
+TXN001003,2025-05-05,CUST_A106,RCV_B204,GBR,USA,Harbor Bank,Continental Finance,USD,20463.82,Remittance,SME,Services,Medium
+TXN001004,2025-05-05,CUST_A104,RCV_B204,USA,RUS,Harbor Bank,Continental Finance,USD,2785.54,ACH,Retail,Family Support,Low
+TXN001005,2025-05-05,CUST_A103,RCV_B203,USA,RUS,Harbor Bank,Harbor Bank,USD,206545.24,Wire,NBFI,Family Support,High
+TXN001006,2025-05-06,CUST_A104,RCV_B206,USA,ARE,Mercury Trust,Continental Finance,USD,2188.96,Wire,Retail,Invoice Payment,Low
+TXN001007,2025-05-06,CUST_A102,RCV_B204,GBR,USA,Harbor Bank,Atlantic Bank,USD,36659.84,Wire,SME,Capital Goods,Low
+TXN001008,2025-05-06,CUST_A106,RCV_B205,USA,RUS,Mercury Trust,Harbor Bank,USD,9804.02,Wire,SME,Invoice Payment,Medium
+TXN001009,2025-05-07,CUST_A104,RCV_B205,USA,RUS,Continental Finance,Harbor Bank,USD,1540.61,Remittance,Retail,Family Support,Low
+TXN001010,2025-05-07,CUST_A101,RCV_B203,USA,DEU,Atlantic Bank,Harbor Bank,USD,104766.01,Wire,Corporate,Invoice Payment,Medium
+TXN001011,2025-05-07,CUST_A106,RCV_B201,USA,ARE,Harbor Bank,Mercury Trust,USD,10997.61,Wire,SME,Family Support,Medium
+TXN001012,2025-05-07,CUST_A106,RCV_B206,USA,ARE,Harbor Bank,Continental Finance,USD,15552.55,Trade Finance,SME,Services,Medium
+TXN001013,2025-05-07,CUST_A103,RCV_B206,USA,DEU,Mercury Trust,Continental Finance,USD,143115.52,Trade Finance,NBFI,Invoice Payment,High
+TXN001014,2025-05-07,CUST_A105,RCV_B205,USA,RUS,Mercury Trust,Harbor Bank,USD,66606.89,Trade Finance,Corporate,Family Support,Medium
+TXN001015,2025-05-07,CUST_A106,RCV_B205,USA,GBR,Harbor Bank,Atlantic Bank,USD,14291.61,Remittance,SME,Invoice Payment,Medium
+TXN001016,2025-05-08,CUST_A104,RCV_B205,USA,ZAF,Mercury Trust,Harbor Bank,USD,1890.15,Wire,Retail,Invoice Payment,Low
+TXN001017,2025-05-08,CUST_A102,RCV_B204,USA,DEU,Atlantic Bank,Mercury Trust,USD,21595.38,Wire,SME,Invoice Payment,Low
+TXN001018,2025-05-08,CUST_A101,RCV_B205,USA,GBR,Mercury Trust,Continental Finance,USD,99813.17,ACH,Corporate,Intercompany Transfer,Medium
+TXN001019,2025-05-08,CUST_A105,RCV_B203,USA,ARE,Mercury Trust,Harbor Bank,USD,229755.81,Remittance,Corporate,Family Support,Medium
+TXN001020,2025-05-08,CUST_A103,RCV_B205,USA,ARE,Atlantic Bank,Harbor Bank,USD,201017.34,Trade Finance,NBFI,Services,High
+TXN001021,2025-05-08,CUST_A106,RCV_B204,USA,DEU,Atlantic Bank,Continental Finance,USD,18323.57,Remittance,SME,Family Support,Medium
+TXN001022,2025-05-08,CUST_A104,RCV_B203,USA,ARE,Mercury Trust,Harbor Bank,USD,2926.11,Trade Finance,Retail,Intercompany Transfer,Low
+TXN001023,2025-05-08,CUST_A102,RCV_B203,USA,GBR,Harbor Bank,Atlantic Bank,USD,9419.37,Remittance,SME,Intercompany Transfer,Low
+TXN001024,2025-05-09,CUST_A106,RCV_B206,USA,ZAF,Continental Finance,Harbor Bank,USD,26027.87,Remittance,SME,Capital Goods,Medium
+TXN001025,2025-05-09,CUST_A104,RCV_B204,USA,ZAF,Continental Finance,Harbor Bank,USD,2666.4,Trade Finance,Retail,Services,Low
+TXN001026,2025-05-09,CUST_A101,RCV_B203,USA,ARE,Harbor Bank,Atlantic Bank,USD,67684.86,Remittance,Corporate,Family Support,Medium
+TXN001027,2025-05-09,CUST_A104,RCV_B205,USA,ZAF,Continental Finance,Atlantic Bank,USD,2271.63,ACH,Retail,Capital Goods,Low
+TXN001028,2025-05-09,CUST_A102,RCV_B203,USA,ZAF,Continental Finance,Continental Finance,USD,12172.7,ACH,SME,Intercompany Transfer,Low
+TXN001029,2025-05-09,CUST_A103,RCV_B205,USA,GBR,Atlantic Bank,Mercury Trust,USD,255080.4,Wire,NBFI,Capital Goods,High
+TXN001030,2025-05-09,CUST_A105,RCV_B205,USA,DEU,Continental Finance,Harbor Bank,USD,65929.18,ACH,Corporate,Family Support,Medium
+TXN001031,2025-05-09,CUST_A106,RCV_B202,USA,ARE,Mercury Trust,Continental Finance,USD,17198.93,Remittance,SME,Services,Medium
+TXN001032,2025-05-09,CUST_A101,RCV_B206,USA,RUS,Harbor Bank,Mercury Trust,USD,68634.75,Wire,Corporate,Invoice Payment,Medium
+TXN001033,2025-05-09,CUST_A102,RCV_B203,USA,RUS,Mercury Trust,Continental Finance,USD,16993.49,Remittance,SME,Invoice Payment,Low
+TXN001034,2025-05-09,CUST_A103,RCV_B201,USA,RUS,Harbor Bank,Atlantic Bank,USD,77413.8,Remittance,NBFI,Invoice Payment,High
+TXN001035,2025-05-09,CUST_A106,RCV_B205,USA,ARE,Harbor Bank,Atlantic Bank,USD,6543.32,Wire,SME,Intercompany Transfer,Medium
+TXN001036,2025-05-10,CUST_A102,RCV_B202,GBR,USA,Harbor Bank,Continental Finance,USD,5854.98,Remittance,SME,Services,Low
+TXN001037,2025-05-10,CUST_A103,RCV_B205,USA,ZAF,Continental Finance,Atlantic Bank,USD,122151.89,Wire,NBFI,Family Support,High
+TXN001038,2025-05-10,CUST_A104,RCV_B204,USA,DEU,Mercury Trust,Atlantic Bank,USD,719.63,Wire,Retail,Invoice Payment,Low
+TXN001039,2025-05-10,CUST_A101,RCV_B203,GBR,USA,Continental Finance,Atlantic Bank,USD,121894.9,Remittance,Corporate,Intercompany Transfer,Medium
+TXN001040,2025-05-10,CUST_A102,RCV_B202,USA,DEU,Mercury Trust,Harbor Bank,USD,19974.3,Remittance,SME,Intercompany Transfer,Low
+TXN001041,2025-05-10,CUST_A103,RCV_B203,USA,ZAF,Atlantic Bank,Mercury Trust,USD,111730.6,Wire,NBFI,Family Support,High
+TXN001042,2025-05-10,CUST_A106,RCV_B206,USA,GBR,Harbor Bank,Continental Finance,USD,28211.3,ACH,SME,Capital Goods,Medium
+TXN001043,2025-05-11,CUST_A102,RCV_B205,GBR,USA,Atlantic Bank,Harbor Bank,USD,16134.11,Trade Finance,SME,Intercompany Transfer,Low
+TXN001044,2025-05-11,CUST_A103,RCV_B202,USA,RUS,Atlantic Bank,Continental Finance,USD,130282.87,Remittance,NBFI,Services,High
+TXN001045,2025-05-11,CUST_A105,RCV_B201,USA,ARE,Harbor Bank,Continental Finance,USD,323174.5,Remittance,Corporate,Capital Goods,Medium
+TXN001046,2025-05-11,CUST_A102,RCV_B204,USA,DEU,Continental Finance,Harbor Bank,USD,30839.19,Trade Finance,SME,Family Support,Low
+TXN001047,2025-05-11,CUST_A105,RCV_B206,USA,DEU,Mercury Trust,Continental Finance,USD,60173.78,Wire,Corporate,Invoice Payment,Medium
+TXN001048,2025-05-11,CUST_A105,RCV_B205,USA,DEU,Mercury Trust,Atlantic Bank,USD,48442.79,Remittance,Corporate,Intercompany Transfer,Medium
+TXN001049,2025-05-12,CUST_A102,RCV_B204,USA,GBR,Atlantic Bank,Continental Finance,USD,18798.05,Remittance,SME,Intercompany Transfer,Low
+TXN001050,2025-05-12,CUST_A106,RCV_B202,USA,ARE,Harbor Bank,Atlantic Bank,USD,27739.55,ACH,SME,Intercompany Transfer,Medium
+TXN001051,2025-05-12,CUST_A106,RCV_B201,USA,ZAF,Mercury Trust,Continental Finance,USD,11009.38,Remittance,SME,Capital Goods,Medium
+TXN001052,2025-05-12,CUST_A103,RCV_B205,GBR,USA,Atlantic Bank,Mercury Trust,USD,164401.08,Remittance,NBFI,Capital Goods,High
+TXN001053,2025-05-12,CUST_A105,RCV_B201,GBR,USA,Mercury Trust,Harbor Bank,USD,68996.78,Remittance,Corporate,Invoice Payment,Medium
+TXN001054,2025-05-12,CUST_A101,RCV_B203,USA,ARE,Harbor Bank,Atlantic Bank,USD,38509.78,Wire,Corporate,Invoice Payment,Medium
+TXN001055,2025-05-12,CUST_A106,RCV_B203,USA,GBR,Mercury Trust,Atlantic Bank,USD,25507.9,Wire,SME,Invoice Payment,Medium
+TXN001056,2025-05-13,CUST_A105,RCV_B205,USA,ARE,Harbor Bank,Atlantic Bank,USD,36501.2,Wire,Corporate,Family Support,Medium
+TXN001057,2025-05-13,CUST_A106,RCV_B204,USA,GBR,Continental Finance,Continental Finance,USD,33100.27,ACH,SME,Family Support,Medium
+TXN001058,2025-05-13,CUST_A105,RCV_B205,USA,ZAF,Mercury Trust,Mercury Trust,USD,109438.85,Remittance,Corporate,Intercompany Transfer,Medium
+TXN001059,2025-05-13,CUST_A106,RCV_B203,GBR,USA,Atlantic Bank,Continental Finance,USD,6739.63,Trade Finance,SME,Capital Goods,Medium
+TXN001060,2025-05-13,CUST_A106,RCV_B206,GBR,USA,Harbor Bank,Continental Finance,USD,14824.92,Trade Finance,SME,Intercompany Transfer,Medium
+TXN001061,2025-05-13,CUST_A101,RCV_B206,USA,ZAF,Harbor Bank,Atlantic Bank,USD,45226.35,Wire,Corporate,Capital Goods,Medium
+TXN001062,2025-05-13,CUST_A104,RCV_B204,USA,GBR,Atlantic Bank,Mercury Trust,USD,1431.91,Remittance,Retail,Family Support,Low
+TXN001063,2025-05-13,CUST_A106,RCV_B206,USA,ZAF,Harbor Bank,Mercury Trust,USD,45506.05,Trade Finance,SME,Intercompany Transfer,Medium
+TXN001064,2025-05-14,CUST_A105,RCV_B206,USA,GBR,Continental Finance,Continental Finance,USD,56044.75,Remittance,Corporate,Intercompany Transfer,Medium
+TXN001065,2025-05-14,CUST_A103,RCV_B206,GBR,USA,Harbor Bank,Continental Finance,USD,116682.32,Trade Finance,NBFI,Invoice Payment,High
+TXN001066,2025-05-14,CUST_A106,RCV_B201,USA,RUS,Continental Finance,Atlantic Bank,USD,18366.55,Remittance,SME,Intercompany Transfer,Medium
+TXN001067,2025-05-15,CUST_A106,RCV_B206,USA,ZAF,Harbor Bank,Atlantic Bank,USD,13314.7,ACH,SME,Family Support,Medium
+TXN001068,2025-05-15,CUST_A102,RCV_B205,USA,ZAF,Harbor Bank,Atlantic Bank,USD,19260.24,Trade Finance,SME,Family Support,Low
+TXN001069,2025-05-15,CUST_A105,RCV_B206,USA,ARE,Continental Finance,Harbor Bank,USD,73174.91,ACH,Corporate,Capital Goods,Medium
+TXN001070,2025-05-15,CUST_A101,RCV_B202,USA,DEU,Continental Finance,Mercury Trust,USD,82348.75,Wire,Corporate,Capital Goods,Medium
+TXN001071,2025-05-16,CUST_A106,RCV_B201,GBR,USA,Continental Finance,Atlantic Bank,USD,17827.3,Trade Finance,SME,Family Support,Medium
+TXN001072,2025-05-16,CUST_A104,RCV_B206,USA,ZAF,Harbor Bank,Mercury Trust,USD,1701.25,Trade Finance,Retail,Services,Low
+TXN001073,2025-05-16,CUST_A106,RCV_B206,USA,DEU,Mercury Trust,Atlantic Bank,USD,7503.29,ACH,SME,Capital Goods,Medium
+TXN001074,2025-05-17,CUST_A101,RCV_B201,USA,ARE,Continental Finance,Continental Finance,USD,69948.49,Remittance,Corporate,Services,Medium
+TXN001075,2025-05-17,CUST_A106,RCV_B201,USA,GBR,Harbor Bank,Atlantic Bank,USD,22835.35,Wire,SME,Invoice Payment,Medium
+TXN001076,2025-05-17,CUST_A104,RCV_B204,USA,GBR,Continental Finance,Harbor Bank,USD,884.43,Remittance,Retail,Capital Goods,Low
+TXN001077,2025-05-18,CUST_A101,RCV_B204,USA,DEU,Harbor Bank,Atlantic Bank,USD,29592.98,Remittance,Corporate,Invoice Payment,Medium
+TXN001078,2025-05-18,CUST_A104,RCV_B203,USA,GBR,Continental Finance,Atlantic Bank,USD,1211.33,Remittance,Retail,Intercompany Transfer,Low
+TXN001079,2025-05-18,CUST_A102,RCV_B206,USA,ARE,Mercury Trust,Atlantic Bank,USD,6934.93,Trade Finance,SME,Invoice Payment,Low
+TXN001080,2025-05-18,CUST_A101,RCV_B201,USA,ZAF,Continental Finance,Atlantic Bank,USD,156612.17,Remittance,Corporate,Services,Medium
+TXN001081,2025-05-18,CUST_A103,RCV_B202,USA,DEU,Harbor Bank,Atlantic Bank,USD,152646.76,Trade Finance,NBFI,Capital Goods,High
+TXN001082,2025-05-19,CUST_A103,RCV_B202,USA,GBR,Atlantic Bank,Continental Finance,USD,87971.49,Wire,NBFI,Services,High
+TXN001083,2025-05-19,CUST_A106,RCV_B201,USA,DEU,Mercury Trust,Harbor Bank,USD,13388.83,Remittance,SME,Invoice Payment,Medium
+TXN001084,2025-05-20,CUST_A101,RCV_B201,USA,ZAF,Harbor Bank,Atlantic Bank,USD,35644.86,Trade Finance,Corporate,Invoice Payment,Medium
+TXN001085,2025-05-20,CUST_A103,RCV_B204,USA,DEU,Continental Finance,Mercury Trust,USD,135816.67,Trade Finance,NBFI,Family Support,High
+TXN001086,2025-05-20,CUST_A102,RCV_B205,USA,RUS,Harbor Bank,Harbor Bank,USD,2903.3,ACH,SME,Family Support,Low
+TXN001087,2025-05-20,CUST_A102,RCV_B203,USA,RUS,Mercury Trust,Atlantic Bank,USD,18804.28,Wire,SME,Capital Goods,Low
+TXN001088,2025-05-20,CUST_A103,RCV_B204,USA,GBR,Mercury Trust,Harbor Bank,USD,123140.83,Wire,NBFI,Family Support,High
+TXN001089,2025-05-20,CUST_A101,RCV_B204,USA,RUS,Mercury Trust,Mercury Trust,USD,143665.17,Trade Finance,Corporate,Intercompany Transfer,Medium
+TXN001090,2025-05-20,CUST_A104,RCV_B204,GBR,USA,Atlantic Bank,Continental Finance,USD,1844.95,Remittance,Retail,Intercompany Transfer,Low
+TXN001091,2025-05-20,CUST_A103,RCV_B203,GBR,USA,Mercury Trust,Harbor Bank,USD,84219.47,ACH,NBFI,Services,High
+TXN001412,2025-05-20,CUST_A106,RCV_B206,USA,ARE,Atlantic Bank,Harbor Bank,USD,510000.0,Wire,SME,Intercompany Transfer,Medium
+TXN001092,2025-05-21,CUST_A106,RCV_B201,USA,ARE,Atlantic Bank,Mercury Trust,USD,48486.65,Remittance,SME,Family Support,Medium
+TXN001093,2025-05-21,CUST_A105,RCV_B204,USA,GBR,Harbor Bank,Harbor Bank,USD,77413.89,Wire,Corporate,Capital Goods,Medium
+TXN001094,2025-05-21,CUST_A103,RCV_B205,USA,GBR,Mercury Trust,Harbor Bank,USD,109994.15,Remittance,NBFI,Invoice Payment,High
+TXN001095,2025-05-21,CUST_A106,RCV_B203,USA,RUS,Harbor Bank,Mercury Trust,USD,14225.56,ACH,SME,Services,Medium
+TXN001096,2025-05-21,CUST_A104,RCV_B203,USA,DEU,Harbor Bank,Continental Finance,USD,1488.65,ACH,Retail,Services,Low
+TXN001097,2025-05-21,CUST_A101,RCV_B202,USA,RUS,Atlantic Bank,Continental Finance,USD,49562.48,Wire,Corporate,Capital Goods,Medium
+TXN001098,2025-05-21,CUST_A105,RCV_B203,USA,ZAF,Harbor Bank,Atlantic Bank,USD,105265.85,ACH,Corporate,Invoice Payment,Medium
+TXN001099,2025-05-21,CUST_A104,RCV_B204,USA,ZAF,Continental Finance,Continental Finance,USD,1060.76,ACH,Retail,Capital Goods,Low
+TXN001414,2025-05-21,CUST_A104,RCV_B201,USA,ZAF,Mercury Trust,Continental Finance,USD,5624.28,Remittance,Retail,Family Support,Low
+TXN001415,2025-05-21,CUST_A104,RCV_B202,USA,ZAF,Mercury Trust,Continental Finance,USD,5526.38,Remittance,Retail,Family Support,Low
+TXN001416,2025-05-21,CUST_A104,RCV_B203,USA,ZAF,Mercury Trust,Continental Finance,USD,4060.0,Remittance,Retail,Family Support,Low
+TXN001417,2025-05-21,CUST_A104,RCV_B204,USA,ZAF,Mercury Trust,Continental Finance,USD,12734.77,Remittance,Retail,Family Support,Low
+TXN001418,2025-05-21,CUST_A104,RCV_B205,USA,ZAF,Mercury Trust,Continental Finance,USD,5555.36,Remittance,Retail,Family Support,Low
+TXN001419,2025-05-21,CUST_A104,RCV_B206,USA,ZAF,Mercury Trust,Continental Finance,USD,7394.12,Remittance,Retail,Family Support,Low
+TXN001420,2025-05-21,CUST_A104,RCV_B201,USA,ZAF,Mercury Trust,Continental Finance,USD,5336.83,Remittance,Retail,Family Support,Low
+TXN001421,2025-05-21,CUST_A104,RCV_B202,USA,ZAF,Mercury Trust,Continental Finance,USD,5299.39,Remittance,Retail,Family Support,Low
+TXN001422,2025-05-21,CUST_A104,RCV_B203,USA,ZAF,Mercury Trust,Continental Finance,USD,5115.9,Remittance,Retail,Family Support,Low
+TXN001423,2025-05-21,CUST_A104,RCV_B204,USA,ZAF,Mercury Trust,Continental Finance,USD,3487.95,Remittance,Retail,Family Support,Low
+TXN001424,2025-05-21,CUST_A104,RCV_B205,USA,ZAF,Mercury Trust,Continental Finance,USD,5672.0,Remittance,Retail,Family Support,Low
+TXN001425,2025-05-21,CUST_A104,RCV_B206,USA,ZAF,Mercury Trust,Continental Finance,USD,5203.37,Remittance,Retail,Family Support,Low
+TXN001100,2025-05-22,CUST_A103,RCV_B202,USA,ZAF,Mercury Trust,Harbor Bank,USD,54077.0,Trade Finance,NBFI,Capital Goods,High
+TXN001101,2025-05-22,CUST_A106,RCV_B205,USA,ARE,Atlantic Bank,Atlantic Bank,USD,8313.66,Wire,SME,Family Support,Medium
+TXN001102,2025-05-22,CUST_A103,RCV_B205,USA,ARE,Mercury Trust,Continental Finance,USD,325092.7,Trade Finance,NBFI,Family Support,High
+TXN001103,2025-05-22,CUST_A101,RCV_B202,USA,ZAF,Atlantic Bank,Atlantic Bank,USD,60139.19,Wire,Corporate,Capital Goods,Medium
+TXN001104,2025-05-22,CUST_A101,RCV_B202,USA,RUS,Mercury Trust,Continental Finance,USD,50323.89,Wire,Corporate,Services,Medium
+TXN001105,2025-05-22,CUST_A102,RCV_B205,USA,DEU,Atlantic Bank,Mercury Trust,USD,11024.12,ACH,SME,Services,Low
+TXN001106,2025-05-23,CUST_A106,RCV_B203,USA,ARE,Mercury Trust,Harbor Bank,USD,19094.48,Wire,SME,Invoice Payment,Medium
+TXN001107,2025-05-23,CUST_A101,RCV_B205,USA,ZAF,Atlantic Bank,Harbor Bank,USD,62915.28,ACH,Corporate,Invoice Payment,Medium
+TXN001108,2025-05-23,CUST_A102,RCV_B204,GBR,USA,Atlantic Bank,Atlantic Bank,USD,12970.13,ACH,SME,Family Support,Low
+TXN001109,2025-05-23,CUST_A104,RCV_B202,GBR,USA,Continental Finance,Mercury Trust,USD,4057.01,Trade Finance,Retail,Family Support,Low
+TXN001110,2025-05-23,CUST_A102,RCV_B205,USA,ZAF,Harbor Bank,Harbor Bank,USD,24498.06,Wire,SME,Capital Goods,Low
+TXN001111,2025-05-23,CUST_A105,RCV_B204,USA,DEU,Harbor Bank,Mercury Trust,USD,25418.91,Trade Finance,Corporate,Capital Goods,Medium
+TXN001112,2025-05-23,CUST_A105,RCV_B206,USA,RUS,Harbor Bank,Harbor Bank,USD,97269.31,Remittance,Corporate,Invoice Payment,Medium
+TXN001113,2025-05-24,CUST_A101,RCV_B205,USA,ZAF,Harbor Bank,Atlantic Bank,USD,253054.53,Remittance,Corporate,Intercompany Transfer,Medium
+TXN001114,2025-05-24,CUST_A101,RCV_B202,USA,RUS,Harbor Bank,Atlantic Bank,USD,137773.69,Wire,Corporate,Family Support,Medium
+TXN001115,2025-05-24,CUST_A101,RCV_B204,USA,GBR,Continental Finance,Harbor Bank,USD,194389.13,ACH,Corporate,Family Support,Medium
+TXN001116,2025-05-24,CUST_A104,RCV_B206,USA,DEU,Continental Finance,Harbor Bank,USD,1927.87,ACH,Retail,Invoice Payment,Low
+TXN001117,2025-05-24,CUST_A104,RCV_B204,USA,ZAF,Atlantic Bank,Continental Finance,USD,1032.84,Remittance,Retail,Services,Low
+TXN001118,2025-05-24,CUST_A103,RCV_B201,USA,DEU,Atlantic Bank,Harbor Bank,USD,144697.43,ACH,NBFI,Capital Goods,High
+TXN001119,2025-05-24,CUST_A103,RCV_B203,USA,RUS,Continental Finance,Mercury Trust,USD,122429.55,ACH,NBFI,Capital Goods,High
+TXN001120,2025-05-24,CUST_A103,RCV_B203,USA,GBR,Continental Finance,Harbor Bank,USD,209101.32,Trade Finance,NBFI,Intercompany Transfer,High
+TXN001121,2025-05-24,CUST_A101,RCV_B206,USA,ZAF,Mercury Trust,Harbor Bank,USD,70488.65,Remittance,Corporate,Intercompany Transfer,Medium
+TXN001122,2025-05-24,CUST_A106,RCV_B203,USA,ARE,Continental Finance,Harbor Bank,USD,13284.05,Wire,SME,Family Support,Medium
+TXN001123,2025-05-25,CUST_A106,RCV_B206,USA,RUS,Mercury Trust,Atlantic Bank,USD,9797.79,Wire,SME,Services,Medium
+TXN001124,2025-05-25,CUST_A104,RCV_B201,USA,ARE,Mercury Trust,Atlantic Bank,USD,1870.07,ACH,Retail,Intercompany Transfer,Low
+TXN001125,2025-05-25,CUST_A102,RCV_B205,USA,RUS,Mercury Trust,Mercury Trust,USD,22798.23,ACH,SME,Family Support,Low
+TXN001126,2025-05-25,CUST_A106,RCV_B202,USA,DEU,Continental Finance,Continental Finance,USD,24662.55,Wire,SME,Intercompany Transfer,Medium
+TXN001127,2025-05-25,CUST_A103,RCV_B204,USA,ZAF,Harbor Bank,Atlantic Bank,USD,182143.01,Trade Finance,NBFI,Capital Goods,High
+TXN001128,2025-05-25,CUST_A102,RCV_B201,USA,GBR,Mercury Trust,Atlantic Bank,USD,24523.95,ACH,SME,Invoice Payment,Low
+TXN001129,2025-05-25,CUST_A104,RCV_B204,USA,RUS,Mercury Trust,Mercury Trust,USD,1893.13,Remittance,Retail,Invoice Payment,Low
+TXN001130,2025-05-25,CUST_A105,RCV_B203,USA,ARE,Atlantic Bank,Continental Finance,USD,72817.69,Remittance,Corporate,Intercompany Transfer,Medium
+TXN001131,2025-05-25,CUST_A106,RCV_B201,USA,DEU,Atlantic Bank,Atlantic Bank,USD,14729.18,Remittance,SME,Invoice Payment,Medium
+TXN001132,2025-05-25,CUST_A102,RCV_B201,USA,ARE,Atlantic Bank,Atlantic Bank,USD,29919.5,ACH,SME,Family Support,Low
+TXN001133,2025-05-26,CUST_A101,RCV_B203,USA,DEU,Atlantic Bank,Continental Finance,USD,80545.05,Remittance,Corporate,Invoice Payment,Medium
+TXN001134,2025-05-26,CUST_A103,RCV_B204,GBR,USA,Mercury Trust,Harbor Bank,USD,156008.03,ACH,NBFI,Invoice Payment,High
+TXN001135,2025-05-26,CUST_A106,RCV_B201,USA,DEU,Atlantic Bank,Atlantic Bank,USD,18989.61,ACH,SME,Intercompany Transfer,Medium
+TXN001136,2025-05-26,CUST_A101,RCV_B206,USA,ZAF,Mercury Trust,Atlantic Bank,USD,98240.53,Remittance,Corporate,Intercompany Transfer,Medium
+TXN001137,2025-05-26,CUST_A104,RCV_B204,GBR,USA,Mercury Trust,Harbor Bank,USD,1873.16,ACH,Retail,Intercompany Transfer,Low
+TXN001138,2025-05-26,CUST_A106,RCV_B202,GBR,USA,Continental Finance,Harbor Bank,USD,4583.52,Remittance,SME,Intercompany Transfer,Medium
+TXN001139,2025-05-27,CUST_A103,RCV_B202,USA,DEU,Continental Finance,Continental Finance,USD,63918.98,ACH,NBFI,Invoice Payment,High
+TXN001140,2025-05-27,CUST_A105,RCV_B205,GBR,USA,Harbor Bank,Atlantic Bank,USD,137160.97,Wire,Corporate,Family Support,Medium
+TXN001141,2025-05-27,CUST_A102,RCV_B205,USA,ARE,Mercury Trust,Mercury Trust,USD,8283.64,Trade Finance,SME,Services,Low
+TXN001142,2025-05-27,CUST_A102,RCV_B206,USA,ARE,Harbor Bank,Harbor Bank,USD,47545.21,Trade Finance,SME,Capital Goods,Low
+TXN001143,2025-05-27,CUST_A101,RCV_B204,USA,ARE,Harbor Bank,Continental Finance,USD,109256.99,Wire,Corporate,Invoice Payment,Medium
+TXN001144,2025-05-27,CUST_A101,RCV_B206,USA,ARE,Mercury Trust,Atlantic Bank,USD,108274.68,ACH,Corporate,Services,Medium
+TXN001145,2025-05-27,CUST_A105,RCV_B205,USA,GBR,Mercury Trust,Harbor Bank,USD,48232.72,Remittance,Corporate,Invoice Payment,Medium
+TXN001146,2025-05-27,CUST_A106,RCV_B205,USA,RUS,Atlantic Bank,Continental Finance,USD,15871.57,ACH,SME,Invoice Payment,Medium
+TXN001147,2025-05-27,CUST_A102,RCV_B206,USA,ZAF,Mercury Trust,Mercury Trust,USD,11805.64,Trade Finance,SME,Capital Goods,Low
+TXN001148,2025-05-28,CUST_A101,RCV_B202,GBR,USA,Harbor Bank,Harbor Bank,USD,81341.98,Wire,Corporate,Invoice Payment,Medium
+TXN001149,2025-05-28,CUST_A106,RCV_B206,USA,DEU,Atlantic Bank,Harbor Bank,USD,8724.13,Remittance,SME,Family Support,Medium
+TXN001150,2025-05-28,CUST_A105,RCV_B201,USA,GBR,Atlantic Bank,Harbor Bank,USD,113842.37,Wire,Corporate,Invoice Payment,Medium
+TXN001151,2025-05-28,CUST_A101,RCV_B203,GBR,USA,Continental Finance,Harbor Bank,USD,58162.2,Wire,Corporate,Services,Medium
+TXN001152,2025-05-28,CUST_A102,RCV_B201,USA,RUS,Mercury Trust,Atlantic Bank,USD,22463.08,Trade Finance,SME,Services,Low
+TXN001153,2025-05-28,CUST_A101,RCV_B203,USA,GBR,Harbor Bank,Mercury Trust,USD,96851.98,Wire,Corporate,Invoice Payment,Medium
+TXN001154,2025-05-28,CUST_A104,RCV_B202,USA,GBR,Mercury Trust,Harbor Bank,USD,1653.03,ACH,Retail,Family Support,Low
+TXN001155,2025-05-29,CUST_A101,RCV_B204,USA,RUS,Continental Finance,Atlantic Bank,USD,86560.39,Wire,Corporate,Invoice Payment,Medium
+TXN001156,2025-05-29,CUST_A106,RCV_B205,GBR,USA,Atlantic Bank,Harbor Bank,USD,14532.61,Trade Finance,SME,Invoice Payment,Medium
+TXN001157,2025-05-29,CUST_A101,RCV_B204,USA,GBR,Continental Finance,Mercury Trust,USD,106013.81,Trade Finance,Corporate,Services,Medium
+TXN001158,2025-05-29,CUST_A102,RCV_B201,USA,RUS,Harbor Bank,Atlantic Bank,USD,11165.67,Wire,SME,Services,Low
+TXN001159,2025-05-30,CUST_A106,RCV_B205,USA,ARE,Continental Finance,Continental Finance,USD,15199.96,Remittance,SME,Family Support,Medium
+TXN001160,2025-05-30,CUST_A106,RCV_B202,USA,ARE,Harbor Bank,Continental Finance,USD,11808.54,ACH,SME,Family Support,Medium
+TXN001161,2025-05-30,CUST_A103,RCV_B203,USA,DEU,Continental Finance,Harbor Bank,USD,197154.93,Trade Finance,NBFI,Capital Goods,High
+TXN001162,2025-05-30,CUST_A106,RCV_B201,USA,RUS,Harbor Bank,Continental Finance,USD,6230.55,Remittance,SME,Family Support,Medium
+TXN001163,2025-05-30,CUST_A102,RCV_B202,USA,ZAF,Mercury Trust,Continental Finance,USD,14233.65,Wire,SME,Invoice Payment,Low
+TXN001164,2025-05-30,CUST_A106,RCV_B206,USA,RUS,Continental Finance,Mercury Trust,USD,16789.72,Remittance,SME,Family Support,Medium
+TXN001165,2025-05-30,CUST_A103,RCV_B203,USA,DEU,Harbor Bank,Harbor Bank,USD,237618.87,ACH,NBFI,Capital Goods,High
+TXN001166,2025-05-30,CUST_A101,RCV_B201,USA,ZAF,Harbor Bank,Atlantic Bank,USD,71557.66,Trade Finance,Corporate,Services,Medium
+TXN001167,2025-05-31,CUST_A102,RCV_B201,USA,ZAF,Continental Finance,Mercury Trust,USD,14268.54,Remittance,SME,Invoice Payment,Low
+TXN001168,2025-05-31,CUST_A101,RCV_B202,USA,RUS,Mercury Trust,Mercury Trust,USD,79641.07,Wire,Corporate,Intercompany Transfer,Medium
+TXN001169,2025-05-31,CUST_A106,RCV_B202,USA,GBR,Mercury Trust,Mercury Trust,USD,12566.32,ACH,SME,Services,Medium
+TXN001170,2025-05-31,CUST_A101,RCV_B201,USA,ZAF,Atlantic Bank,Harbor Bank,USD,85884.2,Trade Finance,Corporate,Family Support,Medium
+TXN001171,2025-05-31,CUST_A104,RCV_B204,USA,ZAF,Atlantic Bank,Continental Finance,USD,3409.59,Remittance,Retail,Family Support,Low
+TXN001172,2025-06-01,CUST_A101,RCV_B205,USA,ARE,Continental Finance,Mercury Trust,USD,30740.58,Remittance,Corporate,Family Support,Medium
+TXN001173,2025-06-01,CUST_A101,RCV_B201,USA,GBR,Atlantic Bank,Harbor Bank,USD,69814.34,Trade Finance,Corporate,Invoice Payment,Medium
+TXN001174,2025-06-01,CUST_A102,RCV_B205,GBR,USA,Continental Finance,Continental Finance,USD,38713.63,Remittance,SME,Capital Goods,Low
+TXN001175,2025-06-01,CUST_A102,RCV_B204,USA,RUS,Mercury Trust,Harbor Bank,USD,9832.32,Trade Finance,SME,Capital Goods,Low
+TXN001176,2025-06-01,CUST_A105,RCV_B202,USA,ZAF,Continental Finance,Harbor Bank,USD,43813.57,ACH,Corporate,Invoice Payment,Medium
+TXN001177,2025-06-01,CUST_A105,RCV_B206,USA,RUS,Mercury Trust,Harbor Bank,USD,128948.82,Trade Finance,Corporate,Intercompany Transfer,Medium
+TXN001178,2025-06-01,CUST_A103,RCV_B201,USA,DEU,Atlantic Bank,Mercury Trust,USD,266241.94,Wire,NBFI,Services,High
+TXN001179,2025-06-01,CUST_A104,RCV_B204,USA,ZAF,Mercury Trust,Atlantic Bank,USD,1470.45,Wire,Retail,Services,Low
+TXN001180,2025-06-02,CUST_A103,RCV_B201,USA,RUS,Mercury Trust,Continental Finance,USD,135355.97,ACH,NBFI,Capital Goods,High
+TXN001181,2025-06-02,CUST_A104,RCV_B203,USA,ARE,Atlantic Bank,Harbor Bank,USD,2244.47,Trade Finance,Retail,Services,Low
+TXN001182,2025-06-02,CUST_A103,RCV_B201,USA,DEU,Mercury Trust,Atlantic Bank,USD,241430.41,ACH,NBFI,Family Support,High
+TXN001183,2025-06-02,CUST_A104,RCV_B204,USA,RUS,Atlantic Bank,Mercury Trust,USD,4746.53,Trade Finance,Retail,Invoice Payment,Low
+TXN001184,2025-06-02,CUST_A101,RCV_B203,USA,ZAF,Mercury Trust,Atlantic Bank,USD,42706.8,ACH,Corporate,Capital Goods,Medium
+TXN001185,2025-06-02,CUST_A104,RCV_B204,USA,ZAF,Atlantic Bank,Continental Finance,USD,2906.12,Trade Finance,Retail,Intercompany Transfer,Low
+TXN001186,2025-06-02,CUST_A102,RCV_B201,GBR,USA,Mercury Trust,Harbor Bank,USD,14751.06,Remittance,SME,Family Support,Low
+TXN001187,2025-06-02,CUST_A103,RCV_B206,GBR,USA,Continental Finance,Harbor Bank,USD,66051.06,ACH,NBFI,Invoice Payment,High
+TXN001188,2025-06-03,CUST_A103,RCV_B202,USA,DEU,Atlantic Bank,Continental Finance,USD,119510.2,Remittance,NBFI,Intercompany Transfer,High
+TXN001189,2025-06-03,CUST_A104,RCV_B204,USA,ARE,Harbor Bank,Mercury Trust,USD,2768.28,Wire,Retail,Family Support,Low
+TXN001190,2025-06-03,CUST_A106,RCV_B201,USA,GBR,Atlantic Bank,Harbor Bank,USD,7573.82,ACH,SME,Services,Medium
+TXN001191,2025-06-03,CUST_A102,RCV_B204,USA,GBR,Mercury Trust,Harbor Bank,USD,11658.06,Wire,SME,Intercompany Transfer,Low
+TXN001192,2025-06-04,CUST_A101,RCV_B203,USA,DEU,Continental Finance,Harbor Bank,USD,74001.23,ACH,Corporate,Capital Goods,Medium
+TXN001193,2025-06-04,CUST_A106,RCV_B201,USA,ZAF,Harbor Bank,Mercury Trust,USD,15314.46,ACH,SME,Intercompany Transfer,Medium
+TXN001194,2025-06-04,CUST_A102,RCV_B206,USA,GBR,Continental Finance,Harbor Bank,USD,29255.17,Trade Finance,SME,Family Support,Low
+TXN001195,2025-06-04,CUST_A104,RCV_B202,USA,ARE,Continental Finance,Mercury Trust,USD,1148.82,ACH,Retail,Capital Goods,Low
+TXN001196,2025-06-04,CUST_A105,RCV_B202,USA,ZAF,Atlantic Bank,Continental Finance,USD,113859.76,Trade Finance,Corporate,Capital Goods,Medium
+TXN001197,2025-06-05,CUST_A104,RCV_B204,USA,GBR,Continental Finance,Continental Finance,USD,3670.94,Remittance,Retail,Family Support,Low
+TXN001198,2025-06-05,CUST_A105,RCV_B202,USA,RUS,Atlantic Bank,Continental Finance,USD,174587.31,Remittance,Corporate,Capital Goods,Medium
+TXN001199,2025-06-05,CUST_A101,RCV_B204,USA,DEU,Continental Finance,Harbor Bank,USD,69695.18,Wire,Corporate,Invoice Payment,Medium
+TXN001200,2025-06-05,CUST_A104,RCV_B206,USA,GBR,Mercury Trust,Continental Finance,USD,1642.5,ACH,Retail,Capital Goods,Low
+TXN001201,2025-06-05,CUST_A106,RCV_B203,USA,GBR,Harbor Bank,Harbor Bank,USD,12567.87,Remittance,SME,Invoice Payment,Medium
+TXN001202,2025-06-05,CUST_A106,RCV_B205,USA,ZAF,Harbor Bank,Atlantic Bank,USD,20329.05,Remittance,SME,Services,Medium
+TXN001203,2025-06-05,CUST_A101,RCV_B203,USA,GBR,Atlantic Bank,Mercury Trust,USD,80869.29,Wire,Corporate,Family Support,Medium
+TXN001204,2025-06-05,CUST_A104,RCV_B204,USA,DEU,Atlantic Bank,Harbor Bank,USD,802.2,ACH,Retail,Family Support,Low
+TXN001205,2025-06-05,CUST_A106,RCV_B206,USA,DEU,Mercury Trust,Harbor Bank,USD,18929.47,Remittance,SME,Services,Medium
+TXN001206,2025-06-05,CUST_A104,RCV_B205,USA,GBR,Continental Finance,Continental Finance,USD,3605.8,Wire,Retail,Family Support,Low
+TXN001207,2025-06-06,CUST_A102,RCV_B204,USA,ZAF,Harbor Bank,Continental Finance,USD,13644.66,Remittance,SME,Capital Goods,Low
+TXN001208,2025-06-06,CUST_A106,RCV_B201,USA,ARE,Mercury Trust,Continental Finance,USD,44882.98,Trade Finance,SME,Invoice Payment,Medium
+TXN001209,2025-06-06,CUST_A104,RCV_B202,USA,GBR,Mercury Trust,Mercury Trust,USD,2703.63,Trade Finance,Retail,Services,Low
+TXN001210,2025-06-06,CUST_A106,RCV_B206,USA,ZAF,Mercury Trust,Mercury Trust,USD,7006.11,ACH,SME,Invoice Payment,Medium
+TXN001211,2025-06-06,CUST_A101,RCV_B203,USA,ARE,Atlantic Bank,Continental Finance,USD,44015.87,Wire,Corporate,Services,Medium
+TXN001212,2025-06-06,CUST_A101,RCV_B202,USA,DEU,Mercury Trust,Atlantic Bank,USD,101845.97,Wire,Corporate,Services,Medium
+TXN001213,2025-06-07,CUST_A101,RCV_B203,USA,GBR,Atlantic Bank,Harbor Bank,USD,79955.43,Wire,Corporate,Intercompany Transfer,Medium
+TXN001214,2025-06-07,CUST_A102,RCV_B205,USA,ARE,Harbor Bank,Atlantic Bank,USD,34224.95,Trade Finance,SME,Family Support,Low
+TXN001215,2025-06-07,CUST_A103,RCV_B203,USA,GBR,Harbor Bank,Continental Finance,USD,69556.48,Trade Finance,NBFI,Intercompany Transfer,High
+TXN001216,2025-06-07,CUST_A103,RCV_B205,USA,DEU,Mercury Trust,Continental Finance,USD,41929.66,ACH,NBFI,Family Support,High
+TXN001217,2025-06-07,CUST_A103,RCV_B202,USA,RUS,Atlantic Bank,Atlantic Bank,USD,55657.21,Wire,NBFI,Invoice Payment,High
+TXN001218,2025-06-07,CUST_A101,RCV_B205,USA,RUS,Harbor Bank,Continental Finance,USD,71133.15,Remittance,Corporate,Intercompany Transfer,Medium
+TXN001219,2025-06-07,CUST_A103,RCV_B203,USA,ARE,Continental Finance,Harbor Bank,USD,100024.38,ACH,NBFI,Invoice Payment,High
+TXN001220,2025-06-07,CUST_A103,RCV_B204,USA,ARE,Harbor Bank,Harbor Bank,USD,320317.29,Trade Finance,NBFI,Intercompany Transfer,High
+TXN001221,2025-06-08,CUST_A104,RCV_B203,USA,DEU,Atlantic Bank,Continental Finance,USD,1930.84,Trade Finance,Retail,Invoice Payment,Low
+TXN001222,2025-06-08,CUST_A102,RCV_B201,USA,RUS,Mercury Trust,Continental Finance,USD,38952.42,Trade Finance,SME,Capital Goods,Low
+TXN001223,2025-06-08,CUST_A102,RCV_B205,USA,ARE,Continental Finance,Atlantic Bank,USD,32083.13,Trade Finance,SME,Intercompany Transfer,Low
+TXN001224,2025-06-08,CUST_A104,RCV_B204,USA,GBR,Mercury Trust,Continental Finance,USD,1948.24,Trade Finance,Retail,Capital Goods,Low
+TXN001225,2025-06-08,CUST_A104,RCV_B204,USA,DEU,Continental Finance,Harbor Bank,USD,2033.0,Trade Finance,Retail,Intercompany Transfer,Low
+TXN001226,2025-06-08,CUST_A105,RCV_B206,USA,ARE,Harbor Bank,Harbor Bank,USD,52376.4,Trade Finance,Corporate,Capital Goods,Medium
+TXN001227,2025-06-08,CUST_A105,RCV_B206,USA,ZAF,Atlantic Bank,Mercury Trust,USD,78622.27,Remittance,Corporate,Invoice Payment,Medium
+TXN001228,2025-06-08,CUST_A103,RCV_B202,USA,DEU,Atlantic Bank,Mercury Trust,USD,65341.61,Wire,NBFI,Intercompany Transfer,High
+TXN001229,2025-06-08,CUST_A102,RCV_B203,USA,ZAF,Atlantic Bank,Mercury Trust,USD,22589.27,ACH,SME,Family Support,Low
+TXN001230,2025-06-08,CUST_A101,RCV_B206,GBR,USA,Continental Finance,Continental Finance,USD,82919.45,Trade Finance,Corporate,Capital Goods,Medium
+TXN001231,2025-06-08,CUST_A105,RCV_B205,USA,RUS,Mercury Trust,Harbor Bank,USD,184580.37,Trade Finance,Corporate,Services,Medium
+TXN001232,2025-06-08,CUST_A104,RCV_B205,USA,GBR,Harbor Bank,Atlantic Bank,USD,2799.71,Trade Finance,Retail,Family Support,Low
+TXN001233,2025-06-08,CUST_A101,RCV_B205,GBR,USA,Harbor Bank,Continental Finance,USD,122718.17,ACH,Corporate,Services,Medium
+TXN001234,2025-06-08,CUST_A105,RCV_B206,USA,DEU,Atlantic Bank,Continental Finance,USD,82229.44,Trade Finance,Corporate,Invoice Payment,Medium
+TXN001235,2025-06-09,CUST_A106,RCV_B201,USA,GBR,Mercury Trust,Mercury Trust,USD,10687.28,Remittance,SME,Family Support,Medium
+TXN001236,2025-06-10,CUST_A105,RCV_B204,GBR,USA,Harbor Bank,Harbor Bank,USD,60108.55,Remittance,Corporate,Invoice Payment,Medium
+TXN001237,2025-06-10,CUST_A103,RCV_B205,USA,ARE,Atlantic Bank,Continental Finance,USD,180557.05,ACH,NBFI,Capital Goods,High
+TXN001238,2025-06-10,CUST_A101,RCV_B204,USA,GBR,Continental Finance,Harbor Bank,USD,67862.34,Remittance,Corporate,Intercompany Transfer,Medium
+TXN001239,2025-06-10,CUST_A105,RCV_B203,USA,RUS,Mercury Trust,Atlantic Bank,USD,225893.61,ACH,Corporate,Family Support,Medium
+TXN001240,2025-06-10,CUST_A104,RCV_B206,USA,RUS,Continental Finance,Atlantic Bank,USD,2012.61,ACH,Retail,Services,Low
+TXN001241,2025-06-10,CUST_A103,RCV_B201,GBR,USA,Atlantic Bank,Atlantic Bank,USD,119285.13,Wire,NBFI,Intercompany Transfer,High
+TXN001242,2025-06-10,CUST_A105,RCV_B202,USA,RUS,Atlantic Bank,Continental Finance,USD,68236.95,Wire,Corporate,Invoice Payment,Medium
+TXN001243,2025-06-10,CUST_A103,RCV_B201,USA,ZAF,Atlantic Bank,Harbor Bank,USD,54278.87,Trade Finance,NBFI,Invoice Payment,High
+TXN001244,2025-06-10,CUST_A103,RCV_B202,USA,DEU,Mercury Trust,Mercury Trust,USD,107432.94,Trade Finance,NBFI,Intercompany Transfer,High
+TXN001245,2025-06-10,CUST_A102,RCV_B202,GBR,USA,Mercury Trust,Atlantic Bank,USD,11478.98,Wire,SME,Invoice Payment,Low
+TXN001246,2025-06-10,CUST_A103,RCV_B202,USA,RUS,Harbor Bank,Continental Finance,USD,105694.04,ACH,NBFI,Capital Goods,High
+TXN001247,2025-06-10,CUST_A103,RCV_B202,USA,RUS,Atlantic Bank,Atlantic Bank,USD,111968.04,Wire,NBFI,Services,High
+TXN001248,2025-06-10,CUST_A103,RCV_B201,USA,ARE,Continental Finance,Harbor Bank,USD,67312.43,ACH,NBFI,Capital Goods,High
+TXN001413,2025-06-10,CUST_A101,RCV_B203,USA,SYR,Atlantic Bank,Harbor Bank,USD,350000.0,Nested Correspondent,Corporate,Third-Party Payment,Critical
+TXN001249,2025-06-11,CUST_A102,RCV_B206,USA,ARE,Harbor Bank,Mercury Trust,USD,9469.58,Trade Finance,SME,Intercompany Transfer,Low
+TXN001250,2025-06-11,CUST_A102,RCV_B206,GBR,USA,Atlantic Bank,Continental Finance,USD,15442.42,Wire,SME,Services,Low
+TXN001251,2025-06-11,CUST_A101,RCV_B202,USA,RUS,Mercury Trust,Continental Finance,USD,259309.57,Remittance,Corporate,Capital Goods,Medium
+TXN001252,2025-06-11,CUST_A106,RCV_B203,USA,ARE,Atlantic Bank,Mercury Trust,USD,11925.17,Remittance,SME,Capital Goods,Medium
+TXN001253,2025-06-11,CUST_A102,RCV_B203,USA,GBR,Atlantic Bank,Harbor Bank,USD,13435.94,ACH,SME,Intercompany Transfer,Low
+TXN001254,2025-06-11,CUST_A102,RCV_B205,GBR,USA,Harbor Bank,Mercury Trust,USD,7144.04,ACH,SME,Invoice Payment,Low
+TXN001255,2025-06-11,CUST_A106,RCV_B204,USA,RUS,Continental Finance,Mercury Trust,USD,23458.19,Wire,SME,Intercompany Transfer,Medium
+TXN001256,2025-06-11,CUST_A106,RCV_B204,GBR,USA,Atlantic Bank,Continental Finance,USD,11790.13,Trade Finance,SME,Intercompany Transfer,Medium
+TXN001257,2025-06-11,CUST_A104,RCV_B206,GBR,USA,Mercury Trust,Harbor Bank,USD,1266.51,Wire,Retail,Services,Low
+TXN001258,2025-06-12,CUST_A104,RCV_B205,USA,ZAF,Mercury Trust,Mercury Trust,USD,5535.14,Trade Finance,Retail,Capital Goods,Low
+TXN001259,2025-06-12,CUST_A103,RCV_B204,USA,RUS,Atlantic Bank,Atlantic Bank,USD,99651.71,ACH,NBFI,Capital Goods,High
+TXN001260,2025-06-12,CUST_A105,RCV_B204,USA,GBR,Mercury Trust,Continental Finance,USD,21904.31,Trade Finance,Corporate,Invoice Payment,Medium
+TXN001261,2025-06-12,CUST_A104,RCV_B203,USA,ZAF,Continental Finance,Mercury Trust,USD,2359.17,Wire,Retail,Family Support,Low
+TXN001262,2025-06-12,CUST_A106,RCV_B204,USA,ARE,Mercury Trust,Harbor Bank,USD,27274.73,ACH,SME,Family Support,Medium
+TXN001263,2025-06-12,CUST_A102,RCV_B204,USA,DEU,Continental Finance,Atlantic Bank,USD,33194.62,Trade Finance,SME,Intercompany Transfer,Low
+TXN001264,2025-06-13,CUST_A104,RCV_B203,GBR,USA,Atlantic Bank,Continental Finance,USD,1717.04,ACH,Retail,Capital Goods,Low
+TXN001265,2025-06-13,CUST_A101,RCV_B205,USA,DEU,Continental Finance,Atlantic Bank,USD,45046.92,Wire,Corporate,Services,Medium
+TXN001266,2025-06-13,CUST_A101,RCV_B206,USA,RUS,Continental Finance,Mercury Trust,USD,49018.22,ACH,Corporate,Services,Medium
+TXN001267,2025-06-13,CUST_A106,RCV_B203,USA,ZAF,Continental Finance,Atlantic Bank,USD,6204.2,Wire,SME,Invoice Payment,Medium
+TXN001268,2025-06-13,CUST_A103,RCV_B206,USA,DEU,Mercury Trust,Atlantic Bank,USD,53916.56,Remittance,NBFI,Family Support,High
+TXN001269,2025-06-13,CUST_A103,RCV_B204,USA,ZAF,Mercury Trust,Atlantic Bank,USD,83397.92,ACH,NBFI,Services,High
+TXN001270,2025-06-13,CUST_A105,RCV_B202,USA,RUS,Mercury Trust,Harbor Bank,USD,84268.49,ACH,Corporate,Family Support,Medium
+TXN001271,2025-06-13,CUST_A105,RCV_B205,USA,GBR,Mercury Trust,Harbor Bank,USD,35037.05,Wire,Corporate,Capital Goods,Medium
+TXN001272,2025-06-13,CUST_A106,RCV_B206,GBR,USA,Continental Finance,Continental Finance,USD,16716.38,Wire,SME,Invoice Payment,Medium
+TXN001273,2025-06-13,CUST_A106,RCV_B202,USA,ZAF,Continental Finance,Harbor Bank,USD,15661.55,Trade Finance,SME,Intercompany Transfer,Medium
+TXN001274,2025-06-13,CUST_A104,RCV_B206,GBR,USA,Harbor Bank,Atlantic Bank,USD,2716.26,Trade Finance,Retail,Family Support,Low
+TXN001275,2025-06-13,CUST_A106,RCV_B205,USA,RUS,Mercury Trust,Mercury Trust,USD,28238.13,Wire,SME,Capital Goods,Medium
+TXN001276,2025-06-13,CUST_A102,RCV_B201,GBR,USA,Continental Finance,Continental Finance,USD,16210.39,Remittance,SME,Invoice Payment,Low
+TXN001277,2025-06-14,CUST_A105,RCV_B202,GBR,USA,Mercury Trust,Continental Finance,USD,336343.55,Trade Finance,Corporate,Intercompany Transfer,Medium
+TXN001278,2025-06-14,CUST_A103,RCV_B204,GBR,USA,Mercury Trust,Harbor Bank,USD,215097.49,Trade Finance,NBFI,Capital Goods,High
+TXN001279,2025-06-14,CUST_A101,RCV_B202,USA,ZAF,Continental Finance,Atlantic Bank,USD,101828.92,ACH,Corporate,Family Support,Medium
+TXN001280,2025-06-14,CUST_A106,RCV_B201,USA,RUS,Harbor Bank,Harbor Bank,USD,18799.94,Trade Finance,SME,Family Support,Medium
+TXN001281,2025-06-14,CUST_A104,RCV_B204,GBR,USA,Continental Finance,Mercury Trust,USD,3829.84,Remittance,Retail,Family Support,Low
+TXN001282,2025-06-15,CUST_A104,RCV_B202,USA,GBR,Atlantic Bank,Atlantic Bank,USD,1366.09,Trade Finance,Retail,Services,Low
+TXN001283,2025-06-15,CUST_A102,RCV_B204,USA,ZAF,Harbor Bank,Mercury Trust,USD,5938.02,Trade Finance,SME,Capital Goods,Low
+TXN001284,2025-06-15,CUST_A106,RCV_B203,USA,GBR,Harbor Bank,Continental Finance,USD,29662.66,Wire,SME,Family Support,Medium
+TXN001285,2025-06-15,CUST_A101,RCV_B203,USA,ZAF,Continental Finance,Mercury Trust,USD,158153.27,Remittance,Corporate,Invoice Payment,Medium
+TXN001286,2025-06-15,CUST_A105,RCV_B201,USA,GBR,Harbor Bank,Atlantic Bank,USD,72205.72,Wire,Corporate,Intercompany Transfer,Medium
+TXN001287,2025-06-15,CUST_A102,RCV_B206,USA,ZAF,Harbor Bank,Mercury Trust,USD,20424.89,Remittance,SME,Intercompany Transfer,Low
+TXN001288,2025-06-15,CUST_A102,RCV_B202,USA,ZAF,Atlantic Bank,Harbor Bank,USD,16616.49,Trade Finance,SME,Invoice Payment,Low
+TXN001289,2025-06-16,CUST_A105,RCV_B205,USA,ARE,Atlantic Bank,Atlantic Bank,USD,86782.4,ACH,Corporate,Capital Goods,Medium
+TXN001290,2025-06-16,CUST_A102,RCV_B201,USA,ZAF,Mercury Trust,Mercury Trust,USD,59578.74,Remittance,SME,Invoice Payment,Low
+TXN001291,2025-06-16,CUST_A106,RCV_B206,USA,GBR,Harbor Bank,Continental Finance,USD,7022.09,ACH,SME,Services,Medium
+TXN001292,2025-06-16,CUST_A101,RCV_B205,USA,GBR,Harbor Bank,Harbor Bank,USD,71235.93,Trade Finance,Corporate,Family Support,Medium
+TXN001293,2025-06-16,CUST_A104,RCV_B203,USA,GBR,Harbor Bank,Atlantic Bank,USD,2540.48,ACH,Retail,Family Support,Low
+TXN001294,2025-06-16,CUST_A103,RCV_B204,USA,DEU,Mercury Trust,Mercury Trust,USD,129230.5,ACH,NBFI,Family Support,High
+TXN001295,2025-06-16,CUST_A104,RCV_B203,USA,RUS,Harbor Bank,Harbor Bank,USD,2156.8,ACH,Retail,Invoice Payment,Low
+TXN001296,2025-06-16,CUST_A101,RCV_B205,USA,RUS,Mercury Trust,Mercury Trust,USD,63636.03,Remittance,Corporate,Intercompany Transfer,Medium
+TXN001297,2025-06-16,CUST_A102,RCV_B201,USA,ZAF,Mercury Trust,Atlantic Bank,USD,16444.39,ACH,SME,Family Support,Low
+TXN001298,2025-06-16,CUST_A103,RCV_B204,USA,DEU,Atlantic Bank,Atlantic Bank,USD,114778.5,Remittance,NBFI,Invoice Payment,High
+TXN001299,2025-06-16,CUST_A104,RCV_B206,USA,ARE,Continental Finance,Harbor Bank,USD,2553.75,ACH,Retail,Intercompany Transfer,Low
+TXN001300,2025-06-16,CUST_A105,RCV_B202,USA,GBR,Mercury Trust,Continental Finance,USD,72053.15,Remittance,Corporate,Capital Goods,Medium
+TXN001301,2025-06-17,CUST_A101,RCV_B206,USA,RUS,Continental Finance,Mercury Trust,USD,159572.9,Remittance,Corporate,Family Support,Medium
+TXN001302,2025-06-17,CUST_A101,RCV_B201,USA,GBR,Mercury Trust,Mercury Trust,USD,126488.3,ACH,Corporate,Services,Medium
+TXN001303,2025-06-17,CUST_A104,RCV_B203,GBR,USA,Mercury Trust,Atlantic Bank,USD,1498.91,Wire,Retail,Capital Goods,Low
+TXN001304,2025-06-17,CUST_A101,RCV_B202,USA,ARE,Harbor Bank,Atlantic Bank,USD,54636.89,ACH,Corporate,Invoice Payment,Medium
+TXN001305,2025-06-17,CUST_A103,RCV_B202,USA,RUS,Mercury Trust,Atlantic Bank,USD,95485.15,Wire,NBFI,Services,High
+TXN001306,2025-06-17,CUST_A105,RCV_B206,USA,RUS,Mercury Trust,Mercury Trust,USD,65218.44,Remittance,Corporate,Services,Medium
+TXN001307,2025-06-17,CUST_A104,RCV_B206,USA,DEU,Harbor Bank,Mercury Trust,USD,2860.66,ACH,Retail,Invoice Payment,Low
+TXN001308,2025-06-17,CUST_A102,RCV_B205,GBR,USA,Harbor Bank,Atlantic Bank,USD,9729.24,Wire,SME,Intercompany Transfer,Low
+TXN001309,2025-06-17,CUST_A105,RCV_B204,USA,RUS,Continental Finance,Harbor Bank,USD,132562.54,Trade Finance,Corporate,Services,Medium
+TXN001310,2025-06-18,CUST_A105,RCV_B201,USA,GBR,Atlantic Bank,Mercury Trust,USD,47647.35,Remittance,Corporate,Capital Goods,Medium
+TXN001311,2025-06-18,CUST_A101,RCV_B205,USA,ZAF,Atlantic Bank,Continental Finance,USD,38868.54,Wire,Corporate,Services,Medium
+TXN001312,2025-06-18,CUST_A104,RCV_B206,USA,RUS,Continental Finance,Continental Finance,USD,1173.77,Remittance,Retail,Family Support,Low
+TXN001313,2025-06-18,CUST_A104,RCV_B201,USA,RUS,Atlantic Bank,Harbor Bank,USD,1690.19,Wire,Retail,Capital Goods,Low
+TXN001314,2025-06-18,CUST_A103,RCV_B201,USA,DEU,Mercury Trust,Harbor Bank,USD,67681.32,Remittance,NBFI,Intercompany Transfer,High
+TXN001315,2025-06-18,CUST_A106,RCV_B205,USA,ARE,Atlantic Bank,Continental Finance,USD,20355.24,Remittance,SME,Family Support,Medium
+TXN001316,2025-06-18,CUST_A104,RCV_B203,USA,ZAF,Mercury Trust,Mercury Trust,USD,1435.44,Remittance,Retail,Services,Low
+TXN001317,2025-06-19,CUST_A104,RCV_B206,GBR,USA,Harbor Bank,Continental Finance,USD,2047.6,Wire,Retail,Invoice Payment,Low
+TXN001318,2025-06-19,CUST_A102,RCV_B206,USA,ARE,Mercury Trust,Atlantic Bank,USD,34986.72,Trade Finance,SME,Intercompany Transfer,Low
+TXN001319,2025-06-19,CUST_A103,RCV_B203,USA,ARE,Mercury Trust,Mercury Trust,USD,107902.13,Remittance,NBFI,Invoice Payment,High
+TXN001320,2025-06-19,CUST_A103,RCV_B203,USA,DEU,Mercury Trust,Harbor Bank,USD,106036.73,Remittance,NBFI,Capital Goods,High
+TXN001321,2025-06-19,CUST_A102,RCV_B206,USA,GBR,Continental Finance,Mercury Trust,USD,16414.82,ACH,SME,Invoice Payment,Low
+TXN001322,2025-06-19,CUST_A105,RCV_B203,USA,DEU,Mercury Trust,Atlantic Bank,USD,78054.71,Wire,Corporate,Invoice Payment,Medium
+TXN001323,2025-06-19,CUST_A102,RCV_B206,USA,ZAF,Harbor Bank,Atlantic Bank,USD,16238.87,Wire,SME,Invoice Payment,Low
+TXN001324,2025-06-19,CUST_A106,RCV_B205,USA,ARE,Continental Finance,Continental Finance,USD,36748.93,Remittance,SME,Family Support,Medium
+TXN001325,2025-06-19,CUST_A103,RCV_B201,USA,GBR,Continental Finance,Continental Finance,USD,61504.01,Wire,NBFI,Services,High
+TXN001326,2025-06-19,CUST_A103,RCV_B206,GBR,USA,Mercury Trust,Harbor Bank,USD,29357.19,Remittance,NBFI,Intercompany Transfer,High
+TXN001327,2025-06-19,CUST_A105,RCV_B204,USA,GBR,Continental Finance,Continental Finance,USD,171618.39,Remittance,Corporate,Services,Medium
+TXN001328,2025-06-20,CUST_A101,RCV_B204,USA,ZAF,Harbor Bank,Atlantic Bank,USD,45577.04,ACH,Corporate,Invoice Payment,Medium
+TXN001329,2025-06-20,CUST_A101,RCV_B202,GBR,USA,Harbor Bank,Continental Finance,USD,71799.75,ACH,Corporate,Intercompany Transfer,Medium
+TXN001330,2025-06-20,CUST_A102,RCV_B205,USA,GBR,Atlantic Bank,Mercury Trust,USD,30440.43,Remittance,SME,Invoice Payment,Low
+TXN001331,2025-06-20,CUST_A102,RCV_B203,USA,ARE,Harbor Bank,Mercury Trust,USD,14159.4,Trade Finance,SME,Invoice Payment,Low
+TXN001332,2025-06-20,CUST_A101,RCV_B202,USA,DEU,Continental Finance,Mercury Trust,USD,45294.39,Wire,Corporate,Family Support,Medium
+TXN001333,2025-06-20,CUST_A102,RCV_B206,USA,ZAF,Continental Finance,Mercury Trust,USD,11001.17,Remittance,SME,Services,Low
+TXN001334,2025-06-20,CUST_A101,RCV_B202,USA,GBR,Mercury Trust,Harbor Bank,USD,78219.79,Remittance,Corporate,Family Support,Medium
+TXN001335,2025-06-21,CUST_A101,RCV_B203,USA,GBR,Mercury Trust,Harbor Bank,USD,77002.83,Wire,Corporate,Family Support,Medium
+TXN001336,2025-06-21,CUST_A104,RCV_B201,USA,RUS,Atlantic Bank,Continental Finance,USD,3643.57,Wire,Retail,Intercompany Transfer,Low
+TXN001337,2025-06-21,CUST_A104,RCV_B201,USA,DEU,Mercury Trust,Harbor Bank,USD,1902.72,Trade Finance,Retail,Capital Goods,Low
+TXN001338,2025-06-21,CUST_A106,RCV_B204,USA,GBR,Harbor Bank,Mercury Trust,USD,18506.65,Wire,SME,Services,Medium
+TXN001339,2025-06-21,CUST_A105,RCV_B206,GBR,USA,Atlantic Bank,Mercury Trust,USD,131789.27,Remittance,Corporate,Intercompany Transfer,Medium
+TXN001340,2025-06-21,CUST_A103,RCV_B201,USA,GBR,Continental Finance,Continental Finance,USD,281015.88,ACH,NBFI,Capital Goods,High
+TXN001341,2025-06-21,CUST_A101,RCV_B203,GBR,USA,Harbor Bank,Atlantic Bank,USD,28275.06,Trade Finance,Corporate,Services,Medium
+TXN001342,2025-06-21,CUST_A104,RCV_B206,USA,RUS,Continental Finance,Continental Finance,USD,3122.17,Remittance,Retail,Capital Goods,Low
+TXN001343,2025-06-21,CUST_A103,RCV_B204,USA,GBR,Harbor Bank,Atlantic Bank,USD,58010.71,Remittance,NBFI,Capital Goods,High
+TXN001344,2025-06-21,CUST_A104,RCV_B203,USA,RUS,Continental Finance,Harbor Bank,USD,998.09,Wire,Retail,Invoice Payment,Low
+TXN001345,2025-06-22,CUST_A105,RCV_B201,USA,RUS,Mercury Trust,Atlantic Bank,USD,152549.01,Trade Finance,Corporate,Capital Goods,Medium
+TXN001346,2025-06-22,CUST_A106,RCV_B206,USA,GBR,Mercury Trust,Continental Finance,USD,8130.06,Remittance,SME,Family Support,Medium
+TXN001347,2025-06-22,CUST_A106,RCV_B206,GBR,USA,Continental Finance,Continental Finance,USD,27981.16,Wire,SME,Family Support,Medium
+TXN001348,2025-06-22,CUST_A103,RCV_B205,USA,RUS,Mercury Trust,Mercury Trust,USD,182605.03,Wire,NBFI,Invoice Payment,High
+TXN001349,2025-06-22,CUST_A105,RCV_B206,USA,GBR,Mercury Trust,Continental Finance,USD,58309.54,Remittance,Corporate,Invoice Payment,Medium
+TXN001350,2025-06-22,CUST_A102,RCV_B203,USA,GBR,Harbor Bank,Mercury Trust,USD,13779.95,Trade Finance,SME,Family Support,Low
+TXN001351,2025-06-22,CUST_A105,RCV_B205,USA,RUS,Atlantic Bank,Harbor Bank,USD,102196.11,Wire,Corporate,Capital Goods,Medium
+TXN001352,2025-06-22,CUST_A102,RCV_B202,USA,ARE,Harbor Bank,Harbor Bank,USD,23148.16,Wire,SME,Invoice Payment,Low
+TXN001353,2025-06-22,CUST_A103,RCV_B204,USA,ARE,Mercury Trust,Harbor Bank,USD,235311.41,Remittance,NBFI,Family Support,High
+TXN001354,2025-06-22,CUST_A106,RCV_B203,USA,GBR,Harbor Bank,Harbor Bank,USD,4065.24,ACH,SME,Services,Medium
+TXN001355,2025-06-22,CUST_A103,RCV_B204,GBR,USA,Continental Finance,Mercury Trust,USD,22839.28,Wire,NBFI,Family Support,High
+TXN001356,2025-06-22,CUST_A106,RCV_B204,USA,ZAF,Atlantic Bank,Continental Finance,USD,25466.04,ACH,SME,Services,Medium
+TXN001357,2025-06-22,CUST_A104,RCV_B206,USA,DEU,Harbor Bank,Mercury Trust,USD,999.28,Trade Finance,Retail,Family Support,Low
+TXN001358,2025-06-22,CUST_A105,RCV_B204,USA,ZAF,Harbor Bank,Atlantic Bank,USD,68938.72,Remittance,Corporate,Intercompany Transfer,Medium
+TXN001359,2025-06-23,CUST_A106,RCV_B202,USA,ZAF,Atlantic Bank,Mercury Trust,USD,9654.74,ACH,SME,Family Support,Medium
+TXN001360,2025-06-23,CUST_A105,RCV_B202,USA,GBR,Harbor Bank,Atlantic Bank,USD,41039.91,Wire,Corporate,Capital Goods,Medium
+TXN001361,2025-06-23,CUST_A106,RCV_B204,USA,RUS,Continental Finance,Harbor Bank,USD,23177.27,Remittance,SME,Invoice Payment,Medium
+TXN001362,2025-06-23,CUST_A102,RCV_B204,USA,ZAF,Mercury Trust,Continental Finance,USD,3514.85,Wire,SME,Capital Goods,Low
+TXN001363,2025-06-23,CUST_A103,RCV_B205,USA,ARE,Mercury Trust,Atlantic Bank,USD,272282.19,ACH,NBFI,Family Support,High
+TXN001364,2025-06-23,CUST_A101,RCV_B201,GBR,USA,Harbor Bank,Harbor Bank,USD,205888.29,ACH,Corporate,Capital Goods,Medium
+TXN001365,2025-06-24,CUST_A103,RCV_B202,USA,RUS,Continental Finance,Harbor Bank,USD,96521.34,Remittance,NBFI,Intercompany Transfer,High
+TXN001366,2025-06-24,CUST_A103,RCV_B201,USA,ZAF,Atlantic Bank,Harbor Bank,USD,288117.29,Remittance,NBFI,Services,High
+TXN001367,2025-06-24,CUST_A104,RCV_B205,USA,GBR,Mercury Trust,Atlantic Bank,USD,2327.46,ACH,Retail,Capital Goods,Low
+TXN001368,2025-06-24,CUST_A104,RCV_B205,USA,ZAF,Continental Finance,Harbor Bank,USD,3026.36,Wire,Retail,Family Support,Low
+TXN001369,2025-06-24,CUST_A105,RCV_B204,USA,GBR,Continental Finance,Atlantic Bank,USD,99211.02,ACH,Corporate,Capital Goods,Medium
+TXN001370,2025-06-24,CUST_A105,RCV_B203,USA,RUS,Atlantic Bank,Harbor Bank,USD,65851.88,Remittance,Corporate,Intercompany Transfer,Medium
+TXN001371,2025-06-25,CUST_A106,RCV_B203,USA,ARE,Harbor Bank,Continental Finance,USD,14883.84,ACH,SME,Capital Goods,Medium
+TXN001372,2025-06-25,CUST_A104,RCV_B202,USA,GBR,Atlantic Bank,Mercury Trust,USD,4189.45,ACH,Retail,Intercompany Transfer,Low
+TXN001373,2025-06-25,CUST_A106,RCV_B205,USA,ZAF,Atlantic Bank,Harbor Bank,USD,5614.82,Wire,SME,Family Support,Medium
+TXN001374,2025-06-25,CUST_A106,RCV_B202,USA,ARE,Mercury Trust,Atlantic Bank,USD,8785.98,ACH,SME,Intercompany Transfer,Medium
+TXN001375,2025-06-25,CUST_A104,RCV_B202,GBR,USA,Continental Finance,Atlantic Bank,USD,2134.6,ACH,Retail,Capital Goods,Low
+TXN001376,2025-06-26,CUST_A104,RCV_B206,GBR,USA,Atlantic Bank,Atlantic Bank,USD,1053.41,Trade Finance,Retail,Intercompany Transfer,Low
+TXN001377,2025-06-26,CUST_A101,RCV_B203,USA,GBR,Mercury Trust,Continental Finance,USD,153087.21,Trade Finance,Corporate,Intercompany Transfer,Medium
+TXN001378,2025-06-26,CUST_A103,RCV_B205,USA,ZAF,Continental Finance,Continental Finance,USD,248941.46,Remittance,NBFI,Family Support,High
+TXN001379,2025-06-26,CUST_A105,RCV_B203,USA,DEU,Harbor Bank,Harbor Bank,USD,69089.48,Wire,Corporate,Intercompany Transfer,Medium
+TXN001380,2025-06-26,CUST_A104,RCV_B205,USA,ARE,Harbor Bank,Continental Finance,USD,2004.96,Remittance,Retail,Services,Low
+TXN001381,2025-06-26,CUST_A101,RCV_B204,USA,ZAF,Continental Finance,Continental Finance,USD,140817.4,ACH,Corporate,Family Support,Medium
+TXN001382,2025-06-26,CUST_A104,RCV_B204,GBR,USA,Mercury Trust,Mercury Trust,USD,3391.21,Remittance,Retail,Intercompany Transfer,Low
+TXN001383,2025-06-26,CUST_A104,RCV_B202,USA,RUS,Harbor Bank,Mercury Trust,USD,2281.79,Trade Finance,Retail,Capital Goods,Low
+TXN001384,2025-06-26,CUST_A102,RCV_B201,USA,RUS,Mercury Trust,Atlantic Bank,USD,9535.46,ACH,SME,Family Support,Low
+TXN001385,2025-06-26,CUST_A103,RCV_B204,USA,ZAF,Mercury Trust,Mercury Trust,USD,111098.53,Remittance,NBFI,Services,High
+TXN001386,2025-06-27,CUST_A105,RCV_B201,GBR,USA,Mercury Trust,Atlantic Bank,USD,90826.55,Wire,Corporate,Family Support,Medium
+TXN001387,2025-06-27,CUST_A102,RCV_B204,USA,ARE,Harbor Bank,Harbor Bank,USD,11131.01,ACH,SME,Invoice Payment,Low
+TXN001388,2025-06-27,CUST_A102,RCV_B205,USA,ARE,Mercury Trust,Atlantic Bank,USD,24963.37,Remittance,SME,Intercompany Transfer,Low
+TXN001389,2025-06-27,CUST_A101,RCV_B205,USA,ARE,Continental Finance,Continental Finance,USD,57335.77,Wire,Corporate,Intercompany Transfer,Medium
+TXN001390,2025-06-27,CUST_A103,RCV_B201,USA,ARE,Mercury Trust,Atlantic Bank,USD,59269.34,Trade Finance,NBFI,Invoice Payment,High
+TXN001391,2025-06-27,CUST_A106,RCV_B204,USA,ARE,Continental Finance,Harbor Bank,USD,12808.99,Wire,SME,Intercompany Transfer,Medium
+TXN001392,2025-06-28,CUST_A102,RCV_B201,USA,DEU,Atlantic Bank,Atlantic Bank,USD,22558.49,Remittance,SME,Services,Low
+TXN001393,2025-06-28,CUST_A105,RCV_B202,USA,ZAF,Atlantic Bank,Mercury Trust,USD,60980.64,Remittance,Corporate,Invoice Payment,Medium
+TXN001394,2025-06-28,CUST_A104,RCV_B203,USA,RUS,Continental Finance,Atlantic Bank,USD,528.08,Trade Finance,Retail,Services,Low
+TXN001395,2025-06-28,CUST_A105,RCV_B204,USA,ZAF,Continental Finance,Harbor Bank,USD,42210.55,Trade Finance,Corporate,Intercompany Transfer,Medium
+TXN001396,2025-06-28,CUST_A102,RCV_B203,USA,ZAF,Harbor Bank,Harbor Bank,USD,26451.88,ACH,SME,Family Support,Low
+TXN001397,2025-06-28,CUST_A104,RCV_B206,USA,ZAF,Atlantic Bank,Harbor Bank,USD,4102.53,Trade Finance,Retail,Invoice Payment,Low
+TXN001398,2025-06-28,CUST_A104,RCV_B201,USA,ZAF,Atlantic Bank,Atlantic Bank,USD,974.81,Remittance,Retail,Capital Goods,Low
+TXN001399,2025-06-28,CUST_A103,RCV_B206,USA,RUS,Harbor Bank,Continental Finance,USD,292233.89,Trade Finance,NBFI,Capital Goods,High
+TXN001400,2025-06-29,CUST_A101,RCV_B202,USA,ARE,Atlantic Bank,Continental Finance,USD,57559.51,Trade Finance,Corporate,Invoice Payment,Medium
+TXN001401,2025-06-29,CUST_A105,RCV_B202,USA,DEU,Continental Finance,Atlantic Bank,USD,70616.3,Wire,Corporate,Family Support,Medium
+TXN001402,2025-06-29,CUST_A102,RCV_B201,USA,DEU,Harbor Bank,Atlantic Bank,USD,7883.21,Remittance,SME,Services,Low
+TXN001403,2025-06-29,CUST_A101,RCV_B205,USA,DEU,Continental Finance,Atlantic Bank,USD,26166.07,ACH,Corporate,Family Support,Medium
+TXN001404,2025-06-29,CUST_A106,RCV_B201,USA,ZAF,Mercury Trust,Harbor Bank,USD,20024.9,Trade Finance,SME,Family Support,Medium
+TXN001405,2025-06-29,CUST_A105,RCV_B204,USA,DEU,Harbor Bank,Continental Finance,USD,47362.71,Trade Finance,Corporate,Intercompany Transfer,Medium
+TXN001406,2025-06-29,CUST_A105,RCV_B203,USA,ZAF,Mercury Trust,Atlantic Bank,USD,78342.76,ACH,Corporate,Intercompany Transfer,Medium
+TXN001407,2025-06-29,CUST_A105,RCV_B201,USA,DEU,Mercury Trust,Harbor Bank,USD,157291.66,Remittance,Corporate,Capital Goods,Medium
+TXN001408,2025-06-29,CUST_A101,RCV_B201,USA,ARE,Continental Finance,Harbor Bank,USD,76051.3,Trade Finance,Corporate,Invoice Payment,Medium
+TXN001409,2025-06-29,CUST_A103,RCV_B201,USA,ZAF,Continental Finance,Mercury Trust,USD,145208.44,Remittance,NBFI,Family Support,High
